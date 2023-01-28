@@ -1,0 +1,1035 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script>var isDebug = false</script>
+    
+    
+
+
+<script>
+
+	/*
+	* ================================================================
+	* = LOG
+	* ================================================================
+	*/
+	
+	var logConsole = function(level, param1, param2, param3, param4, param5) {
+		var prefix = '[CDR] -';
+        if (param5 !== undefined){
+            console[level](prefix, param1, param2, param3, param4, param5);
+        }else if (param4 !== undefined){
+			console[level](prefix, param1, param2, param3, param4);
+		} else if (param3 !== undefined){
+            console[level](prefix, param1, param2, param3);
+        } else if (param2 !== undefined){
+            console[level](prefix, param1, param2);
+        } else {
+            console[level](prefix, param1);
+        }
+	}
+	
+	var logDebug = function(param1, param2, param3, param4, param5) {
+		logConsole('debug', param1, param2, param3, param4, param5);
+	}
+    
+    var logInfo = function(param1, param2, param3, param4, param5) {
+        logConsole('log', param1, param2, param3, param4, param5);
+    }
+    
+    var logWarn = function(param1, param2, param3, param4, param5) {
+        logConsole('warn', param1, param2, param3, param4, param5);
+    }
+    
+    var logError = function(param1, param2, param3, param4, param5) {
+        logConsole('error', param1, param2, param3, param4, param5);
+    }
+
+    /*
+    * ================================================================
+    * = COMMON
+    * ================================================================
+    */
+    
+    hasConsent = function(cname) {
+        var toFind = 'bureauveritas.cdr.consent.' + cname + "=true";
+        var decodedCookie = decodeURIComponent(document.cookie);
+        var hasConsent = decodedCookie.indexOf(toFind) != -1;
+        logDebug('consent to load ', cname, '=', hasConsent);
+        return hasConsent;
+    }
+    
+    // Function to load script dynamically
+    var loadScript = function(scriptUrl, isAsync, isDefer){
+        // Create script
+        var script = document.createElement('script');
+        script.src = scriptUrl;
+        script.async = isAsync === undefined ? true : isAsync;
+        script.defer = isDefer === undefined ? true : isDefer;
+        script.type = 'text/javascript';
+        // Insert in head
+        var head = document.getElementsByTagName('head').item(0);
+        head.appendChild(script);
+        logDebug('load script', scriptUrl, 'async=', script.async, 'defer=', script.defer);
+    }
+
+    /*
+	* ================================================================
+	* = MAPBOX
+	* ================================================================
+	*/
+    var mapBoxAccessToken = 'pk.eyJ1IjoiY29kZW5nbyIsImEiOiJjazVwN2V4bmwwdDJlM2ZuczBsdTF5ano0In0.TlLSJtfTzdJVo7YD9D2Kng';
+    
+    var youtubeUrl = 'https://www.youtube.com/watch?v=';
+    var movieAdvert = 'EzTPYsquBOQ';
+    var movieAdvertSmall = 'A0o3dvSQIbo';
+    var movieInstruction = 'kxMD-84GSog';
+    var movieYoutuber = 'VMB87VKcw5E';
+    var chatID = 'bureauveritas';
+    var chatEnabled = '1';
+
+	/*
+	* ================================================================
+	* = SERVICE WORKERS
+	* ================================================================
+	*/
+	
+	// If service worker can be used
+	if ('serviceWorker' in navigator) {
+	    var registerSw = function() {
+	        navigator.serviceWorker.register('/sw.min-6.9.6.js.gz');
+	    }
+	    window.addEventListener('load', registerSw);
+	}
+	logDebug('Service Worker enable');
+	
+	if (hasConsent('functionnality')) {
+	    loadScript('https://www.youtube.com/iframe_api', false, false);
+	}
+    
+    /*
+    * ================================================================
+    * = GDPR
+    * ================================================================
+    */
+    
+    hideShowPopin = function(popinId, show) {
+    	var display = 'none'; 
+        var opacity = 0; 
+    	if (show){
+    		display = 'block';
+    		opacity = 1;
+    	}
+    	document.getElementById(popinId).style.display = display;
+        document.getElementById(popinId).style.opacity = opacity;
+    }
+
+    // If has consent to use functionnality
+    if (!hasConsent('functionnality')) {
+    	chatEnabled = 0;
+    }
+
+    // If has consent to use tracking
+    var enableTracking = hasConsent('tracking');
+    
+    var loadRecaptchaScript = function(){
+    	if (enableTracking) {
+            logDebug('googlerecaptcha enabled');
+    	    loadScript('https://www.google.com/recaptcha/api.js', false, false);
+            return true;
+    	} else {
+            logDebug('googlerecaptcha disabled');
+            return false;
+    	}
+    }
+    
+    // Wait for Grecpatcha loading
+    var waitForGrecaptcha = function(callbackWhenLoaded, tries){
+    	setTimeout(function(){
+    		if (typeof grecaptcha != 'undefined' && typeof grecaptcha.render != 'undefined') {
+                logDebug('grecaptcha loaded');
+                callbackWhenLoaded();
+    		} else if (tries < 50){
+    			waitForGrecaptcha(callbackWhenLoaded, tries + 1);
+    		} else {
+                logWarn('grecaptcha has not been loaded');
+    		}
+    	}, 250);
+    }
+    
+    // Wait for Component loading
+    var waitForComponent = function(elementId, callbackWhenLoaded, tries){
+    	if (tries == 0) {
+    		logDebug('waitForComponent', elementId)
+    	}
+    	setTimeout(function(){
+    		var elt = document.getElementById(elementId);
+    		if (elt) {
+                logDebug('element found', elt);
+                callbackWhenLoaded();
+    		} else if (tries < 50){
+    			waitForComponent(elementId, callbackWhenLoaded, tries + 1);
+    		} else {
+                logWarn('element not found', elementId);
+    		}
+    	}, 250);
+    }
+    
+    // Function to register a recaptcha on an element
+    function registerRecaptcha(elementId, callback){
+    	logDebug('registerRecaptcha', elementId);
+        return grecaptcha.render(document.getElementById(elementId), {
+            'sitekey' : '6Lc21PkbAAAAAH5Zw-_733D7IgtujhUPh8BfIVZG',
+            'callback' : callback
+        });
+    }
+    
+    // If has consent to use social
+    if (hasConsent('social')) {
+        logDebug('facebook enabled');
+        var fbSdkURL = '//connect.facebook.net/en_US/sdk.js';
+        // See : https://developers.facebook.com/docs/javascript/quickstart/
+        window.fbAsyncInit = function() {
+        	FB.init({
+            			appId      : '748765411943482',
+                        autoLogAppEvents : true,
+                        xfbml            : true,
+                        version          : 'v3.2'
+					});
+			FB.AppEvents.logPageView();
+		};
+        (function(d, s, id){
+	        var js, fjs = d.getElementsByTagName(s)[0];
+	        if (d.getElementById(id)) {return;}
+	        js = d.createElement(s); js.id = id;
+	        js.src = fbSdkURL;
+	        fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    } else {
+        logDebug('facebook disabled');
+    }
+	    
+</script>
+
+
+<html lang="fr" xmlns:ng="https://angularjs.org" xmlns:og="https://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" id="ng-app" manifest="cdr.appcache"> 
+
+	<head>
+       
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+		<meta name="bv-health-check" content="OK" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+
+        <link rel="shortcut icon" href="/favicon.ico">
+        <link rel=canonical href="https://codengo.bureauveritas.fr/portal/public/site" />
+		<meta name="msapplication-TileColor" content="#eee">
+		<meta name="msapplication-TileImage" content="/favicon.ico">
+
+        
+        
+        <!-- OPEN GRAPH -->
+        <meta property="og:title" content="Code&#39;nGo! - Examen du code de la route - Bureau Veritas" />
+		<meta property="fb:app_id" content="748765411943482" />
+		<meta property="fb:admins" content="748765411943482" />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="https://codengo.bureauveritas.fr/portal" />
+		<meta property="og:image" content="https://codengo.bureauveritas.fr/portal/img/logo-codengo.jpg" />
+		<meta property="og:description" content="Passez l&#39;examen du code de la route près de chez vous pour 30€ ! Entraînez-vous au code et inscrivez-vous en ligne pour passer l&#39;épreuve." />
+		<meta property="og:locale" content="fr_FR" />
+		<meta property="og:site_name" content="Code'nGo!" />
+
+        <!-- TITLE -->
+        
+        
+		  <title>Liste des sites</title>
+        
+
+        <!-- DESCRIPTION -->
+        
+        
+          <meta name="description" content="Consultez la liste des sites dexamen de Code&#39;nGO!." />
+        
+
+		
+			<meta name="google-site-verification" content="X7gZU-feM9tk2ZSQI2XMs5_zVT7EBPYkYddc5kAhb54" />
+		
+
+        
+            <!-- Google Tag Manager -->
+            <script>
+	            if (enableTracking) {
+	            	logDebug('googletagmanager enabled');
+	                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	                })(window,document,'script','dataLayer','GTM-KV4XD5G');
+	            } else {
+	            	logDebug('googletagmanager disabled');
+	            }
+            </script>
+            <!-- End Google Tag Manager -->
+        
+
+        
+        <meta name="_csrf_parameter" content="_csrf" /><meta name="_csrf_header" content="X-CSRF-TOKEN" /><meta name="_csrf" content="65be2106-d5c6-49b7-8c32-bc2c80cf50d3" />
+
+        <link href="https://fonts.googleapis.com/css?family=Raleway:400,500,700|Caveat+Brush|Gloria+Hallelujah" rel="stylesheet">
+        <link type="text/css" rel="stylesheet" href="/css/cdr-lib.min-6.9.6.css.gz" />
+        <link type="text/css" rel="stylesheet" href="/css/cdr-application.min-6.9.6.css.gz" />
+
+        <script src="/js/cdr-lib.min-6.9.6.js.gz"></script>
+
+	</head>
+	<body ng-app="cdr" ng-controller="mainCtrl" ng-init="initConfig('/')">
+
+        
+            <!-- Google Tag Manager (noscript) -->
+            <noscript>
+                <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KV4XD5G" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+            </noscript>
+            <!-- End Google Tag Manager (noscript) -->
+        
+
+	    <div id="alertBlock"></div>
+
+		
+
+
+
+
+
+
+
+
+<script>
+    var startCheckCart = false;
+
+
+</script>
+<header id="header">
+    <base href="/">
+    <div class="maxsize">
+        <div class="col3">
+        	<span><br /></span>Un service de <a href="https://www.bureauveritas.fr/" target="_blank"><img src="/img/logo-bureau-veritas.png" alt="Logo Bureau Veritas"></a> 
+        </div>
+        <div class="col6">
+            <a href="/" class="logo" title="Codengo">
+                <img class="img-feu" src="/img/feu-anime.gif" alt="Logo Codengo" height="131" width="173">
+                <img class="img-logo" src="/img/logo-codengo.png" alt="Logo Codengo">
+            </a>
+        </div>
+        <div class="col3 nottablet right header_right">
+            <span class="notmobil"><br /></span>En partenariat avec <a href="https://www.afpa.fr/" target="_blank"><img src="/img/afpa.png" alt="AFPA" width="80"></a> 
+        </div>
+        <div class="clear"></div>
+    </div>
+
+    <nav id="navigation">
+        <bv-message></bv-message>
+        <div class="maxsize">
+            <div id="rmm" class="rmm-closed">
+                <div id="rmm-button"><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span></div>
+                <ul id="rmm-menu">
+                    
+                    
+                        <li><a href="/public/session" title="Je m&#39;inscris à l&#39;examen">
+                                Je m&#39;inscris à l&#39;examen
+                            </a>
+                        </li>
+                        <li><a href="/public/passerlecode" title="Passer le code mode d&#39;emploi">
+                                Passer le code mode d&#39;emploi
+                            </a>
+                        </li>
+                        <li><a href="/public/examen" title="L&#39;examen comme si vous y étiez ">
+                                L&#39;examen comme si vous y étiez 
+                            </a>
+                        </li>
+                        <li><a href="/espace/candidat/accueil?tab=ProchainExamen&amp;source=menu" title="Gérer ma réservation">
+                                Gérer ma réservation
+                            </a>
+                        </li>
+                    
+                    <li><a href="/public/pourquoi" title="Pourquoi choisir Code&#39;nGO! ?">
+                            Pourquoi choisir Code&#39;nGO! ?
+                        </a>
+                    </li>
+                    <li><a href="/public/site" title="Liste des sites">
+                            Liste des sites
+                        </a>
+                    </li>
+                    <li><a href="/contenu/actualite" title="Actualités">
+                            Actualités
+                        </a>
+                    </li>
+                    <li><a href="/contenu/faq" title="FAQ">
+                            FAQ
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <a href="/public/contact" class="contact" title="Contact ">Contact </a>
+            
+                
+                    <a href="/espace/candidat/connexion" class="particuliers" title="Espace particuliers">Espace particuliers</a>
+                
+                
+            
+
+            
+                
+                    <a href="/espace/pro/connexion" class="auto-ecoles" title="Espace auto-écoles">Espace auto-écoles</a>
+                
+                
+            
+
+            
+            	
+            		<a href="https://codengo-bateau.bureauveritas.fr" class="code-route" title="Permis Bateau" target="_blank">
+            		    Permis Bateau
+            		</a>
+				
+			
+
+            <div class="clear"></div>
+        </div>
+    </nav>
+    <div class="clear"></div>
+</header>
+
+
+		
+
+<div ng-controller="siteListCtrl as ctrl" ng-init="ctrl.initController()">
+	<section class="ariane">
+		<breadcrumb model="ctrl.breadcrumb"></breadcrumb>
+	</section>
+	<br>
+	<section class="siteList" ng-cloak>
+        <div class="col4">
+            <select name="department" class="form-control"
+                                    ng-options="area.number as (area.number+' '+area.label) for area in ctrl.variables.areaList"
+                                    ng-model="ctrl.variables.areaNumber">
+            <option value="">Choisissez votre département</option>
+            </select>
+        </div>
+        <div class="col8"> {{ctrl.functions.nbSiteVisible()}} sites </div>
+        <div ng-show="ctrl.variables.siteList.length > 0" class="col12">
+		    <table class="col12">
+		        <tr ng-repeat="dptSite in ctrl.variables.siteList | siteListFilter: ctrl.variables.areaNumber | orderBy : 'department'">
+		            <td>
+						<p>{{ctrl.functions.getArea(dptSite.department)}}</p>
+						<hr>
+						<ul>
+							<li ng-repeat="siteItem in dptSite.siteLiteDtoList" class="col3 site">
+								<b>{{siteItem.name }}</b><br>
+								{{siteItem.address}}<br>
+								{{siteItem.zipCode}} {{siteItem.city}}<br>
+								<a href="" ng-click="ctrl.functions.openSession(siteItem)">géolocaliser le site</a>
+							</li>
+						</ul>
+		            </td>
+		        </tr>
+		    </table>
+		</div>
+		<div ng-show="ctrl.variables.siteList.length <= 0" class="col12">
+		    <div class="col-xs-12 text-center">
+		        Aucun résultat
+		    </div>
+		</div>
+	</section>
+</div>
+        
+        <div class="overlay-container" ng-show="hasOverlay()">
+            <div class="overlay-backdrop"></div>
+            
+            <!-- this div is hidden for ie8 -->
+            <div class="overlay-sign"><i class="fa fa-pulse fa-4x" ng-class="{'fa-spinner' : hasOverlay()}"></i></div>
+            
+            <!--[if IE 8]>
+                <div class="overlay-sign-ie8">Chargement...</div>
+            <![endif]-->
+        </div>
+        <div style="clear:both"/></div>
+        
+        
+
+
+
+
+<footer ng-controller="footerCtrl as ctrl" ng-init="ctrl.initController()">
+    <div class="maxsize">
+        <div class="col4">
+            <h2>Plan du site</h2>
+            <ul class="fleche">
+                
+                    <li><a href="/public/session" title="Je m&#39;inscris à l&#39;examen">Je m&#39;inscris à l&#39;examen</a></li>
+                
+                <li><a href="/public/passerlecode" title="Passer le code mode d&#39;emploi">Passer le code mode d&#39;emploi</a></li>
+                <li><a href="/public/examen" title="L&#39;examen comme si vous y étiez ">L&#39;examen comme si vous y étiez </a></li>
+                <li><a href="/espace/candidat/accueil?tab=ProchainExamen&amp;source=menu" title="Gérer ma réservation">Gérer ma réservation</a></li>
+                <li><a href="/public/pourquoi" title="Pourquoi choisir Code&#39;nGO! ?">Pourquoi choisir Code&#39;nGO! ?</a></li>
+                <li><a href="/contenu/actualite" title="Actualités">Actualités</a></li>
+                <li><a href="/contenu/faq" title="FAQ">FAQ</a></li>
+                <li><a href="/contenu/lexique" title="Lexique">Lexique</a></li>
+            </ul>
+        </div>
+        <div class="col4">
+            <h2>&nbsp;</h2>
+            <ul class="bold">
+                <li><a href="/public/contact" title="Contact">Contact</a></li>
+                <li><a href="/public/referentiel/mentionslegales" title="Mentions légales">Mentions légales</a></li>
+                <li><a href="/public/referentiel/cgv.pdf" target="_blank" title="Conditions générales de vente">Conditions générales de vente</a></li>
+                <li><a href="/public/site" title="Liste des sites">Liste des sites</a></li>
+                <li><a href="/public/referentiel/reglementation.pdf" target="_blank" title="Règlement de l&#39;examen">Règlement de l&#39;examen</a></li>
+                <li><a href="/public/referentiel/politique/cookies" title="Politique de Cookies et Gestion de mes cookies">Politique de Cookies et Gestion de mes cookies</a></li>
+                <li><a href="https://personaldataprotection.bureauveritas.com/privacypolicy" target="_blank" title="Politique de confidentialité">Politique de confidentialité</a></li>
+                <li><a href="https://personaldataprotection.bureauveritas.com/" target="_blank" title="Portail de requête RGPD">Portail de requête RGPD</a></li>
+                <li><a href="https://codengo.bureauveritas.fr/api/doc/" title="API Partenaire">API Partenaire</a></li>
+                
+            </ul>
+        </div>
+        <div class="col4">
+            <h2><a href="javascript:">Suivez-nous sur les réseaux sociaux</a>
+                <br>
+                <div class="col12">
+                    <div class="body">
+	                    <a href="https://www.facebook.com/Codengo-1095906363851717/" class="col2 socialNetwork" target="_blank"><img src="/img/facebook.svg"/></a>
+	                    <a href="https://www.linkedin.com/company/code'ngo" class="col2 socialNetwork" target="_blank"><img src="/img/linkedin.svg"/></a>
+	                    <a href="https://www.snapchat.com/add/codengo" class="col2 socialNetwork" target="_blank"><img src="/img/snapchat.svg"/></a>
+                    </div>
+                </div>
+                <br>
+            </h2>
+
+            <div class="space">
+                <div class="contactFooter">
+                    <i class="col1 phone"></i>
+                    <center class="col9">
+                        L'équipe <label>Code'nGO!</label> est à votre écoute<br>
+                        Du Lundi au Samedi :<br>
+                        9h30-12h30 / 13h30-17h<br>
+                        
+                        
+                            <label>01 55 24 70 07</label>
+                        
+                    </center>
+                </div>
+            </div>
+            <a href="https://www.bureauveritas.fr/" target="_blank"><img src="/img/logo-codengo-small.png" > un service de <img src="/img/logo-bureau-veritas-couleur.png" ></a>
+        </div>
+        <div class="clear"></div>
+    </div>
+</footer>
+<!-- ReadMore PopIn -->
+
+<a href="javascript:scrollTo(0,300);" id="btn_up"></a>
+
+
+
+
+		
+
+
+<script type="text/javascript">
+    var i18n = {};
+    
+    i18n.url = '/';
+    i18n.urls = {
+        content: {
+            actuality: '/contenu/actualite',
+            faq: '/contenu/faq',
+            lexicon: '/contenu/lexique'
+        },
+        public: {
+            exam: '/public/examen',
+            howto: '/public/passerlecode',
+            session: '/public/session'
+        }
+    };
+    
+    i18n.information = {
+        operation: {
+            failure: 'L&#39;opération a échouée.',
+            success: 'L&#39;opération a été effectuée.'
+        }
+    };
+    
+    i18n.messages = {};
+    i18n.messages.global = {
+        serviceUnavailable: 'Service indisponible'
+    };
+
+    i18n.commons = {
+        header: {
+            menu: {
+                home: 'header.menu.home',
+                manageUser: 'header.menu.manage.user',
+                manageSite: 'header.menu.manage.site',
+                manageSession: 'header.menu.manage.session',
+                manageAccount:'header.menu.manage.account'
+            }
+        },
+        table: {
+            show: 'Afficher :',
+            showing: 'Affichage de {0} à {1} de {2} résultats',
+            first: 'Début',
+            previous: 'Précédent',
+            next: 'Suivant',
+            last: 'Fin',
+            page: 'Page',
+            pageof: 'de'
+        },
+        form: {
+            norecord: 'Aucun résultat'
+        },
+        action: {
+            close: 'Fermer'
+        },
+        choice: {
+            no: 'NON',
+            yes: 'OUI'
+        },
+        error: {
+            mandatory : 'Merci de renseigner les champs requis',
+            syntax : 'Merci de corriger les champs invalides'
+        },
+        message: {
+            send: {
+                success: 'Votre message a bien été envoyé.'
+            }
+        },
+        popup: {
+            confirmTitle: 'Confirmation ?',
+            confirmOk: 'Ok',
+            confirmCancel: 'Annuler',
+            exitpageWithoutSaving: 'Attention! Vous essayez de quitter une page Web sans enregistrer. Toutes les données seront perdues. Voulez-vous continuer?'
+        },
+        gender: {
+            female: 'Mme',
+            male: 'Mr'
+        }
+    };
+
+    i18n.directive = {
+        mapSearch:{
+            title:{
+                home:'Passer mon code où je veux',
+                other:'Je m&#39;inscris'
+            }
+        }
+    };
+    
+    i18n.facebook = {
+            share: {
+                result: {
+                       description: 'Super ! J&#39;ai obtenu mon Code de la route avec Code&#39;nGO!',
+                       caption: 'Un service de Bureau Veritas'
+                },
+                text: 'Partager sur Facebook'
+            }
+    };
+
+    i18n.modal = {};
+    i18n.modal.home = {
+        popupNews: 'Ok',
+        checkboxLabel: 'Ne plus afficher'
+    };
+    i18n.modal.manageUser = {
+        title: 'manage.user.modal.ldap.title',
+        list: {
+            search: 'manage.user.list.search',
+            column: {
+                status: 'manage.user.list.table.column.status',
+                login: 'manage.user.list.table.column.login',
+                lastname: 'manage.user.list.table.column.lastname',
+                firstname: 'manage.user.list.table.column.firstname',
+                mail: 'manage.user.list.table.column.mail',
+                profile: 'manage.user.list.table.column.profile'
+            }
+        }
+    };
+    i18n.modal.sessionDetail = {
+        title: 'Détail de l&#39;examen',
+        site: 'Site',
+        result: 'Résultat',
+        received: 'FAVORABLE',
+        notReceived: 'DÉFAVORABLE',
+        invalid: 'CANDIDAT INVALIDE',
+        notAvailable: 'Non disponible',
+        table: {
+            title: 'Les thématiques sur lesquelles vous avez fait des erreurs sont les suivantes',
+            errorHeader: 'Nombre d&#39;erreurs parmi les 40 questions',
+            themeHeader: 'Thématiques concernées',
+            theme: {
+                l: 'Dispositions légales en matière de circulation routière',
+                c: 'Le conducteur',
+                r: 'La route',
+                u: 'Les autres usagers',
+                d: 'Réglementation générale et divers',
+                a: 'Les premiers secours',
+                p:{
+                    car: 'Précautions nécessaires à prendre en quittant le véhicule',
+                    motorbike: 'Equipements de protection et autres éléments de sécurité des véhicules'
+                } ,
+                m: 'Éléments mécaniques liés à la sécurité',
+                s: 'Équipement de sécurité des véhicules',
+                e: 'Règles d&#39;utilisation du véhicule en relation avec le respect de l&#39;environnement'
+            }
+        }
+    };
+    
+    i18n.manageCandidateChangeSession={
+        modal : {
+            title : 'Sessions Programmées disponibles sur 8 semaines',
+            list : {
+                search : 'Chercher une session',
+                column : {
+                    id : 'Id',
+                    site : 'Site',
+                    room : 'Salle',
+                    scheduledOn : 'Programmée le',
+                    startsAt : 'A',
+                    endsAt : 'Jusqu&#39;à',
+                    seats : 'Places',
+                    registeredSeats : 'Nb candidats incrits',
+                    save : 'Action'
+                },
+                saveButton :'Remplacer'
+            },
+        },
+        popup : {
+            changeSessionQuestion : 'Vous allez déplacer {0} place réservée le {1} à {2} au {3} à {4} ?'
+        },
+        notification: {
+            sessionChangeSuccess: 'Remplacement effectué'
+        }
+    }
+
+    i18n.manageCandidate = {
+    	popup: {
+    		deletePersonalQuestion: 'Voulez-vous réellement supprimer votre compte personnel sur Code&#39;nGO!?',
+    	},
+    	notification: {
+    		account : {
+    			createSuccess : 'Compte créé',
+    			updateSuccess : 'Compte mis à jour',
+    			unregisterSuccess : 'Compte supprimé',
+    			invalidMail : 'Mail non identique'
+    		},
+    		participation : {
+    			paymentSuccess : 'Votre réservation est confirmée. Merci',
+    			paymentError : 'Le paiement a échoué. Merci de réessayer.',
+   				alreadyRegistered : 'Vous êtes déjà inscrit à cette session.',
+                replaceSessionSuccess : 'Votre inscription a bien été remplacée',
+                checkRegistrationNoValid : 'Impossible de réserver ce créneau !<br>Nous avons détecté une modification de vos identifiants (NEPH, Nom ou Date de naissance). Ces identifiants ne correspondent plus à ceux fournis lors de la création de votre compte personnel.<br>Merci de vérifier ces informations et de les modifier dans votre Espace personnel sous l’onglet MODIFICATION DES INFORMATIONS, puis de vous réinscrire à la session souhaitée.'
+    		}
+    	}		
+    };
+
+    i18n.manageDrivingSchool = {
+       	popup: {
+       		deleteProfessionalQuestion: 'Voulez-vous réellement supprimer votre compte professionnel sur Code&#39;nGO! ?',
+       	},
+        notification: {
+            account : {
+                createSuccess : 'Compte créé',
+                updateSuccess : 'Compte mis à jour',
+                unregisterSuccess : 'Compte supprimé',
+                importSuccess1: 'Import réalisé avec succès : ',
+                importSuccess2: 'Nombre d&#39;insertion : ',
+                importSuccess3: 'Nombre de mise à jour : '
+            },
+    		participation : {
+    			paymentSuccess : 'Vos réservations sont confirmées. Merci',
+    			paymentError : 'Le paiement a échoué. Merci de réessayer.',
+    			removeCandidateQuestion : 'Etes-vous sur de vouloir retirer ce candidat ?',
+    			removeCandidateSuccess : 'La participation du candidat est annulée.'
+    		}
+        }
+    };
+    
+    i18n.mail = {
+    	notification: {
+            sendSuccess : 'Email envoyé',
+        }
+    };
+
+    i18n.password = {
+        confirmation: {
+            failure: 'Le mot de passe de confirmation est différent du mot de passe initialement saisi. Merci de saisir un mot de passe valide.',
+            invalidPasswordRegex: 'Merci d&#39;utiliser un mot de passe avec : 8 caractères minimum comportant au moins 1 chiffre et 1 majuscule.'
+        }
+    };
+    
+    i18n.view = {
+        candidate: {
+            planning: 'Mon prochain examen et convocation',
+            profile: 'Modification des informations',
+            sessions: 'Historique des sessions',
+            payment: 'Réservation'
+        },
+        cart: 'Panier',
+        home: 'Accueil',
+        school: {
+        	unassignedseats: 'Rappel : il vous reste {0} place(s) non-assignée(s) sur vos réservations à venir.',
+            candidates: 'Mes candidats',
+            invoices: 'Mes factures',
+            planning: 'Mon planning',
+            profile: 'Modification des informations',
+            sites: 'Mes salles favorites',
+            statistics: 'Mes statistiques'
+        },
+        space: {
+            candidate: 'Espace particuliers',
+            school: 'Espace auto-écoles'
+        },
+        public:{
+            actuality: 'Actualité',
+            confidentialityPolicy: 'Politique de Cookies et Gestion de mes cookies',
+            contact: 'Contact',
+            exam: 'L&#39;examen du code de la route comme si vous y étiez',
+            faq: 'FAQ',
+            knowmore: 'En savoir plus',
+            lexicon: 'Lexique',
+            news: 'Actualités',
+            searchSession: 'Je m&#39;inscris à l&#39;examen du code de la route',
+            siteList: 'Liste des sites',
+            termOfUse: 'Mentions légales',
+            why: 'Pourquoi choisir Code&#39;nGO! ?'
+        }
+    };
+    
+    i18n.space = {
+    	drivingSchool : {
+   			chosen : 'Vous avez choisi le : ',
+   			mandatoryField : '*Champ requis',
+    		modal : {
+    			planning : {
+	    			civility : 'Civilité',
+	    			civilitymr : 'Monsieur',
+	    			civilitymrs : 'Madame',
+	    			siteAddress : 'Adresse du centre ',
+	    			category : 'Type',
+	    			sessionTime : 'Horaire',
+	    			candidate : 'Candidat',
+	    			registerCandidate : 'Rechercher un candidat',
+	    			bookings : 'réservations',
+	    			remainingSeats : 'Places restantes',
+	    			booking : 'Réservation',
+	    			seatsAlreadyBooked : 'Places confirmées',
+	    			registerNewCandidate : 'Rechercher ou Inscrire un candidat',
+	    			actions : 'Actions',
+	    			lastname : 'Nom',
+	    			firstname : 'Prénom',
+	    			birthdate : 'Date de naissance',
+	    			registrationNumber : 'NEPH',
+	    			mail : 'Email',
+	    			phone : 'Téléphone',
+	    			bookings : 'réservation(s)',
+	    			availableSeats : 'place(s) restante(s)',
+	    			assignedSeats : 'place(s) assignée(s)',
+	    			select : 'Sélectionner',
+	    			selectSite : 'Veuillez renseigner au moins un site',
+                    closePopup : 'Fermer',
+                    goCart : 'Accéder au panier'
+
+                }
+            },
+            tab: {
+                candidates: {
+                    fields: {
+                        title: 'Civilité*',
+	    			    civilitymr : 'Monsieur',
+                        civilitymrs : 'Madame',
+                        lastname : 'Nom*',
+                        firstname : 'Prénom*',
+                        mail : 'Mail*',
+                        phone : 'Téléphone*',
+                        birthdate : 'Date de naissance*',
+                        birthdateYear : 'Année de naissance*',
+                        birthdateincomplete : 'Incomplête',
+                        registrationNumber : 'NEPH*'
+                    }
+                },
+                favoriteSites : {
+                    list : {
+                        name : 'Nom',
+                        address : 'Adresse'
+                    },
+                    message : {
+                        save : {
+                            success : 'Les sites favoris ont été mis à jour'
+                        }
+                    }
+                },
+                planning: {
+                    candidate: {
+                        add: {
+                            title: 'Ajout de candidat'
+                        }
+                    }
+                }
+            },
+    		
+    		cart : {
+    			notification : {
+    				informedCandidates : 'Veuillez certifier que les candidats ont lu le réglement de l&#39;ETG',
+    				informedCgv : 'Veuillez certifier que vous avez pris connaissance des Conditions Générales de Vente',
+    				paymentMode: 'Veuillez sélectionner un mode de paiement',
+    				informedBookedSessions: 'Vos réservations sont confirmées, Merci.',
+    				expired: 'Votre panier est expiré.',
+    				bookedSessions: 'Vos réservations sont confirmées, Merci.'
+    			},
+    	        popup:{
+    	        	delete : 'Etes-vous sûr de vouloir supprimer cette réservation?',
+    	        	confirmCbInsteadOfSepaQuestion : 'Vous allez payer en CB alors que vous avez un Mandat Sepa Actif, êtes-vous sûr de vouloir payer par CB?',
+    	        }
+    		},
+    		
+    		account : {
+   				updated: 'Compte modifié',
+   				candidate : {
+   					deleted : 'Candidat supprimé',
+   					updated : 'Candidat mis à jour',
+   					added : 'Candidat ajouté',
+   					gender : {
+   						female : 'Mme',
+   						male : 'M.'
+   					},
+   					category : {
+                        car : 'Auto',
+                        motorcycle : 'Moto'
+                    }
+   				}
+   			},
+   			registration : {
+   				invalidPasswordRegex : 'Merci d&#39;utiliser un mot de passe avec : 8 caractères minimum comportant au moins 1 chiffre et 1 majuscule',
+   				invalidPasswordNotMatch : 'Mot de passe non identique',
+                invalidMail : 'Email non identique ',
+   				unknownDrivingSchool : 'Code Aurige Inconnu du Ministère : AURIGE=Printel en remplaçant le A par 0, ou N pour AE de Paris (A9310390 -&gt; 09310390 ou N7510390 pour Paris)',
+ 				validatedAccount : 'Votre compte a bien été validé '
+   			},
+   			sepa : {
+   				invalidRequiredField: 'Le nom et le prénom du mandataire doivent être renseignés' 
+   			}
+    	},
+    	candidate : {
+    		notification : {
+    			invalidMail : 'Mail non identique',
+    			invalidPasswordRegex : 'Merci d&#39;utiliser un mot de passe avec : 8 caractères minimum comportant au moins 1 chiffre et 1 majuscule',
+    			invalidPasswordNotMatch : 'Mot de passe non identique',
+    			accountCreated : 'Votre compte a bien été validé'
+    		},
+    		modal : {
+    			anotherSession : 'Voulez-vous réellement annuler votre présence pour cette session ?',
+    			lessThan24Hours : 'Attention ! La session à annuler débute dans moins de 24 heures.',
+    			noRefund : 'Si vous annulez cette session, vous ne serez pas remboursé.',
+                consommeSnuRights : 'Voulez-vous utiliser votre droit à 1 passage du code gratuit grâce au SNU ?',
+                hasAlreadyConsumedSnuRights : 'Votre droit de passage comme candidat SNU n&#39;est pas valide. Souhaitez-vous payer votre réservation ?',
+                pay : 'Payer'
+    		},
+    		registerSession : {
+    			notification : {
+    			    chooseCategory : 'Veuillez choisir un type de permis',
+    				acceptCgv : 'Veuillez valider les conditions générales de vente',
+    				acceptReglementation : 'Veuillez valider le règlement de l&#39;examen',
+    				acceptIdentity : 'Veuillez confirmer la possession d&#39;une carte d&#39;identité valide',
+                    selectPreviousSession:'Veuillez choisir une session à remplacer',
+                    snuRightsOnlyForCarLicense:'Le type de permis sélectionné n&#39;est pas soumis au droit SNU'
+    			}
+    		}
+    	}
+    }
+    
+    i18n.confidentialityPolicy = {
+   		notification: {
+   			desactivateCookies: 'Votre demande d&#39;opposition aux cookies de mesure d&#39;audience a bien été prise en compte.'
+   		}  
+    }
+    
+    i18n.manageSession = {
+            notification :{
+                tooMuchRows : 'Le nombre de résultats est supérieur à 2000, merci d&#39;affiner votre recherche.',
+                session : {
+                    openSuccess : 'Session ouverte',
+                }
+            },
+            status : [ {
+                value : 'SCHEDULED',
+                label : 'Programmée'
+            }, {
+                value : 'CLOSED',
+                label : 'Terminée'
+            }, {
+                value : 'IN_PROGRESS',
+                label : 'En cours'
+            }, {
+                value : 'CANCELED',
+                label : 'Annulée'
+            }]
+        };
+        
+</script>
+	    
+	    
+	    
+	    <script type="text/javascript">
+		    if (chatEnabled == 1) {
+				(function(){
+				  window.vvc_ready_handlers = [];
+				  window.vivocha = { ready: function(cb) { window.vvc_ready_handlers.push(cb); }}
+				  var t = document.createElement("script");
+				  t.type="text/javascript"; t.async=true;
+				  t.src= "//www.vivocha.com/a/" + chatID + "/api/vivocha.js";
+				  var n=document.getElementsByTagName("script")[0];
+				  n.parentNode.insertBefore(t,n);
+				})();
+		    } else {
+		    	logDebug('vivocha disabled');
+		    }
+		</script>
+        
+            <script>
+	            if (enableTracking) {
+	            	// Create script
+	                var script = document.createElement('script');
+	                script.src = '//tag.goldenbees.fr/?key=mi2xgh';
+	                script.async = true;
+	                script.type = 'text/javascript';
+	                // Insert in head
+	            	var head = document.getElementsByTagName('head').item(0);
+	                head.appendChild(script);
+	            } else {
+	                logDebug('goldenbees disabled');
+	            }
+            </script>
+        
+	</body>
+	
+    
+    
+
+    
+    
+    <script type="text/javascript" src="/js/cdr-application.min-6.9.6.js.gz"></script>
+	
+	
+</html>
