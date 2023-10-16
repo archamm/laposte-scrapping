@@ -1,7 +1,7 @@
 import requests
 import json
 import pandas as pd
-import tqdm
+from tqdm import tqdm
 import time
 
 
@@ -68,8 +68,7 @@ URL = 'https://public.riamoneytransfer.com/location/agent-locations'
 data = pd.read_csv('RIA/communes-departement-region.csv')
 
 tqdm.pandas(desc="my bar!")
-eurusd_ask['t_stamp'] = eurusd_ask['Gmt time'].progress_apply(lambda x: pd.Timestamp)
-eurusd_ask.set_index(['t_stamp'], inplace=True)
+
 
 
 
@@ -78,16 +77,17 @@ res = []
 # on rentre les identifiants de connexion
 data = data.reset_index()  # make sure indexes pair with number of rows
 with tqdm(total=data.shape[0]) as pbar:    
-    for index, row in data.iterrows():
+    for index, row in tqdm(data.iterrows(), total=data.shape[0], desc="Processing rows"):
         if row['latitude'] and row['longitude']:
-            print(str(row['latitude']) + ' ' +  str(row['longitude']))
             json_data['latitude'] = row['latitude']
             json_data['longitude'] = row['longitude']
             response = requests.put('https://public.riamoneytransfer.com/location/agent-locations', headers=headers, json=json_data)
             if response.status_code == 500:
                 headers['Authorization'] = get_new_session_token()
                 response = requests.put('https://public.riamoneytransfer.com/location/agent-locations', headers=headers, json=json_data)
-            print(response.status_code)
+                print(response.status_code)
+                print(str(row['latitude']) + ' ' +  str(row['longitude']))
+
             try:
                 res.append(response.json())
             except Exception:

@@ -2,9 +2,6 @@ import json
 import pandas as pd
 from collections import OrderedDict
 
-with open("FRANCECODE/extracts/extrat_raw_0123.json", "r") as f:
-        decoded_data=f.readline().encode().decode('utf-8-sig') 
-        data = json.loads(decoded_data)
 
 
 data_df = pd.read_csv('FRANCECODE/extracts/extrat_raw_012023.csv', sep=';')

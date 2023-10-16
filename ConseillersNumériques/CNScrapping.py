@@ -5,8 +5,9 @@ from tqdm import tqdm
 from deepparse import parser
 import requests
 from requests.structures import CaseInsensitiveDict
+import datetime
 
-
+current_date = datetime.datetime.now().strftime('%Y%m%d')
 
 
 REQUEST_URL = 'https://exacode.fr/api/sessions/findces?latitude=50.6138111&longitude=3.0423599&earliest=2022-08-31'

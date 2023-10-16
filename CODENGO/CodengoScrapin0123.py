@@ -1,16 +1,23 @@
 import json
 import pandas as pd
 from bs4 import BeautifulSoup
+import datetime
 
+current_date = datetime.datetime.now().strftime('%Y%m%d')
 
-f = open('CODENGO/extract/extractRaw_Codengo_0123.json')
-  
-# returns JSON object as 
-# a dictionary
-data = json.load(f)
-  
-# Iterating through the json
-# list
+import requests
+output_file = f"CODENGO/response_{current_date}.json"
+
+url = "https://codengo.bureauveritas.fr/public/session/liste.json"
+
+response = requests.get(url)
+
+data = response.json()
+with open(output_file, 'w') as file:
+        json.dump(data, file)
+
+with open(output_file, 'r') as file:
+        data = json.load(file)
 
 
 df = pd.DataFrame(
@@ -18,12 +25,25 @@ df = pd.DataFrame(
 
 
 
-for dept in data['data']:
-    for site in dept['siteLiteDtoList']:
-        row = [site['id'], site['name'], site['address'], site['zipCode'], site['city'], BeautifulSoup(site['landmark'], "lxml").text, site['status'], site['latitude'], site['longitude']]
-        df.loc[len(df)] = row
+for site in data['data']['sites']:
+    landmark = site['landmark']
+    if landmark is not None:
+        landmark_text = BeautifulSoup(landmark, "lxml").text
+    else:
+        landmark_text = ""
+    row = [
+        site['id'],
+        site['name'],
+        site['address'],
+        site['zipCode'],
+        site['city'],
+        landmark_text,
+        site['status'],
+        site['latitude'],
+        site['longitude']
+    ]
+    df.loc[len(df)] = row
 
-df.to_csv('CODENGO/extract/extrat_CODENGO_012023_v2.csv', encoding='utf-8-sig', header=True, index=False)
+print(len(df))
+df.to_csv(f'CODENGO/extract/extrat_CODENGO_{current_date}.csv', encoding='utf-8-sig', header=True, index=False)
 
-# Closing file
-f.close()

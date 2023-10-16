@@ -4,7 +4,9 @@ from tqdm import tqdm
 import requests
 from requests.structures import CaseInsensitiveDict
 
+import datetime
 
+current_date = datetime.datetime.now().strftime('%Y%m%d')
 
 
 
@@ -20,6 +22,6 @@ if __name__ == '__main__':
     data_df = pd.json_normalize(res)
     data_df['links'] =list(map(lambda x:x['callsToAction'][0]['pivot_button_value'], res))
     data_df = data_df[['id', 'name', 'lat', 'lng', 'phone', 'email', 'slug', 'visible', 'address', 'display_address', 'address_line_1', 'city', 'state', 'postcode', 'links']]
-    data_df.to_csv('FRANCECODE/extracts/extrat_FRANCECODE_012023.csv',encoding='utf-8-sig', sep=";", index=False, header=True)
+    data_df.to_csv(f'FRANCECODE/extracts/extrat_FRANCECODE_{current_date}.csv',encoding='utf-8-sig', sep=";", index=False, header=True)
 
 

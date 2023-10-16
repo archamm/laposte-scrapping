@@ -9,6 +9,7 @@ from requests.structures import CaseInsensitiveDict
 
 
 
+
 REQUEST_URL = 'https://exacode.fr/api/sessions/findces?latitude=50.6138111&longitude=3.0423599&earliest=2022-08-31'
 PATH = 'ConseillersNumériques/geolocation.json'
 

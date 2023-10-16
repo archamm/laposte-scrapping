@@ -1,0 +1,997 @@
+address,address2,capacity,capacityReducedMobility,city,code,department,lastMinuteSubscription,latitude,linkAction,linkCenter,longitude,name,phoneNumber,postalCode,visualImage
+BAT CAP CERGY - STOP&amp;WORK,4 RUE DES CHAUFFOURS,8,1,CERGY,109,095,1,49.0408735,true,/fr_FR/centre/centre-sgs-objectifcode-cergy-109,2.0771558,CENTRE SGS OBJECTIFCODE,,95000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/109/image_109_1496133034.jpg
+5 RUE DES ORMEAUX,ZA DE L OUVEZE,6,1,VAISON LA ROMAINE,136,084,1,44.2399,true,/fr_FR/centre/centre-securitest-vaison-la-romaine-136,5.0651,CENTRE SECURITEST,,84110,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/136/image_136_1496132160.jpg
+6 RUE DE LA GUADELOUPE,ZAC FOUCHEROLLES,15,1,SAINTE CLOTILDE,143,974,1,-20.902908,true,/fr_FR/centre/centre-autosecurite-grande-sainte-clotilde-143,55.495986,CENTRE AUTOSECURITE (GRANDE),,97400,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/143/image_143_1499769394.jpg
+88 COURS DE VERDUN,,10,1,OYONNAX,202,001,1,46.261386,true,/fr_FR/centre/centre-culturel-aragon-oyonnax-202,5.645382,CENTRE CULTUREL ARAGON,,01100,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/202/image_202_1495207560.jpg
+CENTRE AUTOSECURITE,692 RDN 8 QUARTIER LA GORGUE,10,1,LE BEAUSSET,209,083,1,43.2013001,true,/fr_FR/centre/controle-technique-le-theo-le-beausset-209,5.8081603,CONTROLE TECHNIQUE LE THEO,,83330,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/209/image_209_1496072743.jpg
+33 RUE DES ALPES,LA LOMBARDIERE,10,1,ANNONAY,211,007,1,45.251702,true,/fr_FR/centre/centre-autosecurite-annonay-211,4.687133,CENTRE AUTOSECURITE,,07100,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/211/image_211_1498478951.jpg
+20 BOULEVARD EMILE ZOLA,,10,1,LE MANS,96,072,1,47.9935131,true,/fr_FR/centre/centre-sgs-objectifcode-le-mans-96,0.2001288,CENTRE SGS OBJECTIFCODE,,72000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/96/image_96_1498552891.jpg
+1251 RUE COPERNIC,,8,1,BETHUNE,142,062,1,50.5173,true,/fr_FR/centre/centre-autosecurite-bethune-142,2.6475,CENTRE AUTOSECURITE,,62400,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/142/image_142_1498480317.jpg
+18 AVENUE GAMBETTA,,10,0,BAR LE DUC,152,055,1,48.767390813997,true,/fr_FR/centre/centre-d-affaires-bar-le-duc-152,5.1680987497375,CENTRE D AFFAIRES,,55000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/152/image_152_1496052135.jpg
+2 AVENUE ROBERT MALAVAL,,15,1,NICE,165,006,1,43.682888035246,true,/fr_FR/centre/centre-securitest-nice-165,7.1997041024295,CENTRE SECURITEST,,06200,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/165/image_165_1495443397.jpg
+120 A RUE DU MARECHAL FOCH,,6,1,SARREGUEMINES,219,057,1,49.1180719,true,/fr_FR/centre/centre-autosecurite-sarreguemines-219,7.0845211,CENTRE AUTOSECURITE,,57200,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/219/image_219_1498835405.jpg
+2 BIS RUE MEHUL,,10,1,PANTIN ,124,093,1,48.889013219933,true,/fr_FR/centre/centre-securitest-pantin-124,2.4106438750076,CENTRE SECURITEST,,93500,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/124/image_124_1506504541.jpg
+178 BOULEVARD ROBERT BALLANGER,,5,1,VILLEPINTE,145,093,1,48.95583774245,true,/fr_FR/centre/centre-autosecurite-villepinte-145,2.540498555156,CENTRE AUTOSECURITE,,93420,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/145/image_145_1499765601.jpg
+LA CANTALADE,114 BOULEVARD GAMBETTA,10,1,VILLEFRANCHE SUR SAONE,175,069,1,45.9908268,true,/fr_FR/centre/foyer-des-jeunes-travailleurs-villefranche-sur-saone-175,4.7154899,FOYER DES JEUNES TRAVAILLEURS,,69400,
+13 AVENUE CLEMENCEAU,ESPACE CLEMENCEAU,10,1,SAINT AVOLD,187,057,1,49.1051596,true,/fr_FR/centre/maison-des-jeunes-et-de-la-culture-saint-avold-187,6.7050949,MAISON DES JEUNES ET DE LA CULTURE,,57500,
+25 AVENUE DU GENERAL DE GAULLE,,6,1,LORIENT,197,056,1,47.7421294,true,/fr_FR/centre/agora-services-lorient-197,-3.3711298,AGORA SERVICES,,56100,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/197/image_197_1508162360.jpg
+RUE HENRI LABORDE ,,10,1,MONTPON MENESTEROL,657,024,1,45.008316,true,/fr_FR/centre/foyer-municipal-montpon-menesterol-657,0.160425,FOYER MUNICIPAL,,24700,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/657/image_657_1498550638.jpg
+9 COURS BENJAMIN CONSTANT, ,10,1,SAINT AMAND MONTROND,659,018,1,46.720846,true,/fr_FR/centre/centre-autosecurite-saint-amand-montrond-659,2.504376,CENTRE AUTOSECURITE,,18200,
+57 IMPASSE DES COQUES,ZONE COMMERCIALE LE ROUCH,5,0,LAVAUR,662,081,1,43.705461,true,/fr_FR/centre/centre-securitest-lavaur-662,1.802961,CENTRE SECURITEST,,81500,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/662/image_662_1502206123.jpg
+13 RUE D ORSONVILLE,,10,1,DOURDAN,663,091,1,48.521675,true,/fr_FR/centre/centre-securitest-dourdan-663,2.020485,CENTRE SECURITEST,,91410,
+3 RUE JEAN COCTEAU ,BAT B - ZAC DE MONTVRAIN 2,10,1,MENNECY,123,091,1,48.56647,true,/fr_FR/centre/centre-securitest-mennecy-123,2.451113,CENTRE SECURITEST,,91540,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/123/image_123_1504614654.jpg
+5 RUE DE LA CASSE,,10,0,CHOLET,181,049,1,47.0615397,true,/fr_FR/centre/habitat-jeunes-du-choletais-cholet-181,-0.8705121,HABITAT JEUNES DU CHOLETAIS,,49300,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/181/image_181_1496051081.jpg
+3 RUE GERARD GADIOT,QUARTIER PONT DE GLEYZE,10,1,ARLES,222,013,1,43.666563135639,true,/fr_FR/centre/centre-autosecurite-arles-222,4.6329597374344,CENTRE AUTOSECURITE,,13200,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/222/image_222_1495445458.jpg
+323 AVENUE DU GENERAL PRUNEAU,,5,1,TOULON,223,083,1,43.1205315,true,/fr_FR/centre/centre-securitest-toulon-223,5.9538337,CENTRE SECURITEST,,83000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/223/image_223_1498479815.jpg
+AVENUE RHIN ET DANUBE,,10,0,LA FLECHE,225,072,1,47.707111681047,true,/fr_FR/centre/centre-securitest-la-fleche-225,-0.094993210064672,CENTRE SECURITEST,,72200,
+8 PL CHAMP DE FOIRE AUX MOUTONS,,8,1,NEVERS,226,058,1,46.988398,true,/fr_FR/centre/centre-autosecurite-nevers-226,3.168789,CENTRE AUTOSECURITE,,58000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/226/image_226_1499765240.jpg
+1 BOULEVARD MARTIN BRET,,10,0,DIGNE LES BAINS,227,004,1,44.093263,true,/fr_FR/centre/centre-desmichels-digne-les-bains-227,6.235251,CENTRE DESMICHELS,,04003,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/227/image_227_1495208079.jpg
+1 AVENUE DE LA GARE,,10,1,DAX,233,040,1,43.7203338,true,/fr_FR/centre/centre-technologique-pulseo-dax-233,-1.0518803,CENTRE TECHNOLOGIQUE PULSEO,,40102,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/233/image_233_1495810917.jpg
+ZAI DES NATIONS UNIES,,8,1,BAILLEUL,234,059,1,50.728751,true,/fr_FR/centre/centre-securitest-bailleul-234,2.737189,CENTRE SECURITEST,,59270,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/234/image_234_1507133958.jpg
+429 RUE DE L INDUSTRIE  ,ACCES PETIT PORTILLON BLANC,10,0,MONTPELLIER,129,034,1,43.587113306051,true,/fr_FR/centre/maison-de-l-entreprise-montpellier-129,3.8833236694336,MAISON DE L ENTREPRISE,,34000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/129/image_129_1496831926.jpg
+RUE DU MANOIR,,10,1,GUINGAMP,167,022,1,48.566635,true,/fr_FR/centre/espace-d-activites-de-roudourou-guingamp-167,-3.161969,ESPACE D ACTIVITES DE ROUDOUROU,,22200,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/167/image_167_1495525273.jpg
+QUARTIER MALLERAY,,10,1,SARREBOURG,185,057,1,48.732663,true,/fr_FR/centre/centre-socio-culturel-sarrebourg-185,7.052587,CENTRE SOCIO CULTUREL,,57400,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/185/image_185_1496052929.jpg
+25 RUE DE LA MORTEAU,,5,1,CHATEAU PORCIEN,501,008,1,49.527403,true,/fr_FR/centre/centre-securitest-chateau-porcien-501,4.244162,CENTRE SECURITEST,,08360,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/501/image_501_1498479254.jpg
+5 RUE PAUL LANGEVIN,ZI DU CAPISCOL,10,0,BEZIERS,525,034,1,43.329064,true,/fr_FR/centre/bge-grand-biterrois-beziers-525,3.260332,BGE GRAND BITERROIS,,34500,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/525/image_525_1495810537.jpg
+18 RUE DU BOURG,,5,0,HERLIES,527,059,1,50.5775365,true,/fr_FR/centre/amic-herlies-527,2.8531716,AMIC,,59134,
+43 BOULEVARD DE LA REPUBLIQUE,,10,1,CHATOU,401,078,1,48.893947,true,/fr_FR/centre/centre-securitest-chatou-401,2.151264,CENTRE SECURITEST,,78400,
+450 AVENUE DES LOTS,ZA ROUTE DE ROMANS,10,1,TAIN L HERMITAGE,409,026,1,45.068719,true,/fr_FR/centre/centre-securitest-tain-l-hermitage-409,4.867173,CENTRE SECURITEST,,26600,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/409/image_409_1517392909.jpg
+146 RUE PASTEUR,,10,1,CHATEAU GAILLARD,411,001,1,45.9787174,true,/fr_FR/centre/ain-secretariat-et-services-chateau-gaillard-411,5.3137407,AIN SECRETARIAT ET SERVICES,,01500,
+178 AVENUE PAUL SANTY,,8,1,LYON,426,069,1,45.725775,true,/fr_FR/centre/centre-securitest-lyon-426,4.880297,CENTRE SECURITEST,,69008,
+4 RUE DES HERONS,,10,1,MONTIVILLIERS,456,076,1,49.5335556,true,/fr_FR/centre/centre-autosecurite-montivilliers-456,0.182224,CENTRE AUTOSECURITE,,76290,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/456/image_456_1603785826.jpg
+ESPACE ROTONDE FLORENTINE,BATIMENT B,10,1,BUIRE,457,002,1,49.903414,true,/fr_FR/centre/centre-d-affaires-la-semaphore-buire-457,4.05624,CENTRE D AFFAIRES - LA SEMAPHORE,,02500,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/457/image_457_1498833485.jpg
+ZA LA ZOUZETTE FROIDECONCHE,,10,1,LUXEUIL LES BAINS,487,070,1,47.81763,true,/fr_FR/centre/centre-autosecurite-luxeuil-les-bains-487,6.39591,CENTRE AUTOSECURITE,,70300,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/487/image_487_1538493030.jpg
+ZAC DE BEAULIEU,,7,1,PUILBOREAU,491,017,1,46.173739,true,/fr_FR/centre/centre-securitest-puilboreau-491,-1.120673,CENTRE SECURITEST,,17138,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/491/image_491_1498549783.jpg
+PARC DES SAULES,,8,1,VAL DE REUIL,509,027,1,49.248897,true,/fr_FR/centre/hotel-d-entreprises-val-de-reuil-509,1.187201,HOTEL D ENTREPRISES,,27100,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/509/image_509_1495526062.jpg
+7-9 RUE VACHERESSE,,10,1,LAGNY SUR MARNE,518,077,1,48.876965687657,true,/fr_FR/centre/maison-des-associations-lagny-sur-marne-518,2.7035164833069,MAISON DES ASSOCIATIONS,,77400,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/518/image_518_1619446980.jpg
+RUE JEAN MONNET,PARC ACTIVITE DES 3 ROUTES ,10,0,CHEMILLE MELAY,661,049,1,47.238864,true,/fr_FR/centre/centre-autosecurite-chemille-melay-661,-0.723268,CENTRE AUTOSECURITE,,49120,
+RUE DU PRIEURE,LONGLAVILLE,10,1,LONGWY,262,054,1,49.5304973,true,/fr_FR/centre/centre-jean-monnet-longwy-262,5.7862945,CENTRE JEAN MONNET,,54810,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/262/image_262_1496052026.jpg
+ZI DE GIRAUD,,5,1,BOEN,276,042,1,45.735679,true,/fr_FR/centre/centre-securitest-boen-276,4.008851,CENTRE SECURITEST,,42130,
+5 RUE DE MIMONT,,10,0,CANNES,297,006,1,43.5549652,true,/fr_FR/centre/logis-des-jeunes-de-provence-cannes-297,7.0198528,LOGIS DES JEUNES DE PROVENCE,,06400,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/297/image_297_1495443155.jpg
+33 RUE DUBOIS CRANCE,,10,1,CHARLEVILLE MEZIERES,313,008,1,49.770296,true,/fr_FR/centre/centre-d-affaires-ligne-directe-charleville-mezieres-313,4.7150483,CENTRE D AFFAIRES LIGNE DIRECTE,,08000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/313/image_313_1495444596.jpg
+CONTROLE TECHNIQUE,850 ROUTE NATIONALE 113,10,1,LA FARE LES OLIVIERS,368,013,1,43.543004983954,true,/fr_FR/centre/centre-securitest-la-fare-les-oliviers-368,5.1872526957702,CENTRE SECURITEST,,13580,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/368/image_368_1495446940.jpg
+27 RUE DU FAUBOURG DE FRANCE,,7,1,LANDRECIES,373,059,1,50.119379,true,/fr_FR/centre/centre-securitest-landrecies-373,3.6977,CENTRE SECURITEST,,59550,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/373/image_373_1498834023.jpg
+BOULEVARD MARITIME,,6,1,BASSE TERRE,375,971,1,15.994822,true,/fr_FR/centre/centre-securitest-basse-terre-375,-61.730962,CENTRE SECURITEST,,97100,
+26 RUE CLAUDE CHAPPE,ZAC 2000,12,1,LE PORT (RÉUNION),376,974,1,-20.949444,true,/fr_FR/centre/centre-autosecurite-le-port-reunion-376,55.318753,CENTRE AUTOSECURITE,,97420,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/376/image_376_1503304439.jpg
+155 RUE HENRI PITOT,ZI MARCEROLLES,9,1,BOURG LES VALENCE,407,026,1,44.961894,true,/fr_FR/centre/centre-autosecurite-bourg-les-valence-407,4.883294,CENTRE AUTOSECURITE,,26500,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/407/image_407_1496392635.jpg
+8 AVENUE JEAN JAURES,,1,1,VANDOEUVRE LES NANCY,410,054,1,48.665385,true,/fr_FR/centre/centre-securitest-vandoeuvre-les-nancy-410,6.164963,CENTRE SECURITEST,,54500,
+ALLEE DU FORUM,,10,1,LE POINCONNET,450,036,,46.794922017631,true,/fr_FR/centre/centre-autosecurite-le-poinconnet-450,1.732408364418,CENTRE AUTOSECURITE,,36330,
+15  RUE FULGENCE BIENVENUE,,10,1,LANNION,481,022,1,48.75688,true,/fr_FR/centre/espace-des-entreprises-de-l-aeroport-lannion-481,-3.47066,ESPACE DES ENTREPRISES DE L AEROPORT,,22300,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/481/image_481_1508162459.jpg
+226 TER AVENUE DES ALLIES ,,1,1,LE PETIT QUEVILLY,497,076,1,49.422347,true,/fr_FR/centre/centre-securitest-le-petit-quevilly-497,1.052395,CENTRE SECURITEST,,76140,
+PARC DES LOISIRS ROGER-MENU ,,10,1,EPERNAY,538,051,1,49.043908,true,/fr_FR/centre/maison-des-arts-de-la-vie-associative-epernay-538,3.958145,MAISON DES ARTS DE LA VIE ASSOCIATIVE,,51200,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/538/image_538_1498833748.jpg
+1 CHEMIN DE MOULET,,4,0,CASTRES,543,081,1,43.590563,true,/fr_FR/centre/centre-securitest-castres-543,2.190506,CENTRE SECURITEST,,81100,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/543/image_543_1496917609.jpg
+17 BIS LOTISSEMENT SEGUINEAU,,1,0,LE LORRAIN,553,972,1,14.832122,true,/fr_FR/centre/centre-autosecurite-le-lorrain-553,-61.044189,CENTRE AUTOSECURITE,,97214,
+6 PLACE ST ANDRÉ,,9,0,LILLE,243,059,1,50.6461593,true,/fr_FR/centre/centre-autosecurite-lille-243,3.0538244,CENTRE AUTOSECURITE,,59800,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/243/image_243_1498479626.jpg
+30 PLAINE BRUNETTE,ZAC ATHELIA 2,10,0,LA CIOTAT,253,013,1,43.200603149745,true,/fr_FR/centre/centre-securitest-la-ciotat-253,5.5959123730163,CENTRE SECURITEST,,13600,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/253/image_253_1495447094.jpg
+10 RUE GEORGES BESSE,ZI LA PALUD,10,1,FREJUS,269,083,1,43.438607403259,true,/fr_FR/centre/centre-securitest-frejus-269,6.7162337460327,CENTRE SECURITEST,,83600,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/269/image_269_1498834998.jpg
+77B AVENUE DE LA REPUBLIQUE,,8,1,RONCHAMP,221,070,1,47.698488938075,true,/fr_FR/centre/centre-autosecurite-ronchamp-221,6.6084877219513,CENTRE AUTOSECURITE,,70250,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/221/image_221_1496069459.jpg
+7 AVENUE DU LUXEMBOURG,,10,1,MIRAMAS,357,013,,43.596015,true,/fr_FR/centre/centre-securitest-miramas-357,4.994204,CENTRE SECURITEST,,13140,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/357/image_357_1495445357.jpg
+171 ROUTE D`AIX,,10,1,PERTUIS,365,084,1,43.683242,true,/fr_FR/centre/centre-autosecurite-pertuis-365,5.501659,CENTRE AUTOSECURITE,,84120,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/365/image_365_1496132203.jpg
+75 BOULEVARD VAUBAN,,6,1,DOUAI,372,059,1,50.381032714421,true,/fr_FR/centre/centre-autosecurite-douai-372,3.0865412950516,CENTRE AUTOSECURITE,,59500,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/372/image_372_1517478653.jpg
+245 RUE GUILLAUME DU VAIR,ZONE COMMERCIALE LA PIOLINE,10,1,AIX EN PROVENCE,385,013,1,43.507368,true,/fr_FR/centre/centre-autosecurite-aix-en-provence-385,5.40531,CENTRE AUTOSECURITE,,13546,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/385/image_385_1496393000.jpg
+ESPACE CLEMENT MAROT,PLACE BESSIERES,10,1,CAHORS,414,046,1,44.452387,true,/fr_FR/centre/maison-des-associations-cahors-414,1.438599,MAISON DES ASSOCIATIONS,,46000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/414/image_414_1495811269.jpg
+28 RUE FRANKLIN ROOSEVELT,,7,1,GUERET,437,023,,46.172197,true,/fr_FR/centre/centre-securitest-gueret-437,1.88151,CENTRE SECURITEST,,23000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/437/image_437_1495525455.jpg
+360 RUE HENRY BESSEMER ,,10,1,SAINT MAXIMIN,273,060,1,49.2408088,true,/fr_FR/centre/centre-autosecurite-saint-maximin-273,2.4639619,CENTRE AUTOSECURITE,,60740,
+6 RUE SALOMON REINACH,,10,1,NIMES,301,030,1,43.835238781709,true,/fr_FR/centre/maison-diocesaine-nimes-301,4.3758416175842,MAISON DIOCESAINE,,30900,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/301/image_301_1495526456.jpg
+564 ROUTE DU CHATEAU ,,10,1,BOIS HIMONT,351,076,1,49.58352,true,/fr_FR/centre/esat-arcaux-bois-himont-351,0.703168,ESAT ARCAUX,,76190,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/351/image_351_1496071183.jpg
+35 BOULEVARD DE BEAUBOURG,,6,1,EMERAINVILLE,393,077,1,48.816284,true,/fr_FR/centre/centre-securitest-emerainville-393,2.616156,CENTRE SECURITEST,,77184,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/393/image_393_1516633631.jpg
+2 TER AVENUE PIERRE SEMARD,,10,0,SEYSSES,421,031,1,43.490011,true,/fr_FR/centre/centre-securitest-seysses-421,1.3151189325408,CENTRE SECURITEST,,31600,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/421/image_421_1506687545.jpg
+PLACE JEANNE D ARC,,10,1,LANDIVISIAU,467,029,1,48.50954,true,/fr_FR/centre/espace-yves-queguiner-landivisiau-467,-4.06782,ESPACE YVES QUEGUINER,,29400,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/467/image_467_1538493222.jpg
+17 AVENUE DE CASTELNAU,,10,0,PEZENAS,468,034,1,43.457991,true,/fr_FR/centre/optis-conseils-pezenas-468,3.427139,OPTIS CONSEILS,,34120,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/468/image_468_1496330514.jpg
+2 RUE DES SOEURS GRISES,,9,1,DOULLENS,470,080,1,50.156131,true,/fr_FR/centre/communaute-de-communes-du-doullennais-doullens-470,2.338482,COMMUNAUTE DE COMMUNES DU DOULLENNAIS,,80600,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/470/image_470_1496072002.jpg
+7 RUE ARISTIDE BERGES,MAS GUERIDO,10,1,CABESTANY,149,066,1,42.690269,true,/fr_FR/centre/hc-conseil-cabestany-149,2.923004,HC CONSEIL,,66330,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/149/image_149_1496738558.jpg
+"21, CHEMIN DU PRIEURÉ ",,10,1,LA ROCHELLE,139,017,1,46.1722678,true,/fr_FR/centre/cci-la-rochelle-la-rochelle-139,-1.1497067,CCI LA ROCHELLE,,17024,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/139/image_139_1498490823.jpg
+5 AVENUE JEAN JAURES,,10,1,ROMILLY SUR SEINE,255,010,1,48.517605,true,/fr_FR/centre/centre-autosecurite-romilly-sur-seine-255,3.722116,CENTRE AUTOSECURITE,,10100,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/255/image_255_1516641033.jpg
+2 RUE MERMOZ,,10,1,THIONVILLE,263,057,1,49.366924,true,/fr_FR/centre/asso-habitat-jeunes-des-3-frontieres-thionville-263,6.163024,ASSO HABITAT JEUNES DES 3 FRONTIERES,,57100,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/263/image_263_1496052492.jpg
+9 RUE DE LA CITE ,,10,1,CHALLANS,265,085,1,46.8485044,true,/fr_FR/centre/centre-de-la-coursaudiere-challans-265,-1.8815456,CENTRE DE LA COURSAUDIERE  ,,85300,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/265/image_265_1496132337.jpg
+18 BOULEVARD MARCEAU FAURE,,10,0,CASTELSARRASIN,311,082,1,44.0359662,true,/fr_FR/centre/centre-securitest-castelsarrasin-311,1.1089005,CENTRE SECURITEST,,82100,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/311/image_311_1497437086.jpg
+1 AVENUE GEORGES CLEMENCEAU,,7,1,FOIX,317,009,,42.9704489,true,/fr_FR/centre/centre-securitest-foix-317,1.6081706,CENTRE SECURITEST,,09000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/317/image_317_1495444759.jpg
+41 RUE DU COMMERCE, ,12,1,SAINT PAUL (RÉUNION),377,974,1,-21.010516,true,/fr_FR/centre/centre-objectifcode-saint-paul-reunion-377,55.271631,CENTRE OBJECTIFCODE,,97460,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/377/image_377_1503304494.jpg
+320 AVENUE MAGINOT ,,10,1,TOURS,431,037,1,47.42805,true,/fr_FR/centre/centre-autosecurite-tours-431,0.702731,CENTRE AUTOSECURITE,,37100,
+29 RUE D`ARRAS, ,8,1,CAMBRAI,433,059,,50.178627,true,/fr_FR/centre/centre-autosecurite-cambrai-433,3.212783,CENTRE AUTOSECURITE,,59400,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/433/image_433_1498479574.jpg
+ROUTE NATIONALE 1 KAWENI,,10,1,MAMOUDZOU (MAYOTTE),443,976,1,-12.760062,true,/fr_FR/centre/centre-autosecurite-mamoudzou-mayotte-443,45.225989,CENTRE AUTOSECURITE,,97600,
+4 RUE EUGENE THEVENIN,,9,1,PONTARLIER,448,025,1,46.900506482226,true,/fr_FR/centre/centre-autosecurite-pontarlier-448,6.336595416069,CENTRE AUTOSECURITE,,25300,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/448/image_448_1538492992.jpg
+6 IMPASSE DES ACACIAS,ZA DE LA GARE,1,1,BAS EN BASSET,455,043,1,45.294384,true,/fr_FR/centre/centre-securitest-bas-en-basset-455,4.139179,CENTRE SECURITEST ,,43210,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/455/image_455_1495811165.jpg
+11 AVENUE DU 8 SEPTEMBRE 1944,,10,1,BEAUNE,495,021,1,47.023733,true,/fr_FR/centre/centre-d-affaires-lba-beaune-495,4.845412,CENTRE D AFFAIRES - LBA,,21200,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/495/image_495_1495525194.jpg
+BOULEVARD DES CARMES,SALLE DES CARMES,6,1,PLOERMEL,506,056,1,47.933561,true,/fr_FR/centre/centre-objectifcode-ploermel-506,-2.400863,CENTRE  OBJECTIFCODE,,56800,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/506/image_506_1509465446.jpg
+AVENUE DOCTEUR ALBERT SCHWEITZER,IMMEUBLE CONSULAIRE,10,1,TULLE,531,019,1,45.275907,true,/fr_FR/centre/association-de-gestion-du-puy-pincon-tulle-531,1.790849,ASSOCIATION DE GESTION DU PUY PINCON,,19000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/531/image_531_1503671011.jpg
+ZI ROCADE DE DIEPPE - RD 154,,10,1,ROUXMESNIL BOUTEILLES,270,076,1,49.909179,true,/fr_FR/centre/centre-autosecurite-rouxmesnil-bouteilles-270,1.100268,CENTRE AUTOSECURITE,,76370,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/270/image_270_1496071202.jpg
+3 ALLEE DES INTERNAUTES,PARC GOURAUD BATIMENT L ENVOL,10,0,SOISSONS,293,002,1,49.376636,true,/fr_FR/centre/sci-diadib-soissons-293,3.32342,SCI DIADIB,,02200,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/293/image_293_1495207687.jpg
+96 RUE MONTFLEURY,,8,1,SAINT BENOIT,295,974,1,-21.0329972,true,/fr_FR/centre/st-benoit-saint-benoit-295,55.709202,ST BENOIT,,97470,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/295/image_295_1539351103.jpg
+4 AVENUE PIERRE SALVI ,,10,1,GONESSE,355,095,1,48.990901,true,/fr_FR/centre/centre-securitest-gonesse-355,2.433133,CENTRE SECURITEST,,95500,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/355/image_355_1508162913.jpg
+PLACE MAHOMME,0562064582,10,1,VIC FEZENSAC,358,032,1,43.756945405775,true,/fr_FR/centre/centre-securitest-vic-fezensac-358,0.30065417289734,CENTRE SECURITEST,,32190,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/358/image_358_1495810370.jpg
+41 RUE DU SOUVENIR,,10,1,LYON,360,069,1,45.774747,true,/fr_FR/centre/centre-verif-autos-lyon-360,4.79805,CENTRE VERIF AUTOS,,69009,
+8 ROND POINT DE LA CORBINERIE,,10,0,REZE,363,044,1,47.159547,true,/fr_FR/centre/centre-securitest-reze-363,-1.544543,CENTRE  SECURITEST,,44400,
+ZA DES PERES BLANCS,,6,1,BAILLIF,379,971,1,16.013385,true,/fr_FR/centre/centre-securitest-baillif-379,-61.745649,CENTRE SECURITEST,,97123,
+8 BOULEVARD GEORGES POMPIDOU,,6,1,PONT AUDEMER,438,027,1,49.3510887,true,/fr_FR/centre/cci-des-portes-de-normandie-pont-audemer-438,0.5183638,CCI DES PORTES DE NORMANDIE,,27500,
+25 AVENUE DES CIZOLLES,,10,1,THIERS,440,063,1,45.847739,true,/fr_FR/centre/la-residence-l-atrium-thiers-440,3.536901,LA RESIDENCE L ATRIUM,,63300,
+2 ALLEE DE BIARNES,,10,1,BAYONNE,441,064,1,43.502278,true,/fr_FR/centre/centre-autosecurite-bayonne-441,-1.44748,CENTRE AUTOSECURITE,,64100,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/441/image_441_1496063656.jpg
+64 RUE DU MOULIN DU PRESIDENT,,9,1,AUXERRE,309,089,1,47.810301,true,/fr_FR/centre/centre-autosecurite-auxerre-309,3.5821858,CENTRE AUTOSECURITE,,89000,
+ROUTE DU RHIN,,10,1,ERSTEIN,539,067,1,48.41366138708,true,/fr_FR/centre/salle-hanfroeste-erstein-539,7.6677945765991,SALLE HANFROESTE,,67150,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/539/image_539_1496067837.jpg
+1 RUE DE LA REPUBLIQUE,,10,,GUEBWILLER,540,068,1,47.90640379418,true,/fr_FR/centre/maison-des-associations-guebwiller-540,7.2147315105896,MAISON DES ASSOCIATIONS,,68500,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/540/image_540_1538489912.jpg
+295 RUE PAUL SABATIER,,5,1,CASTELNAUDARY,556,011,1,43.30217,true,/fr_FR/centre/centre-securitest-castelnaudary-556,1.960352,CENTRE SECURITEST,,11400,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/556/image_556_1502878907.jpg
+RUE DE L AERODROME,,10,1,MORLAIX,239,029,1,48.60491,true,/fr_FR/centre/centre-socio-culturel-de-ploujean-morlaix-239,-3.83089,CENTRE SOCIO-CULTUREL DE PLOUJEAN,,29600,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/239/image_239_1495526377.jpg
+14 BIS ALLEE DU LOUVRE,SALONS DE LA RESIDENCE,9,0,MENTON,282,006,1,43.77609,true,/fr_FR/centre/residence-du-louvre-menton-282,7.49632,RESIDENCE DU LOUVRE,,06500,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/282/image_282_1495443218.jpg
+6 AVENUE DU PRESIDENT WILSON,,7,1,GIEN,310,045,1,47.690032,true,/fr_FR/centre/centre-autosecurite-gien-310,2.632278,CENTRE AUTOSECURITE,,45500,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/310/image_310_1516634222.jpg
+28 RUE JEAN CLARET,PARC D ACTIVITE TECHNOLOGIE LA PARDIEU,10,1,CLERMONT FERRAND,325,063,1,45.764362,true,/fr_FR/centre/starmeeting-clermont-ferrand-325,3.135343,STARMEETING,,63000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/325/image_325_1496054091.jpg
+15 RUE ROBERT LEMOY,,10,1,CEBAZAT,326,063,1,45.817189,true,/fr_FR/centre/centre-autosecurite-cebazat-326,3.11189,CENTRE AUTOSECURITE,,63118,
+16 AVENUE GEORGES POMPIDOU,,8,0,AURILLAC,333,015,1,44.911560612152,true,/fr_FR/centre/centre-autosecurite-aurillac-333,2.4480283558197,CENTRE  AUTOSECURITE,,15000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/333/image_333_1506688727.jpg
+73 RUE TOUFAIRE,,10,1,ROCHEFORT,337,017,1,45.934968693077,true,/fr_FR/centre/palais-des-congres-rochefort-337,-0.95948986508176,PALAIS DES CONGRES,,17300,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/337/image_337_1498550118.jpg
+12 ROUTE DE BAYONNE,,10,0,TOULOUSE-PURPAN,339,031,1,43.608193,true,/fr_FR/centre/centre-autosecurite-toulouse-purpan-339,1.395896,CENTRE AUTOSECURITE,,31300,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/339/image_339_1506333410.jpg
+ZA LE PARDY,,8,1,FRANS,135,001,1,45.9828,true,/fr_FR/centre/centre-autosecurite-frans-135,4.775,CENTRE AUTOSECURITE,,01480,
+6 AVENUE JULES FERRY,,10,0,THONON LES BAINS,345,074,1,46.371329,true,/fr_FR/centre/salle-auxiliaire-thonon-les-bains-345,6.481839,SALLE AUXILIAIRE,,74200,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/345/image_345_1496070832.jpg
+5 IMPASSE LEON SERPOLLET,PARC DE LA MALADIERE,6,1,BOURGOIN JALLIEU,370,038,1,45.588845,true,/fr_FR/centre/centre-securitest-bourgoin-jallieu-370,5.25824,CENTRE SECURITEST,,38300,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/370/image_370_1495810702.jpg
+5 RUE MARCEL PAUL,ZA DUMES,10,1,LANGON,424,033,1,44.540996,true,/fr_FR/centre/siss-langon-424,-0.239435,SISS,,33210,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/424/image_424_1495810460.jpg
+505 ROUTE DE GRANDE RAVINE,,6,1,LE GOSIER,432,971,1,16.212363,true,/fr_FR/centre/centre-autosecurite-le-gosier-432,-61.475201,CENTRE AUTOSECURITE,,97190,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/432/image_432_1498553435.jpg
+36 BIS BOULEVARD CARNOT,,10,1,LE PUY EN VELAY,474,043,1,45.046538,true,/fr_FR/centre/centre-securitest-le-puy-en-velay-474,3.879977,CENTRE SECURITEST,,43000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/474/image_474_1513957778.jpg
+274 AVENUE GALLIENI,CENTRE COMMERCIAL LECLERC,10,1,RIORGES,483,042,1,46.043263,true,/fr_FR/centre/centre-verif-autos-riorges-483,4.052821,CENTRE VERIF AUTOS,,42153,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/483/image_483_1495811072.jpg
+14 RUE DES FORTS,ZI DES FORTS,8,1,CHERISY,484,028,1,48.744507,true,/fr_FR/centre/centre-securitest-cherisy-484,1.426698,CENTRE SECURITEST,,28500,
+1 RUE DES ARTISANS,,1,1,ROMBAS,559,057,1,49.253797,true,/fr_FR/centre/centre-securitest-rombas-559,6.093261,CENTRE SECURITEST,,57120,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/559/image_559_1496052704.jpg
+2 RUE DU TRIBUNAL,,10,1,WISSEMBOURG,560,067,1,49.034185,true,/fr_FR/centre/maison-des-associations-des-services-wissembourg-560,7.946024,MAISON DES ASSOCIATIONS DES SERVICES,,67160,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/560/image_560_1496067882.jpg
+ZI  PIED DE LA MONTAGNE,RUE EDOUARD BRANLY,10,1,TARARE,561,069,1,45.891469,true,/fr_FR/centre/pepiniere-hotel-tarare-561,4.410865,PEPINIERE HOTEL ,,69170,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/561/image_561_1496068285.jpg
+280 RUE DU RHONE,,10,1,SAINT PIERRE EN FAUCIGNY,562,074,1,46.072431,true,/fr_FR/centre/mont-blanc-hotel-saint-pierre-en-faucigny-562,6.380512,MONT BLANC HOTEL,,74800,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/562/image_562_1496070853.jpg
+RUE ANTHENOR HABAZAC,,1,1,GRAND BOURG,568,971,1,15.883769,true,/fr_FR/centre/centre-securitest-grand-bourg-568,-61.316359,CENTRE SECURITEST,,97112,
+434 AVENUE BREMONTIER ,,10,1,PARENTIS EN BORN,240,040,1,44.349356,true,/fr_FR/centre/pole-services-h-favereau-parentis-en-born-240,-1.068827,POLE  SERVICES H. FAVEREAU,,40160,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/240/image_240_1498550839.jpg
+6 TER RUE JACQUES PHILIPPE BREANT,,10,1,BERNAY,242,027,1,49.0851702,true,/fr_FR/centre/centre-d-affaires-bernay-242,0.5943895,CENTRE D AFFAIRES,,27300,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/242/image_242_1499762082.jpg
+1 IMPASSE MADORE,ZI LES DUNES,14,1,L ETANG SALE,247,974,1,-21.273543,true,/fr_FR/centre/centre-objectifcode-l-etang-sale-247,55.371056,CENTRE OBJECTIFCODE,,97427,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/247/image_247_1503304471.jpg
+5 RUE CONDORCET,,10,1,VILLEFONTAINE,266,038,1,45.6275241,true,/fr_FR/centre/cci-de-nord-isere-villefontaine-266,5.1658662,CCI DE NORD ISERE,,38093,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/266/image_266_1495810666.jpg
+5 RUE SEBASTOPOL,,11,1,BREST,287,029,1,48.3969679,true,/fr_FR/centre/residence-de-l-octroi-brest-287,-4.4739543,RESIDENCE DE L OCTROI,,29200,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/287/image_287_1538493250.jpg
+70 AVENUE DE COGNAC,,10,1,ANGOULEME,304,016,1,45.653237,true,/fr_FR/centre/appart-city-angouleme-304,0.149478,APPART CITY,,16000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/304/image_304_1495447564.jpg
+18 RUE JOSEPH GRAFF,,5,1,HOLTZHEIM,224,067,1,48.561813442537,true,/fr_FR/centre/centre-securitest-holtzheim-224,7.651451582838,CENTRE SECURITEST,,67810,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/224/image_224_1496067998.jpg
+195 ROUTE D AUXERRE,,8,1,ROSIERES PRES TROYES,367,010,1,48.263089,true,/fr_FR/centre/centre-autosecurite-rosieres-pres-troyes-367,4.037995,CENTRE AUTOSECURITE,,10430,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/367/image_367_1516798856.jpg
+ZA DU SAULE FENDU,RUE DE L`EUROPE,1,1,MAILLOT (SENS),374,089,1,48.179062,true,/fr_FR/centre/centre-autosecurite-maillot-sens-374,3.294914,CENTRE AUTOSECURITE,,89100,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/374/image_374_1496132702.jpg
+70 RUE ARCHAMBAUD,,14,1,SAINT PIERRE,378,974,1,-21.333615,true,/fr_FR/centre/centre-objectifcode-saint-pierre-378,55.47871,CENTRE OBJECTIFCODE,,97410,
+16 RUE DU MARECHAL FERRANT,,6,1,ELANCOURT,408,078,1,48.772752,true,/fr_FR/centre/centre-securitest-elancourt-408,1.955932,CENTRE SECURITEST,,78990,
+ZAC LES PORTES DE L ALLIER,,10,1,AVERMES,429,003,1,46.590549829198,true,/fr_FR/centre/centre-securitest-avermes-429,3.3228965714111,CENTRE SECURITEST,,03000,
+429 AVENUE MONGE,,10,1,ALES,447,030,1,44.144895790228,true,/fr_FR/centre/centre-verif-auto-ales-447,4.1015857458115,CENTRE VERIF AUTO,,30100,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/447/image_447_1495526509.jpg
+AVENUE JOSEPH CUGNOT,ZA ST JOSEPH,10,1,MANOSQUE,473,004,1,43.819711,true,/fr_FR/centre/centre-autosecurite-manosque-473,5.799331,CENTRE AUTOSECURITE,,04100,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/473/image_473_1495208170.jpg
+12 RUE JULES VALLES ,,10,1,RENNES,572,035,1,48.105488,true,/fr_FR/centre/centre-securitest-rennes-572,-1.705642,CENTRE SECURITEST,,35000,
+PLACE DE LA SALINE,,10,1,CHATEAU SALINS,598,057,1,48.821057,true,/fr_FR/centre/maison-des-jeunes-et-de-la-culture-chateau-salins-598,6.506431,MAISON DES JEUNES ET DE LA CULTURE,,57170,
+ZA LA PLAN,,10,0,LARAGNE MONTEGLIN,599,005,1,44.304204211322,true,/fr_FR/centre/centre-securitest-laragne-monteglin-599,5.839594364418,CENTRE SECURITEST,,05300,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/599/image_599_1499411444.jpg
+8 AVENUE DE BINGHAMTON,,10,0,LA TESTE DE BUCH,601,033,1,44.616257,true,/fr_FR/centre/centre-securitest-la-teste-de-buch-601,-1.133906,CENTRE SECURITEST,,33260,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/601/image_601_1495810476.jpg
+11 BOULEVARD MARCEL ROUX,,5,0,SAINT YRIEIX LA PERCHE,611,087,1,45.508473,true,/fr_FR/centre/centre-securitest-saint-yrieix-la-perche-611,1.208005,CENTRE SECURITEST,,87500,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/611/image_611_1498551342.jpg
+ROUTE DE GHISONI,RDC IMMEUBLE LINARI II,10,1,GHISONACCIA,631,02B,1,42.016892,true,/fr_FR/centre/mairie-ghisonaccia-631,9.403816,MAIRIE,,20240,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/631/image_631_1498551848.jpg
+98 AVENUE GAMBETTA,,10,1,GOURDON,646,046,1,44.739066,true,/fr_FR/centre/maison-communautaire-gourdon-646,1.389178,MAISON COMMUNAUTAIRE,,46300,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/646/image_646_1497436872.jpg
+RUE MANSUETUS ALESSANDRI ,SALLE POLYVALENTE (ANCIENNE CASERNE),12,1,PORTO VECCHIO,653,02A,1,41.58855,true,/fr_FR/centre/mairie-porto-vecchio-653,9.281253,MAIRIE,,20137,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/653/image_653_1498551608.jpg
+1 RUE EUGENE CLARET,,10,,DELLE,697,090,1,47.50767,true,/fr_FR/centre/cie-delle-delle-697,7.003036,CIE DELLE,,90100,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/697/image_697_1498553233.jpg
+50 AVENUE PIERRE BROSSOLETTE,,10,1,CHILLY MAZARIN,698,091,,48.70385,true,/fr_FR/centre/centre-securitest-chilly-mazarin-698,2.321989,CENTRE SECURITEST,,91380,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/698/image_698_1503404154.jpg
+23 BOULEVARD DU MAIL,,10,1,BELLEY,703,001,,45.759763,true,/fr_FR/centre/centre-autosecurite-belley-703,5.690271,CENTRE AUTOSECURITE,,01300,
+14 ROUTE ECOSPACE,,5,1,MOLSHEIM,315,067,1,48.5320393,true,/fr_FR/centre/centre-securitest-molsheim-315,7.5016436,CENTRE SECURITEST,,67120,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/315/image_315_1496067814.jpg
+MONTÉE DE LA PARATELLA,,11,1,PROPRIANO,721,02A,1,41.672593,true,/fr_FR/centre/cfa-la-chambre-des-metiers-propriano-721,8.900682,CFA LA CHAMBRE DES METIERS,,20110,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/721/image_721_1505833336.jpg
+22 RUE DU PALAIS DE JUSTICE,SALLE D AUDIENCE,10,1,COULOMMIERS,730,077,1,48.812805,true,/fr_FR/centre/point-d-acces-aux-droits-coulommiers-730,3.085604,POINT D ACCES AUX DROITS,,77120,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/730/image_730_1500978783.jpg
+CHEMIN DE LA NASSE,,5,0,SAINT JEAN PIED DE PORT,507,064,1,43.164077,true,/fr_FR/centre/centre-autosecurite-saint-jean-pied-de-port-507,-1.231689,CENTRE AUTOSECURITE,,64220,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/507/image_507_1496063681.jpg
+20 TRAVERSE DE LA MONTRE,BATIMENT 1 - EUROBUROS,10,0,MARSEILLE,749,013,1,43.292406,true,/fr_FR/centre/centre-d-affaires-etoile-valentine-marseille-749,5.475123,CENTRE D AFFAIRES ETOILE VALENTINE,,13011,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/749/image_749_1505823543.jpg
+16 RUE RENE CASSIN,,7,1,OUTREAU,759,062,1,50.693189,true,/fr_FR/centre/centre-autosecurite-outreau-759,1.603998,CENTRE AUTOSECURITE,,62230,
+25 ROUTE DE ROUFFACH,,9,1,WINTZENHEIM,453,068,1,48.063568,true,/fr_FR/centre/centre-objectifcode-wintzenheim-453,7.308238,CENTRE OBJECTIFCODE,,68920,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/453/image_453_1538493155.jpg
+ILET PIGEON ,ZAC LOSTAU,1,1,BOUILLANTE,576,971,1,16.161241,true,/fr_FR/centre/centre-securitest-bouillante-576,-61.775307,CENTRE SECURITEST,,97125,
+ALLEE E FURESTE,CENTRE SOCIAL MSA,10,1,PENTA DI CASINCA,613,02B,1,42.450294,true,/fr_FR/centre/association-familiale-du-fium-alto-penta-di-casinca-613,9.50426,ASSOCIATION FAMILIALE DU FIUM` ALTO,,20213,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/613/image_613_1508245854.jpg
+578 AVENUE JEAN MOULIN,,10,1,MONTAUBAN,616,082,1,44.027716,true,/fr_FR/centre/centre-securitest-montauban-616,1.368547,CENTRE SECURITEST,,82000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/616/image_616_1497437032.jpg
+PLACE EDOUARD BOUILLERE,CENTRE COMMERCIAL GEANT BASSO CAMBO,6,0,TOULOUSE- BASSO CAMBO,229,031,1,43.57003243893,true,/fr_FR/centre/centre-autosecurite-toulouse-basso-cambo-229,1.3947574490737,CENTRE AUTOSECURITE,,31100,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/229/image_229_1508162608.jpg
+AVENUE DU CHATELARD,,10,1,SAINT JUNIEN,681,087,1,45.900478,true,/fr_FR/centre/halle-du-chatelard-saint-junien-681,0.9029,HALLE DU CHATELARD,,87200,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/681/image_681_1498551326.jpg
+401 AVENUE MARC SEGUIN,,10,1,PRIVAS,381,007,1,44.71829,true,/fr_FR/centre/centre-securitest-privas-381,4.608907,CENTRE SECURITEST,,07000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/381/image_381_1496392586.jpg
+MARQUISAT,,5,1,CAPESTERRE BELLE EAU,713,971,1,16.040655,true,/fr_FR/centre/centre-autosecurite-capesterre-belle-eau-713,-61.568147,CENTRE AUTOSECURITE,,97130,
+4 LOT BARDINET MONTGERALD,,9,1,FORT DE FRANCE,714,972,1,14.616384,true,/fr_FR/centre/centre-securitest-fort-de-france-714,-61.048908,CENTRE SECURITEST,,97200,
+6 RUE JACQUES DE VAUCANSON ,,10,0,COMPIEGNE,589,060,1,49.393597,true,/fr_FR/centre/dg-formation-plus-compiegne-589,2.786741,DG FORMATION PLUS,,60200,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/589/image_589_1607336856.jpg
+RUE BLAISE PASCAL,ZI DE MADRAZES,10,0,SARLAT LA CANEDA,591,024,1,44.878187809401,true,/fr_FR/centre/sci-les-3r-sarlat-la-caneda-591,1.233983857933,SCI LES 3R,,24200,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/591/image_591_1495525659.jpg
+14 RUE VINCENT D INDY,,10,1,SARRE UNION,592,067,1,48.932949,true,/fr_FR/centre/maison-des-services-sarre-union-592,7.09502,MAISON DES SERVICES ,,67260,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/592/image_592_1498552540.jpg
+75 AVENUE DE LA RESISTANCE,,3,1,SAINT GIRONS,619,009,1,42.971284,true,/fr_FR/centre/centre-autosecurite-saint-girons-619,1.15588,CENTRE AUTOSECURITE,,09200,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/619/image_619_1497260660.jpg
+25 BOULEVARD DES ANGLAIS,,10,1,AIX LES BAINS,629,073,1,45.695773,true,/fr_FR/centre/maison-des-associations-aix-les-bains-629,5.914525,MAISON DES ASSOCIATIONS,,73100,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/629/image_629_1496392687.jpg
+42 AVENUE DE LA GARE,,10,1,ANNEMASSE,652,074,1,46.197016,true,/fr_FR/centre/hotel-campanille-annemasse-652,6.235545,HOTEL CAMPANILLE,,74100,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/652/image_652_1496070809.jpg
+22 BIS AVENUE DE BORDEAUX,,10,0,CARBON BLANC,693,033,1,44.890409,true,/fr_FR/centre/centre-verif-autos-carbon-blanc-693,-0.503762,CENTRE VERIF AUTOS,,33560,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/693/image_693_1498550755.jpg
+PROMENADE DU GUE MAHEU,,10,1,FOUGERES,724,035,1,48.341258,true,/fr_FR/centre/association-posabitat-fougeres-724,-1.203005,ASSOCIATION POSABITAT,,35300,
+64 RUE SAINT JEAN PROLONGÉ,,10,0,BALMA,741,031,1,43.624249,true,/fr_FR/centre/centre-securitest-balma-741,1.486846,CENTRE SECURITEST,,31130,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/741/image_741_1517392668.jpg
+240 CHAUSSÉE WATT,ZAC DES FRANCS,7,0,TOURCOING,383,059,1,50.721894,true,/fr_FR/centre/centre-autosecurite-tourcoing-383,3.135281,CENTRE AUTOSECURITE,,59200,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/383/image_383_1498833898.jpg
+320 ALLEE JEAN PERRIN,ZA LAVALDUC,10,1,FOS SUR MER,579,013,1,43.474349,true,/fr_FR/centre/centre-autosecurite-fos-sur-mer-579,4.945843,CENTRE AUTOSECURITE,,13270,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/579/image_579_1498834271.jpg
+11 AVENUE ARISTIDE BRIAND,,10,1,SAINT JEAN D ANGELY,620,017,1,45.941638,true,/fr_FR/centre/gare-routiere-saint-jean-d-angely-620,-0.510604,GARE ROUTIERE,,17400,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/620/image_620_1498550152.jpg
+ZI PRE BRUN,1173 AV. JEAN FRANCOIS CHAMPOLLION,4,1,PONTCHARRA,638,038,1,45.424352,true,/fr_FR/centre/centre-securitest-pontcharra-638,6.003926,CENTRE SECURITEST,,38530,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/638/image_638_1495810754.jpg
+RUE JEAN-JACQUES ROUSSEAU,,10,1,JARNY,670,054,1,49.155281,true,/fr_FR/centre/salle-de-quartier-st-exupery-jarny-670,5.876227,SALLE DE QUARTIER ST EXUPERY,,54800,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/670/image_670_1539695155.jpg
+94 RUE DE LA MARNE ,,1,0,SAINT LO,695,050,1,49.113462,true,/fr_FR/centre/centre-securitest-saint-lo-695,-1.084136,CENTRE SECURITEST,,50000,
+85 AVENUE DE PARIS,,5,0,ROMORANTIN LANTHENAY,699,041,1,47.3792784,true,/fr_FR/centre/centre-autosecurite-romorantin-lanthenay-699,1.7377779,CENTRE AUTOSECURITE,,41200,
+ZONE ARTISANALE LE PETIT LIOU,,7,1,BARATIER,715,005,1,44.546053,true,/fr_FR/centre/centre-autosecurite-baratier-715,6.480637,CENTRE AUTOSECURITE,,05200,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/715/image_715_1499411414.jpg
+13 Boulevard des Vosges,,10,1,TARBES,717,065,1,43.248193,true,/fr_FR/centre/centre-autosecurite-tarbes-717,0.059557,CENTRE AUTOSECURITE,,65000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/717/image_717_1508163392.jpg
+125 RUE AUDIGANE,PARKING SUPER U,10,0,ANCENIS,723,044,1,47.371452,true,/fr_FR/centre/centre-securitest-ancenis-723,-1.183203,CENTRE SECURITEST,,44150,
+AVENUE PAUL RAOULT,CENTRE COMMERCIAL ESPACE AUCHAN,10,1,LES MUREAUX,753,078,,48.980191780695,true,/fr_FR/centre/centre-securitest-les-mureaux-753,1.9118607987766,CENTRE SECURITEST,,78130,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/753/image_753_1504186396.jpg
+14 RUE DE LA CHESNAIE,,10,1,LES HERBIERS,535,085,1,46.876827,true,/fr_FR/centre/mfr-les-herbiers-535,-1.018093,MFR ,,85500,
+790 RUE COMMANDANT DUBOIS,,10,0,ALBERTVILLE,575,073,1,45.665985,true,/fr_FR/centre/maison-communale-du-parc-albertville-575,6.380099,MAISON COMMUNALE DU PARC,,73200,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/575/image_575_1496070663.jpg
+20 ROUTE DE BREST ,,1,,QUIMPER,621,029,1,47.999261,true,/fr_FR/centre/centre-securitest-quimper-621,-4.091379,CENTRE SECURITEST,,29000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/621/image_621_1509465529.jpg
+RUE HENRI REY,ZAC BRIFFAUT EST,10,1,VALENCE,637,026,1,44.917406,true,/fr_FR/centre/centre-autosecurite-valence-637,4.933766,CENTRE AUTOSECURITE,,26000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/637/image_637_1495525881.jpg
+6 RUE ERNEST RENAN,GARE ROUTIERE,9,0,SEGRE,688,049,1,47.689215,true,/fr_FR/centre/mairie-segre-688,-0.883504,MAIRIE,,49500,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/688/image_688_1509465777.jpg
+40 RUE DE L ETOILE DU MATIN,,8,0,SAINT NAZAIRE,689,044,,47.2610345,true,/fr_FR/centre/centre-autosecurite-saint-nazaire-689,-2.274015,CENTRE AUTOSECURITE,,44600,
+28 BIS RUE LACORDAIRE,,6,1,PARIS,690,075,1,48.842868,true,/fr_FR/centre/centre-securitest-paris-690,2.283148,CENTRE SECURITEST,,75015,
+87 RUE DE L AMBASSADEUR,,5,1,CONFLANS SAINTE HONORINE,475,078,1,49.00888,true,/fr_FR/centre/centre-autosecurite-conflans-sainte-honorine-475,2.106766,CENTRE AUTOSECURITE,,78700,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/475/image_475_1507021182.jpg
+50 RUE RENE CASSIN,,10,1,AGEN,725,047,1,44.19427,true,/fr_FR/centre/centre-autosecurite-agen-725,0.623292,CENTRE AUTOSECURITE,,47000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/725/image_725_1508163081.jpg
+68 RUE LÉONARD DE VINCI,,10,1,MARCK,425,062,1,50.945988,true,/fr_FR/centre/centre-autosecurite-marck-425,1.94058,CENTRE AUTOSECURITE,,62730,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/425/image_425_1498480457.jpg
+34 RUE ABEL HOVELACQUE,,9,1,PARIS,743,075,1,48.831523,true,/fr_FR/centre/centre-securitest-paris-743,2.352622,CENTRE SECURITEST,,75013,
+7 RUE PAUL COLONNA D ISTRIA,,10,1,AJACCIO,756,02A,1,41.933488,true,/fr_FR/centre/hotel-castel-vecchio-ajaccio-756,8.740427,HOTEL CASTEL VECCHIO,,20000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/756/image_756_1508161458.jpg
+6 RUE COURONNE DES INDES,,10,1,VITRY LE FRANCOIS,582,051,1,48.7288702,true,/fr_FR/centre/salle-espace-lucien-herr-vitry-le-francois-582,4.5837557,SALLE ESPACE LUCIEN HERR,,51300,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/582/image_582_1606983545.jpg
+16 RUE FEDERICO GARCIA LORCA,,5,0,AUCH,587,032,1,43.672778,true,/fr_FR/centre/centre-autosecurite-auch-587,0.60013,CENTRE AUTOSECURITE,,32000,
+9 RUE CESAR CAMPINCHI,,10,1,BASTIA,608,02B,1,42.698578,true,/fr_FR/centre/centre-objectifcode-bastia-608,9.448626,CENTRE OBJECTIFCODE,,20200,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/608/image_608_1498551712.jpg
+70-72 COURS BECQUART CASTELBON,,10,1,VOIRON,632,038,1,45.362041,true,/fr_FR/centre/hotel-kyriad-voiron-632,5.590529,HOTEL KYRIAD,,38500,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/632/image_632_1495810741.jpg
+51 ROUTE DE SAINT-AGREVE,,1,1,TENCE,639,043,1,45.1097,true,/fr_FR/centre/centre-securitest-tence-639,4.295089,CENTRE SECURITEST,,43190,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/639/image_639_1495811151.jpg
+"ROND POINT DE CEPPE, RN 193",CENTRE AUTOSECURITE,6,0,BIGUGLIA,644,02B,1,42.628387,true,/fr_FR/centre/centre-objectifcode-biguglia-644,9.436989,CENTRE OBJECTIFCODE,,20620,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/644/image_644_1496324387.jpg
+ROUTE BASTIA,,10,1,L ILE ROUSSE,683,02B,1,42.273337,true,/fr_FR/centre/stade-ambrogi-jacques-l-ile-rousse-683,8.936867,STADE AMBROGI JACQUES,,20220,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/683/image_683_1498551738.jpg
+28 AVENUE DE FRANCE,,10,1,ANNECY,331,074,1,45.909957,true,/fr_FR/centre/cma-74-annecy-331,6.138676,CMA 74,,74000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/331/image_331_1496070770.jpg
+91 AVENUE DES 4 SAISONS,,10,1,LUNEL,449,034,1,43.676805,true,/fr_FR/centre/centre-autosecurite-lunel-449,4.1169,CENTRE AUTOSECURITE,,34400,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/449/image_449_1497436807.jpg
+25 AVENUE DES GORGES DU TARN,,10,0,MENDE,735,048,1,44.516363,true,/fr_FR/centre/centre-autosecurite-mende-735,3.489285,CENTRE AUTOSECURITE,,48000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/735/image_735_1498834600.jpg
+360 RUE ALPHONSE BEAU DE ROCHAS,,10,1,PERPIGNAN,565,066,1,42.733372,true,/fr_FR/centre/centre-securitest-perpignan-565,2.894277,CENTRE SECURITEST,,66000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/565/image_565_1498636538.jpg
+ZI LA ROSERAIE ,,7,1,MONTDIDIER,577,080,1,49.649385,true,/fr_FR/centre/centre-autosecurite-montdidier-577,2.59199,CENTRE AUTOSECURITE,,80500,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/577/image_577_1603785682.jpg
+52 AVENUE DE LA VISTE,,10,1,MARSEILLE,590,013,1,43.356508,true,/fr_FR/centre/centre-autosecurite-marseille-590,5.357584,CENTRE AUTOSECURITE,,13015,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/590/image_590_1495445288.jpg
+202 AVENUE DU SOLEIL,ZAC COTE SOLEIL,10,1,VAUVERT,593,030,1,43.7090888,true,/fr_FR/centre/centre-securitest-vauvert-593,4.2673505,CENTRE SECURITEST,,30600,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/593/image_593_1495810075.jpg
+1 RUE DE LA ROUELLE,ZA LES ROLANDIERES,10,0,DOL DE BRETAGNE,605,035,1,48.551657,true,/fr_FR/centre/centre-autosecurite-dol-de-bretagne-605,-1.724041,CENTRE AUTOSECURITE,,35120,
+13 AVENUE FRANÇOIS MITTERRAND, ,1,0,SAINT GAUDENS,660,031,1,43.109604,true,/fr_FR/centre/centre-autosecurite-saint-gaudens-660,0.72989,CENTRE AUTOSECURITE,,31800,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/660/image_660_1506689039.jpg
+24 RUE CONDORCET,,10,1,CHENNEVIERES SUR MARNE,665,094,1,48.795504,true,/fr_FR/centre/centre-autosecurite-chennevieres-sur-marne-665,2.546288,CENTRE AUTOSECURITE,,94430,
+1853 AVENUE DU MARECHAL JUIN,,10,1,MONT DE MARSAN,694,040,1,43.90821,true,/fr_FR/centre/centre-securitest-mont-de-marsan-694,-0.469864,CENTRE SECURITEST,,40000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/694/image_694_1508163035.jpg
+15 ROUTE DE ROISSY,,1,1,GOUSSAINVILLE,726,095,1,49.012193,true,/fr_FR/centre/centre-autosecurite-goussainville-726,2.4759,CENTRE AUTOSECURITE,,95190,
+RUE DU GENERAL TESTE ,,10,0,BAGNOLS SUR CEZE,192,030,1,44.1611751,true,/fr_FR/centre/hotel-mallet-bagnols-sur-ceze-192,4.619287,HOTEL MALLET ,,30205,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/192/image_192_1508245963.jpg
+3 LOT CALIMBE ROUTE DE RABAN,,8,1,CAYENNE,754,973,1,4.920165,true,/fr_FR/centre/centre-autosecurite-cayenne-754,-52.313386,CENTRE AUTOSECURITE,,97300,
+PLACE DE L HOTEL DE VILLE ,,10,1,MONTAIGU,773,085,1,46.974267,true,/fr_FR/centre/salle-des-fetes-montaigu-773,-1.313801,SALLE DES FETES,,85600,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/773/image_773_1509465141.jpg
+29 RUE DU MARCHE,,10,1,MARSEILLE,769,013,1,43.319683291562,true,/fr_FR/centre/centre-securitest-marseille-769,5.3679897288361,CENTRE SECURITEST,,13015,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/769/image_769_1505823460.jpg
+10 AVENUE DE LA RÉPUBLIQUE ,,10,1,LES ANDELYS,783,027,1,49.246358,true,/fr_FR/centre/hotel-de-paris-les-andelys-783,1.415397,HÔTEL DE PARIS,,27700,
+57 AVENUE JEAN CHARLES RIVET,,10,0,BRIVE LA GAILLARDE,799,019,1,45.1485,true,/fr_FR/centre/centre-securitest-brive-la-gaillarde-799,1.490715,CENTRE SECURITEST,,19100,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/799/image_799_1517324865.jpg
+51 AVENUE GEORGES POMPIDOU,,4,1,MELUN,805,077,1,48.550059,true,/fr_FR/centre/centre-securitest-melun-805,2.649142,CENTRE SECURITEST,,77000,
+1370 RUE DE L INDUSTRIE,ZI DE JARRY,10,1,BAIE MAHAULT,417,971,1,16.237121,true,/fr_FR/centre/centre-securitest-baie-mahault-417,-61.559872,CENTRE SECURITEST,,97122,
+232 RUE DU JEU DE PAUME,CENTRE COMMERCIAL CREIL SAINT MAXIMIN,10,1,SAINT MAXIMIN,364,060,1,49.233900118574,true,/fr_FR/centre/centre-securitest-saint-maximin-364,2.466669245369,CENTRE SECURITEST,,60740,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/364/image_364_1539331162.jpg
+204 AVENUE ARISTIDE BRIAND,,9,1,BAGNEUX,775,092,1,48.793946,true,/fr_FR/centre/centre-sejours-et-affaires-bagneux-775,2.320525,CENTRE SEJOURS ET AFFAIRES,,92220,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/775/image_775_1506687517.jpg
+IMMEUBLE NIDAU,ZI PETITE COCOTTE - CHAMPIGNY,10,1,DUCOS,567,972,1,14.577899,true,/fr_FR/centre/centre-securitest-ducos-567,-60.985502,CENTRE SECURITEST,,97224,
+ROUTE NATIONALE 3,,1,1,SAINTE MENEHOULD,771,051,1,49.086778,true,/fr_FR/centre/centre-autosecurite-sainte-menehould-771,4.879003,CENTRE AUTOSECURITE,,51800,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/771/image_771_1604998538.jpg
+8 RUE DU CLOS MARCHAND ,,10,1,POITIERS,787,086,1,46.564138,true,/fr_FR/centre/centre-autosecurite-poitiers-787,0.362497,CENTRE AUTOSECURITE,,86000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/787/image_787_1516635339.jpg
+3 RUE VICTOR CAMILLE ARTIGE,,8,1,AUBENAS,789,007,1,44.618897,true,/fr_FR/centre/store-objectifcode-aubenas-789,4.389962,STORE OBJECTIFCODE,,07200,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/789/image_789_1518796968.jpg
+28 RUE JACQUARD,,10,1,ORLEANS,767,045,1,47.916312,true,/fr_FR/centre/residences-jeunes-acacias-colombier-orleans-767,1.904656, RESIDENCES JEUNES ACACIAS COLOMBIER,,45000,
+BOULEVARD DE VERDUN,SALLE VIOLETTE,10,0,CARENTAN,785,050,1,49.303049,true,/fr_FR/centre/mairie-carentan-785,-1.245938,MAIRIE,,50500,
+9-11 RUE ALFRED DE MUSSET ,,12,1,TALENCE,800,033,1,44.788232,true,/fr_FR/centre/centre-securitest-talence-800,-0.589476,CENTRE SECURITEST,,33400,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/800/image_800_1538493056.jpg
+RUE DU 14 JUILLET,,10,1,BLAIN,781,044,1,47.473457,true,/fr_FR/centre/salle-du-14-juillet-blain-781,-1.764622,SALLE DU 14 JUILLET,,44130,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/781/image_781_1509465060.jpg
+8 RUE DES BOBINES,,7,1,SAINT VINCENT DE TYROSSE,792,040,1,43.663237,true,/fr_FR/centre/synforma-saint-vincent-de-tyrosse-792,-1.284499,SYNFORMA,,40230,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/792/image_792_1514915879.jpg
+11 AVENUE DE PARIS,,1,1,MARGON,1286,028,1,48.3344794,true,/fr_FR/centre/centre-autosecurite-margon-1286,0.8348536,CENTRE AUTOSECURITE,,28400,
+43 AVENUE DE LA REPUBLIQUE,,1,1,VENISSIEUX,949,069,1,45.7076266,true,/fr_FR/centre/centre-securitest-venissieux-949,4.8707624,CENTRE SECURITEST,,69200,
+1020 AVENUE DE MONTAUBAN,,10,0,MONTECH,963,082,1,43.9630535,true,/fr_FR/centre/centre-autosecurite-montech-963,1.249261993269,CENTRE AUTOSECURITE,,82700,
+ZONE INDUSTRIELLE DE LA GARENNE,,1,,CHATENOY LE ROYAL,992,071,1,46.783112347739,true,/fr_FR/centre/centre-autosecurite-chatenoy-le-royal-992,4.7986710410774,CENTRE AUTOSECURITE,,71880,
+37 PLACE BREVIERE,SALLE DE JUSTICE ET DE PAIX,10,1,FORGES LES EAUX,809,076,1,49.613066,true,/fr_FR/centre/mairie-forges-les-eaux-809,1.545886,MAIRIE,,76440,
+,CENTRE INTERNATIONAL DE SEJOUR,10,1,VICHY,849,003,1,46.141136,true,/fr_FR/centre/centre-omnisport-pont-de-l-europe-vichy-849,3.406373,CENTRE OMNISPORT-PONT DE L`EUROPE,,03200,
+155 RUE HENRI BARBUSSE,,10,0,CAUDRY,884,059,1,50.1211999,true,/fr_FR/centre/centre-securitest-caudry-884,3.4024068,CENTRE SECURITEST,,59540,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/884/image_884_1604998212.jpg
+ROUTE D`AUXERRE, ZONE INDUSTRIELLE,1,,LA CHARITE SUR LOIRE,908,058,1,47.1842,true,/fr_FR/centre/centre-autosecurite-la-charite-sur-loire-908,3.0283,CENTRE AUTOSECURITE,,58400,
+6 RUE DU CAVALIER,,6,1,VIERZON,917,018,1,47.2267726,true,/fr_FR/centre/centre-autosecurite-vierzon-917,2.0626884,CENTRE AUTOSECURITE,,18100,
+14 BOULEVARD JURANVILLE,,10,0,BOURGES,919,018,1,47.0840774,true,/fr_FR/centre/centre-autosecurite-bourges-919,2.3889551,CENTRE AUTOSECURITE,,18000,
+PLACE CHARLES DE GAULLE,SALLE DITE LA CONCIERGERIE,8,1,BAVAY,959,059,1,50.2991014,true,/fr_FR/centre/mairie-de-bavay-bavay-959,3.7947585,MAIRIE DE BAVAY ,,59570,
+11 RUE DE LA POSTE,,10,1,SAINT MARCEL,967,027,1,49.1045596,true,/fr_FR/centre/kyriad-saint-marcel-967,1.4508183,KYRIAD ,,27950,
+ 4 RUE DE THESSALIE,ZAC LA BÉRANGERAIS,10,0,LA CHAPELLE SUR ERDRE,983,044,1,47.282669,true,/fr_FR/centre/centre-securitest-la-chapelle-sur-erdre-983,-1.548712,CENTRE SECURITEST,,44240,
+13 ROUTE DE NIORT ,,1,1,SAVIGNE,993,086,1,46.159652,true,/fr_FR/centre/centre-autosecurite-savigne-993,0.303036,CENTRE AUTOSECURITE,,86400,
+3 BIS ROUTE DE MELLE,,1,1,CHEF BOUTONNE,999,079,,46.116271,true,/fr_FR/centre/centre-securitest-chef-boutonne-999,-0.0878053,CENTRE SECURITEST,,79110,
+43 ROUTE DE CIVRAY,ZONE COMMERCIALE,1,1,SAUZE VAUSSAIS,1000,079,,46.134921,true,/fr_FR/centre/centre-securitest-sauze-vaussais-1000,0.122808,CENTRE SECURITEST,,79190,
+11 RUE DU CHEMIN NEUF ,,1,1,FRANCONVILLE,1001,095,1,48.979541,true,/fr_FR/centre/centre-securitest-franconville-1001,2.234521,CENTRE SECURITEST,,95130,
+22 AVENUE VAUBAN,,1,1,LIVRY GARGAN,1005,093,1,48.9161948,true,/fr_FR/centre/centre-securitest-livry-gargan-1005,2.5216631,CENTRE SECURITEST,,93190,
+ZAC DE PARASOL ,RUE ANNE-MARIE ROBINET ,10,1,VILLENEUVE SUR LOT,826,047,,44.40756,true,/fr_FR/centre/centre-securitest-villeneuve-sur-lot-826,0.73691,CENTRE SECURITEST,,47300,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/826/image_826_1514915616.jpg
+ZAC DE LA CARRIERE DOREE,,8,1,ORCHIES,828,059,1,50.473689,true,/fr_FR/centre/centre-autosecurite-orchies-828,3.231891,CENTRE AUTOSECURITE,,59310,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/828/image_828_1604998093.jpg
+260 RUE MELODIUM,,12,1,ST ANDRE,902,974,1,-20.9611191,true,/fr_FR/centre/centre-objectifcode-st-andre-902,55.6521999,CENTRE OBJECTIFCODE,,97440,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/902/image_902_1539351082.jpg
+40 BOULEVARD DE NESLES ,,6,1,CHAMPS SUR MARNE,833,077,1,48.849561935089,true,/fr_FR/centre/centre-securitest-champs-sur-marne-833,2.5796400932541,CENTRE SECURITEST,,77420,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/833/image_833_1516634938.jpg
+QUARTIER DE LA CROIX D`OR,,8,1,PIERRELATTE,859,026,1,44.360987939522,true,/fr_FR/centre/centre-autosecurite-pierrelatte-859,4.6943070277557,CENTRE AUTOSECURITE,,26700,
+2 RUE ANATOLE FRANCE,,10,1,BOUSSOIS,893,059,1,50.2899,true,/fr_FR/centre/foyer-des-jeunes-travailleurs-boussois-893,4.039574,FOYER DES JEUNES TRAVAILLEURS,,59168,
+1 AVENUE DE L`ANGEVINIÈRE,,10,1,SAINT HERBLAIN,931,044,1,47.244781,true,/fr_FR/centre/bureaux-du-sillon-saint-herblain-931,-1.608411,BUREAUX DU SILLON,,44800,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/931/image_931_1538493697.jpg
+RUE DE LA CÔTE GRILLÉE,,5,1,CHAUMONT,955,052,1,48.081792,true,/fr_FR/centre/centre-securitest-chaumont-955,5.138812,CENTRE SECURITEST,,52000,
+ZONE D`HELLIEULE- AVENUE DE L`EGALITÉ ,,8,1,SAINT DIE DES VOSGES,957,088,1,48.292561,true,/fr_FR/centre/centre-autosecurite-saint-die-des-vosges-957,6.935752,CENTRE AUTOSECURITE,,88100,
+AVENUE DU PRESIDENT KENNEDY,BATIMENT Q,10,1,AJACCIO,958,02A,1,41.93124,true,/fr_FR/centre/espace-municipal-saint-jean-ajaccio-958,8.73358,ESPACE MUNICIPAL SAINT JEAN,,20090,
+62 AVENUE JEAN BAPTISTE LEBAS,,10,0,ROUBAIX ,972,059,1,50.69309655,true,/fr_FR/centre/besquare-roubaix-972,3.1703777043916,BESQUARE,,59100,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/972/image_972_1606204752.jpg
+41 ROUTE DE VAUZELLES,,6,0,LOCHES,811,037,1,47.133173,true,/fr_FR/centre/centre-autosecurite-loches-811,0.982158,CENTRE AUTOSECURITE,,37600,
+205 BOULEVARD DES TRAPPISTINES,,5,0,LAVAL,864,053,1,48.060156,true,/fr_FR/centre/centre-securitest-laval-864,-0.77969,CENTRE SECURITEST,,53000,
+"C- BRIANT, CHEMIN DE LA BRUYERE",1ER ETAGE,10,1,SAVIGNEUX,912,042,1,45.610975412194,true,/fr_FR/centre/centre-de-savigneux-savigneux-912,4.0965753793716,CENTRE DE SAVIGNEUX,,42600,
+361 RUE SAINT NICOLAS,SALLE SANTORIN,10,1,GRANVILLE,813,050,1,48.832879,true,/fr_FR/centre/agora-granville-813,-1.567924,AGORA,,50400,
+ RUE FRANCOIS MITTERRAND,,10,1,LE TREPORT,819,076,1,50.05915,true,/fr_FR/centre/mairie-le-treport-819,1.382519,MAIRIE,,76470,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/819/image_819_1607337101.jpg
+58 RUE  DE LA REPUBLIQUE,,10,0,MAZAMET,837,081,1,43.493267,true,/fr_FR/centre/centre-auto-securite-mazamet-837,2.372978,CENTRE AUTO SECURITE,,81200,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/837/image_837_1537885037.jpg
+38 PLACE GAMBETTA,,10,1,BERGERAC,855,024,1,44.855433,true,/fr_FR/centre/inter-hotel-de-bordeaux-bergerac-855,0.482462,INTER HOTEL DE BORDEAUX,,24100,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/855/image_855_1518795353.jpg
+140 RUE ERIC ROHMER,PARKING AUCHAN MISTRAL 7,7,1,MONTFAVET,885,084,1,43.9220304,true,/fr_FR/centre/centre-autosecurite-montfavet-885,4.8612851,CENTRE AUTOSECURITE ,,84140,
+"33, AVENUE LOUIS MAZET",,10,0,GRAMAT,904,046,1,44.774789,true,/fr_FR/centre/le-grand-couvent-gramat-904,1.724646,LE GRAND COUVENT,,46500,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/904/image_904_1537792237.jpg
+AVENUE DU 85 EME DE LIGNE,,1,1,COSNE COURS SUR LOIRE,907,058,1,47.393032914783,true,/fr_FR/centre/centre-autosecurite-cosne-cours-sur-loire-907,2.9231357574463,CENTRE AUTOSECURITE,,58200,
+1 BIS RUE DE LA PROVIDENCE,,9,0,HESDIN,922,062,1,50.3781299,true,/fr_FR/centre/instep-formation-scop-instep-hesdin-922,2.0310162,INSTEP FORMATION (SCOP INSTEP),,62140,
+ZONE INDUSTRIEL LES TRANCHIS,,1,1,COUHE,979,086,1,46.284078,true,/fr_FR/centre/centre-securitest-couhe-979,0.176317,CENTRE SECURITEST,,86700,
+9 BOULEVARD VINCENT GACHE ,,10,1,NANTES,985,044,1,47.2063102,true,/fr_FR/centre/adelis-nantes-985,-1.5428425,ADELIS,,44200,
+16 BIS PAUL DOUMER,,1,0,TRIEL SUR SEINE,987,078,1,48.972364,true,/fr_FR/centre/centre-securitest-triel-sur-seine-987,2.00824,CENTRE SECURITEST,,78510,
+4 BIS RUE DE LA GARE,,1,1,CHANTELOUP LES VIGNES,989,078,1,48.9772745,true,/fr_FR/centre/centre-autosecurite-chanteloup-les-vignes-989,2.0316748,CENTRE AUTOSECURITE,,78570,
+48 D VIEILLE ROUTE ,,1,1,GENOUILLAC,1021,023,,46.3463734,true,/fr_FR/centre/centre-autosecurite-genouillac-1021,1.9910076,CENTRE AUTOSECURITE,,23350,
+366 ZONE DE LUGAT,,7,1,SAINT PARDOUX DU BREUIL,1037,047,,44.48194,true,/fr_FR/centre/centre-securitest-saint-pardoux-du-breuil-1037,0.188976,CENTRE SECURITEST,,47200,
+20 AVENUE DES FRERES MONTGOLFIERS,,10,1,CHASSIEU,1046,069,1,45.742440004203,true,/fr_FR/centre/mille-plaines-chassieu-1046,4.9723490689755,MILLE PLAINES,,69680,
+1 PLACE MARIE CURIE,,10,1,ANNECY,1055,074,1,45.9029385,true,/fr_FR/centre/novotel-annecy-annecy-1055,6.1223131,NOVOTEL ANNECY,,74000,
+48 RUE HENRI BECQUEREL,,9,1,CHELLES,1038,077,1,48.8922766,true,/fr_FR/centre/centre-securitest-chelles-1038,2.5915275,CENTRE SECURITEST,,77500,
+185 AVENUE GALLIENI,,1,1,BONDY,1012,093,1,48.907123,true,/fr_FR/centre/rn3-auto-bondy-bondy-1012,2.486966,RN3 AUTO BONDY ,,93140,
+20 RUE DES LOUVERIES,,5,1,COIGNIERES,1014,078,1,48.7498831,true,/fr_FR/centre/centre-verif-autos-coignieres-1014,1.9261538,CENTRE VERIF AUTOS,,78310,
+8 BOULEVARD DES ALLIES,,10,1,VALENCIENNES,1023,059,1,50.3663999,true,/fr_FR/centre/centre-autosecurite-valenciennes-1023,3.5248305,CENTRE AUTOSECURITE,,59300,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1023/image_1023_1604998375.jpg
+50 AVENUE DE LA RESISTANCE ,,1,1,FRONTIGNAN,1025,034,1,43.4522498,true,/fr_FR/centre/centre-securitest-frontignan-1025,3.7591188,CENTRE SECURITEST,,34110,
+16 RUE LOUIS BRAILLE,,5,0,RAMONVILLE SAINT AGNE,1015,031,1,43.535311629766,true,/fr_FR/centre/centre-securitest-ramonville-saint-agne-1015,1.4789700508118,CENTRE SECURITEST,,31520,
+10 RUE DE BELFORT,,1,1,DANNEMARIE,1034,068,1,47.6307423,true,/fr_FR/centre/centre-securitest-dannemarie-1034,7.116768,CENTRE SECURITEST,,68210,
+IMPASSE DE LA FRANCHE COMTE,,1,1,SAINT VALLIER,1053,071,1,46.6426966,true,/fr_FR/centre/centre-auto-securite-saint-vallier-1053,4.3326094,CENTRE AUTO SECURITE,,71230,
+9 RUE SABIN DUCADOSSE,ZONE D ACTIVITES DE BERGEVIN,10,1,POINTE A PITRE,1009,971,1,16.245611,true,/fr_FR/centre/centre-securitest-pointe-a-pitre-1009,-61.536861,CENTRE SECURITEST,,97110,
+504 AVENUE DU MARECHAL JUIN ,,10,1,SIX FOURS LES PLAGES,1044,083,1,43.0951792,true,/fr_FR/centre/centre-securitest-six-fours-les-plages-1044,5.8476504,CENTRE SECURITEST,,83140,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1044/image_1044_1619712135.jpg
+20 AVENUE DES OLYMPIADES,,10,1,FONTENAY SOUS BOIS,1121,094,1,48.854363356013,true,/fr_FR/centre/hotel-mercure-fontenay-sous-bois-1121,2.4882906675339,HOTEL MERCURE,,94120,
+RUE DU COLONEL MULLER,CC LORIENT K2,1,0,LORIENT,1123,056,1,47.764162210176,true,/fr_FR/centre/centre-securitest-lorient-1123,-3.3958553001978,CENTRE SECURITEST,,56100,
+ 2 BOULEVARD DE L`ATLANTIQUE,,1,,SAINT BRIEUC,1125,022,1,48.5190196,true,/fr_FR/centre/centre-securitest-saint-brieuc-1125,-2.7851667,CENTRE SECURITEST,,22000,
+3 RUE DE METZ,,1,1,PUTTELANGE AUX LACS,1131,057,1,49.0583527,true,/fr_FR/centre/centre-securitest-puttelange-aux-lacs-1131,6.9201953,CENTRE SECURITEST,,57510,
+114 ROUTE DE LYON,,10,1,MACON,1134,071,1,46.2864875,true,/fr_FR/centre/centre-de-controle-technique-maconnais-macon-1134,4.8088197,CENTRE DE CONTROLE TECHNIQUE MACONNAIS,,71000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1134/image_1134_1607007821.jpg
+FONTAINE AUX BRUNS,IMPASSE DE LA BOSSELLE,1,0,TRIGNAC,1166,044,1,47.2994043,true,/fr_FR/centre/centre-securitest-trignac-1166,-2.2116323,CENTRE SECURITEST,,44570,
+168 RUE D`ARNAGE,LA POINTE,1,0,LE MANS,1168,072,1,47.98515825,true,/fr_FR/centre/centre-securitest-le-mans-1168,0.18596454128389,CENTRE SECURITEST,,72100,
+8 RUE DE LA VIGNOTTE,,1,1,SAINTS GEOSMES,1071,052,1,47.830178231957,true,/fr_FR/centre/centre-securitest-saints-geosmes-1071,5.3356874804025,CENTRE SECURITEST,,52200,
+"16, RUE ALEXANDER FLEMING",,1,1,HEROUVILLE ST CLAIR,1091,014,1,49.208335234493,true,/fr_FR/centre/centre-securitest-individuelle-herouville-st-clair-1091,-0.33887565135956,CENTRE SECURITEST (INDIVIDUELLE),,14200,
+13 RUE DE NARVICK,,1,,BREST,1124,029,1,48.383518,true,/fr_FR/centre/centre-securitest-acos-brest-1124,-4.4843077,CENTRE SECURITEST ACOS,,29200,
+42 RUE EMILE ZOLA,,10,1,SAINT QUENTIN,1130,002,1,49.8460113,true,/fr_FR/centre/hotel-le-florence-saint-quentin-1130,3.2845024,HOTEL LE FLORENCE,,02100,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1130/image_1130_1606205213.jpg
+BOULEVARD CHARLES STOESSEL,,1,1,MULHOUSE,1132,068,1,47.742490734742,true,/fr_FR/centre/centre-autosecurite-mulhouse-1132,7.3252630233765,CENTRE AUTOSECURITE,,68200,
+5 RUE DU TOUR DES FOSSÉS,,1,1,SAULIEU,1141,021,1,47.2782152,true,/fr_FR/centre/centre-objectifcode-saulieu-1141,4.2291408,CENTRE OBJECTIFCODE,,21210,
+14 RUE GILLES DE ROBERVAL,,1,1,NOGENT LE PHAYE,1143,028,1,48.4529467,true,/fr_FR/centre/centre-auto-securite-nogent-le-phaye-1143,1.5462956,CENTRE AUTO SECURITE,,28630,
+17 AVENUE GUSTAVE EIFFEL,,7,0,CHATEAU THIERRY,1146,002,1,49.035771,true,/fr_FR/centre/centre-auto-securite-chateau-thierry-1146,3.387193,CENTRE AUTO SECURITE,,02400,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1146/image_1146_1604998432.jpg
+128 ROUTE DEPARTEMENTALE 840,ROCADE DE CONCHE ,1,1,CONCHES-EN-OUCHE,1147,027,1,48.950958,true,/fr_FR/centre/centre-securitest-conches-en-ouche-1147,0.939279,CENTRE SECURITEST,,27190,
+ZAC - LA PICHOTIERE,,1,1,ST SULPICE SUR RISLE,1171,061,,48.7699483,true,/fr_FR/centre/centre-securitest-st-sulpice-sur-risle-1171,0.6622963,CENTRE SECURITEST,,61300,
+33 BIS ROUTE D`AIGRE,,1,1,RUFFEC,1182,016,,46.023138813944,true,/fr_FR/centre/centre-auto-securite-ruffec-1182,0.19452452659607,CENTRE AUTO SECURITE,,16700,
+5 RUE BOURRELY,,1,1,MONTPELLIER,1189,034,1,43.602983858823,true,/fr_FR/centre/centre-securitest-montpellier-1189,3.8690435886383,CENTRE SECURITEST,,34000,
+10 AVENUE VLADIMIR ILITCHLENINE ,,4,1,NANTERRE,1223,092,1,48.887967,true,/fr_FR/centre/centre-auto-securite-nanterre-1223,2.198276,CENTRE AUTO SECURITE,,92000,
+PARC D`ACTIVITE AL CROS,,1,0,BUZET SUR TARN,1237,031,1,43.777204,true,/fr_FR/centre/centre-securitest-buzet-sur-tarn-1237,1.624405,CENTRE SECURITEST,,31660,
+22 ROUTE DE BOIS VERT,ZONE COMMERCIALE CASSAGNETTES,1,1,OLEMPS,1240,012,1,44.333103911367,true,/fr_FR/centre/centre-auto-securite-olemps-1240,2.5543534755707,CENTRE AUTO SECURITE,,12510,
+ZI LA GRAVOUX,LA TOURETTE,1,1,ST BONNET LE CHATEAU,1241,042,1,45.433981,true,/fr_FR/centre/centre-securitest-st-bonnet-le-chateau-1241,4.070283,CENTRE SECURITEST,,42380,
+25 RUE OSCAR ET JEAN AURIAC,,6,0,BORDEAUX,1253,033,,44.8145425,true,/fr_FR/centre/centre-securitest-bordeaux-1253,-0.5536698,CENTRE SECURITEST,,33800,
+3 RUE DES ARTISANS,,1,0,VITRE,1280,035,1,48.113363,true,/fr_FR/centre/centre-auto-securite-vitre-1280,-1.203815,CENTRE AUTO SECURITE,,35500,
+3 RUE DE GIRANAUX,,1,1,ARC LES GRAY,1283,070,1,47.453337,true,/fr_FR/centre/centre-auto-securite-arc-les-gray-1283,5.590587,CENTRE AUTO SECURITE,,70100,
+14 RUE DES VALLÉES,,1,0,AMBRIERES LES VALLEES,1285,053,1,48.3970371,true,/fr_FR/centre/centre-securitest-ambrieres-les-vallees-1285,-0.6274615,CENTRE SECURITEST,,53300,
+72 ROUTE DE BISCHWILLER ,,1,1,SCHILTIGHEIM,1070,067,1,48.603244900686,true,/fr_FR/centre/centre-securitest-schiltigheim-1070,7.7465169021104,CENTRE SECURITEST,,67300,
+165 AVENUE AMBROISE CROIZAT,,1,1,ST MARTIN D HERES,1090,038,1,45.182120022159,true,/fr_FR/centre/centre-securitest-st-martin-d-heres-1090,5.7613903284073,CENTRE SECURITEST,,38400,
+7RUE DE PARIS,,10,1,LE TAMPON,1103,974,1,-21.2837525,true,/fr_FR/centre/sgs-objectifcode-le-tampon-1103,55.5134317,SGS OBJECTIFCODE,,97430,
+14 RUE DES ARTISANS,,1,1,SENTHEIM,1111,068,1,47.7584108,true,/fr_FR/centre/centre-securitest-sentheim-1111,7.0454769,CENTRE SECURITEST,,68780,
+18 RUE SERGENT BAUCHAT,,10,1,PARIS,1120,075,1,48.8441051,true,/fr_FR/centre/espace-conference-des-diaconesses-paris-1120,2.3905566,ESPACE CONFERENCE DES DIACONESSES,,75012,
+17 AVENUE JEANNE D`ARC,,1,1,ARCUEIL,1149,094,1,48.809644,true,/fr_FR/centre/centre-objectifcode-arcueil-1149,2.3327806,CENTRE OBJECTIFCODE,,94110,
+26 AVENUE GUSTAVE EIFFEL,,10,1,MERIGNAC,1155,033,1,44.856598930044,true,/fr_FR/centre/bordeaux-bureaux-services-merignac-1155,-0.66907167434692,BORDEAUX BUREAUX SERVICES,,33701,
+RUE DE L`OUILLETTE ,ZA LA CROIS ST GEORGES ,1,1,CONFOLENS,1181,016,1,46.02057603766,true,/fr_FR/centre/centre-auto-securite-confolens-1181,0.65444827079773,CENTRE AUTO SECURITE ,,16500,
+21 ROUTE DE GRAND CHARMONT,,1,0,MONTBELIARD,1207,025,1,47.516700726869,true,/fr_FR/centre/centre-auto-securite-montbeliard-1207,6.8110191822052,CENTRE AUTO SECURITE,,25200,
+ROUTE DE FOURGES,ZA DES PRES,1,1,GASNY,1216,027,1,49.098789044364,true,/fr_FR/centre/centre-securitest-gasny-1216,1.6114711761475,CENTRE SECURITEST,,27620,
+RUE DU HAUT ZI LA FERME,,6,1,BEAUCAMPS LE VIEUX,1221,080,1,49.838542935477,true,/fr_FR/centre/centre-auto-securite-beaucamps-le-vieux-1221,1.7711055278778,CENTRE AUTO SECURITE,,80430,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1221/image_1221_1603785944.jpg
+RUE LE GRAND MAIL,RUE PÔLE 2000,7,0,SAINT PERAY,1222,007,1,44.940303839451,true,/fr_FR/centre/centre-auto-securite-saint-peray-1222,4.8599374294281,CENTRE AUTO SECURITE,,07130,
+633 AVENUE DE CALES,,1,1,MILLAU,1230,012,1,44.0942956,true,/fr_FR/centre/centre-securitest-millau-1230,3.0735822,CENTRE SECURITEST,,12100,
+1 CHEMIN DE L`OUCHE DES FILLES,AVENUE DE L EUROPE,1,1,BARBEZIEUX,1064,016,1,45.4660377,true,/fr_FR/centre/securitest-barbezieux-1064,-0.1640134,SECURITEST,,16300,
+49 BIS RUE ROMAIN ROLLAND,,6,1,WINGLES,1079,062,1,50.497107844433,true,/fr_FR/centre/centre-securitest-wingles-1079,2.8636014461517,CENTRE SECURITEST,,62410,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1079/image_1079_1601885448.jpg
+1 BOULEVARD TREICH LAPLENE,,5,0,USSEL,1089,019,1,45.5458515,true,/fr_FR/centre/centre-securitest-ussel-1089,2.3085475,CENTRE SECURITEST,,19200,
+RUE JEAN MOULIN,,10,1,MARENNES,1107,017,1,45.825582,true,/fr_FR/centre/centre-d-animation-et-de-loisirs-marennes-1107,-1.096631,CENTRE D`ANIMATION ET DE LOISIRS,,17320,
+14 AVENUE VICTOR HUGO,,1,1,NONANCOURT,1135,027,1,48.764508,true,/fr_FR/centre/centre-autosecurite-nonancourt-1135,1.21335,CENTRE AUTOSECURITE,,27320,
+61 BIS RUE PAUL DOUMER,,10,1,ROYAN,1193,017,1,45.6272557,true,/fr_FR/centre/maison-des-associations-royan-1193,-1.0279572,MAISON DES ASSOCIATIONS,,17200,
+2 ALLÉE DES CHÊNES ,,1,0,VETRAZ MONTHOUX,1215,074,1,46.1843948,true,/fr_FR/centre/centre-autosecurite-vetraz-monthoux-1215,6.2719166,CENTRE AUTOSECURITE,,74100,
+RUE DE LA MASSE,,1,1,AMBERT,1243,063,1,45.542066290579,true,/fr_FR/centre/centre-autosecurite-ambert-1243,3.7368857860565,CENTRE AUTOSECURITE,,63600,
+119 BD DE STALINGRAD,,1,1,THIAIS,1245,094,1,48.7730124,true,/fr_FR/centre/centre-objectifcode-thiais-1245,2.3998879,CENTRE OBJECTIFCODE,,94320,
+26 A ROUTE DE CAEN,,1,1,BAYEUX,1257,014,1,49.2689945,true,/fr_FR/centre/autosecurite-bayeux-1257,-0.6826384,AUTOSECURITE,,14400,
+7 RUE DESIRE CLEMENT,,1,1,CONFLANS SAINTE HONORINE,1261,078,1,48.99932,true,/fr_FR/centre/centre-securitest-conflans-sainte-honorine-1261,2.10606,CENTRE SECURITEST,,78700,
+8 RUE DE L`ORSON,,1,0,VERN SUR SEICHE,1267,035,1,48.0641868,true,/fr_FR/centre/centre-auto-securite-vern-sur-seiche-1267,-1.6251619,CENTRE AUTO SECURITE,,35770,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1267/image_1267_1615826489.jpg
+124 ALLÉE MARCEL GUÉRIN,,10,1,MARGNY LES COMPIEGNE,1271,060,1,49.4209281,true,/fr_FR/centre/complexe-marcel-guerin-margny-les-compiegne-1271,2.8119926,COMPLEXE MARCEL GUERIN,,60280,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1271/image_1271_1607337055.jpg
+36 RUE ALSACE LORRAINE,,10,1,TOULOUSE,1083,031,1,43.605515,true,/fr_FR/centre/etincelle-coworking-toulouse-1083,1.445927,ETINCELLE COWORKING,,31000,
+10 ROUTE DE BELMONT,,8,1,CHAVANOZ,1092,038,1,45.7662062,true,/fr_FR/centre/garage-chris-cars-chavanoz-1092,5.183157,GARAGE CHRIS CARS ,,38230,
+ZAC BARRAILLOL,,1,0,GOLFECH,1129,082,1,44.113664,true,/fr_FR/centre/centre-securitest-golfech-1129,0.8667224,CENTRE SECURITEST,,82400,
+121 BOULEVARD DE VERDUN,,10,1,COURBEVOIE,1133,092,1,48.9048661,true,/fr_FR/centre/centre-securitest-courbevoie-1133,2.2565209,CENTRE SECURITEST,,92400,
+RUE DES ODEBERT,,10,,AVALLON,1163,089,1,47.4899655,true,/fr_FR/centre/hotel-de-gouvenain-avallon-1163,3.906885,HOTEL DE GOUVENAIN,,89200,
+IMPASSE TALBOT,,1,0,PAMIERS,1195,009,,43.107651,true,/fr_FR/centre/centre-auto-securite-pamiers-1195,1.6306137,CENTRE AUTO SECURITE,,09100,
+4 ALLÉE LOUIS LUMIÈRE,ZI LE BOSQUET,6,1,MERU,1227,060,1,49.2214282,true,/fr_FR/centre/centre-securitest-meru-1227,2.1284406,CENTRE SECURITEST,,60110,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1227/image_1227_1602667505.jpg
+AVENUE DE FUMEL,ZONE D`ACTIVITE HAUT-AGENAIS,10,1,MONTAYRAL,1229,047,,44.484450916266,true,/fr_FR/centre/centre-auto-securite-montayral-1229,0.97766518592834,CENTRE AUTO SECURITE,,47500,
+ROUTE DE COGNAC,ZI DU CHAIL,1,1,PONS,1232,017,,45.589761975884,true,/fr_FR/centre/centre-securitest-pons-1232,-0.5268931388855,CENTRE SECURITEST,,17800,
+24 BIS AVENUE DE LA HOUILLE BLANCHE,,8,1,SEYSSINET PARISET,1247,038,1,45.17852026296,true,/fr_FR/centre/centre-auto-securite-seyssinet-pariset-1247,5.6925916671753,CENTRE AUTO SECURITE,,38170,
+7 BD DE LA TOUR D`AUVERGNE,,1,,ST MALO,1259,035,1,48.6517343,true,/fr_FR/centre/centre-securitest-st-malo-1259,-2.0079975,CENTRE SECURITEST,,35400,
+12 RUE DU 8 MAI 1945,,10,1,SAINT POL SUR TERNOISE,1279,062,1,50.3769784,true,/fr_FR/centre/maison-pour-tous-saint-pol-sur-ternoise-1279,2.3310679,MAISON POUR TOUS,,62130,
+150 RUE D`ITALIE,,10,1,LA TOUR DU PIN,1294,038,1,45.5626666,true,/fr_FR/centre/centre-securitest-la-tour-du-pin-1294,5.4492759,CENTRE SECURITEST,,38110,
+ZA 39 ROUTE DE SAINT DIDIER,,1,1,ETANG SUR ARROUX,1353,071,1,46.8589952,true,/fr_FR/centre/centre-autosecurite-etang-sur-arroux-1353,4.1723128,CENTRE AUTOSECURITE,,71190,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1353/image_1353_1606295281.jpg
+9 RUE DE SAINT LAZARE,ZI,1,0,L`ILE BOUCHARD,1467,037,1,47.122858,true,/fr_FR/centre/centre-auto-securite-l-ile-bouchard-1467,0.433476,CENTRE AUTO SECURITE,,37220,
+RUE GEORGES GUYNEMER,ESPACE COMMERCIAL BLANC CARROI,1,0,CHINON,1468,037,1,47.1834249,true,/fr_FR/centre/centre-auto-securite-chinon-1468,0.26704943870859,CENTRE AUTO SECURITE,,37500,
+9002 RUE DES SYCOMORES,,1,1,BLERIOT PLAGE,1506,062,1,50.956102,true,/fr_FR/centre/centre-securitest-bleriot-plage-1506,1.809869,CENTRE SECURITEST,,62231,
+,2 B ROUTE DE WASSELONNE,1,1,ECKBOLSHEIM,1531,067,1,48.583587,true,/fr_FR/centre/centre-autosecurite-eckbolsheim-1531,7.690141,CENTRE AUTOSECURITE,,67201,
+ROUTE DE CHATELAUDREN LA LANDE,,1,,PLELO,1534,022,1,48.535168,true,/fr_FR/centre/centre-objectifcode-plelo-1534,-2.942429,CENTRE OBJECTIFCODE,,22170,
+144 RUE ARISTIDE DAUBREE,,1,1,LES MARTRES DE VEYRE,1539,063,1,45.697302,true,/fr_FR/centre/centre-autosecurite-les-martres-de-veyre-1539,3.195751,CENTRE AUTOSECURITE,,63730,
+2 PLACE GILBERT BOISSIER,,1,1,VAULX EN VELIN,1548,069,1,45.785935223213,true,/fr_FR/centre/centre-objectifcode-vaulx-en-velin-1548,4.9270147616779,CENTRE OBJECTIFCODE,,69120,
+ROUTE D ALENCON,,1,0,PRE EN PAIL,1551,053,1,48.462528259105,true,/fr_FR/centre/centre-autosecurite-pre-en-pail-1551,-0.18877332711626,CENTRE AUTOSECURITE,,53140,
+2 RUE DE L`INDUSTRIE,,1,1,PERONNE,1564,080,1,49.912899765448,true,/fr_FR/centre/centre-securitest-peronne-1564,2.9327688400649,CENTRE SECURITEST,,80200,
+30 AVENUE DE BLOIS,,1,1,BEAUGENCY,1566,045,1,47.776277503527,true,/fr_FR/centre/centre-securitest-beaugency-1566,1.6244031106972,CENTRE SECURITEST,,45190,
+4 ZA DE LA CROIX DES CHENES,,1,1,BRETONCELLES,1568,061,1,48.4351,true,/fr_FR/centre/centre-securitest-bretoncelles-1568,0.8873,CENTRE SECURITEST,,61110,
+121 CHEMIN DE L`AÉRODROME,,1,1,TOURRETTES,1569,083,1,43.607420476255,true,/fr_FR/centre/centre-autosecurite-tourrettes-1569,6.7023643262969,CENTRE AUTOSECURITE,,83440,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1569/image_1569_1616076583.jpg
+10 RUE EMILE LEVASSOR,,1,0,NARBONNE,1570,011,1,43.158966282986,true,/fr_FR/centre/centre-autosecurite-narbonne-1570,2.9844774551142,CENTRE AUTOSECURITE,,11100,
+ZA LA CHARRIÈRE,,1,1,RIOZ,1574,070,1,47.4313850291,true,/fr_FR/centre/centre-autosecurite-rioz-1574,6.0700119768094,CENTRE AUTOSECURITE,,70190,
+RUE DE LA MAIRIE,,1,1,ST MARTIN LES MELLE,1336,079,,46.2225807,true,/fr_FR/centre/centre-securitest-st-martin-les-melle-1336,-0.159999,CENTRE SECURITEST,,79500,
+18 AVENUE PAUL LANGEVIN,ZI DE LA PATTE D`OIE ,1,1,HERBLAY,1339,095,1,49.008034,true,/fr_FR/centre/centre-objectifcode-herblay-1339,2.16856,CENTRE OBJECTIFCODE,,95220,
+271 RUE CAMILLE DESMOULINS,,1,1,VILLEFRANCHE SUR SAONE,1350,069,1,45.9946281,true,/fr_FR/centre/centre-autosecurite-villefranche-sur-saone-1350,4.7391178,CENTRE AUTOSECURITE,,69400,
+7 AVENUE XAVIER LUCIANI,OPEN SPAZIU,10,1,CORTE,1375,02B,1,42.299294,true,/fr_FR/centre/i-d-formation-corte-1375,9.176237,I D FORMATION,,20250,
+RUE DE LA JUILLERIE,ZONE COMMERCIALE DE L`AUNIS,1,1,FERRIERES,1406,017,,46.228427,true,/fr_FR/centre/centre-securitest-ferrieres-1406,-0.874342,CENTRE SECURITEST,,17170,
+31 RUE BRUAT,,1,,BREST,1407,029,1,48.3982375,true,/fr_FR/centre/centre-autosecurite-brest-1407,-4.4804147,CENTRE AUTOSECURITE,,29200,
+12 RUE MARCELLIN BERTHELOT,ZA DE PARC LANN,1,0,VANNES,1421,056,1,47.666185,true,/fr_FR/centre/centre-autosecurite-parc-lann-vannes-1421,-2.787067,CENTRE AUTOSECURITE PARC LANN,,56000,
+11-13 ROUTE DE CONCHES,,10,1,LE NEUBOURG,1427,027,1,49.138268,true,/fr_FR/centre/hotel-acadine-le-neubourg-1427,0.905421,HOTEL ACADINE,,27110,
+350 RUE ERIC TABARLY,,1,1,BRUAY LA BUISSIERE,1429,062,1,50.4910896,true,/fr_FR/centre/centre-securitest-bruay-la-buissiere-1429,2.5814966,CENTRE SECURITEST,,62700,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1429/image_1429_1604998150.jpg
+Z.A.C. DE TESAN,IMPASSE DES CARIGNANS,1,1,SAINT LAURENT DES ARBRES,1451,030,1,44.060811,true,/fr_FR/centre/centre-autosecurite-saint-laurent-des-arbres-1451,4.711756,CENTRE AUTOSECURITE,,30126,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1451/image_1451_1618973127.jpg
+1003 AVENUE DU GENERAL DE GAULLE, ,1,0,SAINT AVERTIN,1469,037,1,47.3562786,true,/fr_FR/centre/centre-auto-securite-saint-avertin-1469,0.7270757,CENTRE AUTO SECURITE,,37550,
+9 RUE DE LA RESISTANCE,,1,1,YERRES,1493,091,1,48.696858,true,/fr_FR/centre/centre-autosecurite-yerres-1493,2.473909,CENTRE AUTOSECURITE,,91330,
+74 RUE DU BOURNARD,,5,1,COLOMBES,1497,092,1,48.923515,true,/fr_FR/centre/centre-securitest-colombes-1497,2.25746,CENTRE SECURITEST,,92700,
+97 AVENUE AMEDEE MERCIER,,1,1,BOURG EN BRESSE,1509,001,1,46.201268,true,/fr_FR/centre/centre-securitest-bourg-en-bresse-1509,5.250922,CENTRE SECURITEST,,01000,
+6 AVENUE DU DIX SEPTIÈME BCP,,1,1,RAMBERVILLERS,1523,088,1,48.338256142887,true,/fr_FR/centre/centre-autosecurite-rambervillers-1523,6.6354243131963,CENTRE AUTOSECURITE,,88700,
+14 AVENUE DE NORTHWICH,,1,0,DOLE,1526,039,1,47.095985,true,/fr_FR/centre/centre-autosecurite-dole-dole-1526,5.497161,CENTRE AUTOSECURITE DOLE,,39100,
+RUE DES ARTISANS,,1,1,COURSEULLES SUR MER,1528,014,1,49.320303,true,/fr_FR/centre/centre-securitest-courseulles-sur-mer-1528,-0.459321,CENTRE SECURITEST,,14470,
+1 RUE DE L OUCHE CHANTREAU,,1,0,LE PELLERIN,1543,044,1,47.188127,true,/fr_FR/centre/centre-autosecurite-le-pellerin-1543,-1.772715,CENTRE AUTOSECURITE,,44640,
+4 RUE DES RIVAUDS,,3,1,LA ROCHELLE,1304,017,1,46.1725712,true,/fr_FR/centre/centre-autosecurite-la-rochelle-1304,-1.2034882,CENTRE AUTOSECURITE,,17000,
+7 PLACE GRÉGOIRE BORDILLON,,1,0,ANGERS,1338,049,1,47.4745042,true,/fr_FR/centre/centre-securitest-angers-1338,-0.561724,CENTRE SECURITEST,,49000,
+17 RUE DES 7 LAUX ZA MALVAISIN,,1,0,LE VERSOUD,1357,038,1,45.211999,true,/fr_FR/centre/centre-securitest-le-versoud-1357,5.8556478,CENTRE SECURITEST,,38420,
+8 RUE DE TANGER,,5,1,ROUEN,1363,076,1,49.445652,true,/fr_FR/centre/centre-autosecurite-rouen-1363,1.074997,CENTRE AUTOSECURITE,,76000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1363/image_1363_1603786091.jpg
+3 RUE DES ARCEAUX,,7,,ANGOULEME,1371,016,1,45.6490887,true,/fr_FR/centre/biscuiterie-lolmede-angouleme-1371,0.1576452,BISCUITERIE LOLMÈDE,,16000,
+1 LES CHAMPS JOUAUX ,ZA CROMEL,1,0,SAINT MARTIN DES CHAMPS,1396,050,1,48.65709,true,/fr_FR/centre/centre-securitest-saint-martin-des-champs-1396,-1.346684,CENTRE SECURITEST,,50300,
+ZA DU RULAN,,1,0,GUEMENE SUR SCORFF,1410,056,1,48.063633,true,/fr_FR/centre/centre-securitest-guemene-sur-scorff-1410,-3.208875,CENTRE SECURITEST,,56160,
+BOULEVARD DU 12 JUIN 1944,,1,1,VILLERS BOCAGE,1440,014,1,49.080995,true,/fr_FR/centre/centre-securitest-villers-bocage-1440,-0.645724,CENTRE SECURITEST,,14310,
+1 B RUE PRINCIPALE,,1,1,WIMMENAU,1452,067,1,48.913048496566,true,/fr_FR/centre/centre-auto-securite-wimmenau-1452,7.4116681377753,CENTRE AUTO SECURITE,,67290,
+5 AVENUE PAUL PLOUVIEZ,,2,1,DIVION,1455,062,1,50.476779,true,/fr_FR/centre/centre-securitest-divion-1455,2.526697,CENTRE SECURITEST,,62460,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1455/image_1455_1604998483.jpg
+24 RUE CARNOT,,1,1,AUDRUICQ,1457,062,1,50.8746913,true,/fr_FR/centre/centre-securitest-audruicq-1457,2.0793061,CENTRE SECURITEST,,62370,
+42 BIS AVENUE DU 21EME BCP,,1,1,RAON L ETAPE,1463,088,1,48.407179,true,/fr_FR/centre/centre-securitest-raon-l-etape-1463,6.86006,CENTRE SECURITEST,,88110,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1463/image_1463_1607334002.jpg
+Z.A LE BOUTARIQ,,1,1,VEYNES,1560,005,1,44.551239328601,true,/fr_FR/centre/centre-autosecurite-veynes-1560,5.8614803398288,CENTRE AUTOSECURITE,,05400,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1560/image_1560_1611910798.jpg
+40 RUE DE SAINTONGE,,1,1,BONNEUIL MATOURS,1561,086,1,46.6814065,true,/fr_FR/centre/centre-objectifcode-bonneuil-matours-1561,0.569017,CENTRE OBJECTIFCODE,,86210,
+55 RUE CLAUDE BERNARD,,1,1,SAINT LAURENT DU VAR,1579,006,1,43.696789263326,true,/fr_FR/centre/centre-autosecurite-saint-laurent-du-var-1579,7.1834423263006,CENTRE AUTOSECURITE,,06700,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1579/image_1579_1618973696.jpg
+22  BIS RUE GEORGES CLEMENCEAU,,10,0,CLERMONT FERRAND,1580,063,1,45.774982506885,true,/fr_FR/centre/store-objectifcode-clermont-ferrand-1580,3.0845567864549,STORE OBJECTIFCODE,,63000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1580/image_1580_1610546110.jpg
+ CHEMIN DE MONTAGNE,AVENUE KENNEDY PARKING SUPER U,1,1,GRENADE,1318,031,1,43.7549758,true,/fr_FR/centre/centre-autosecurite-grenade-1318,1.2993252,CENTRE AUTOSECURITE,,31330,
+ZA DE PETIT PEROU,,5,1,LES ABYMES,1334,971,1,16.258028,true,/fr_FR/centre/centre-securitest-les-abymes-1334,-61.515772,CENTRE SECURITEST,,97139,
+56 RUE DE BEL AIR,,1,0,BLOIS,1337,041,1,47.5967237,true,/fr_FR/centre/centre-securitest-blois-1337,1.3177104,CENTRE SECURITEST,,41000,
+CHEMIN DES ECORCES,ZA ROUTE DE MONTARGIS,4,1,CHATILLON COLIGNY,1341,045,1,47.834693,true,/fr_FR/centre/centre-autosecurite-chatillon-coligny-1341,2.842121,CENTRE AUTOSECURITE,,45230,
+RUE DU GÉNÉRAL DESTICKER,LE COURS DE LA VALLÉE,1,1,RAI,1343,061,1,48.746255,true,/fr_FR/centre/centre-autosecurite-rai-1343,0.583395,CENTRE AUTOSECURITE,,61270,
+598 AVENUE DE LA MAXIMINOISE,,1,1,SAINT MAXIMIN LA SAINTE BAUME,1349,083,1,43.456138,true,/fr_FR/centre/centre-securitest-saint-maximin-la-sainte-baume-1349,5.843036,CENTRE SECURITEST,,83470,
+1 RUE LOUIS GUILLOUX,,1,0,REDON,1409,035,1,47.6737545,true,/fr_FR/centre/centre-securitest-redon-1409,-2.0643614,CENTRE SECURITEST,,35600,
+119 AVENUE JEAN JAURES,,1,1,ARGENTEUIL,1428,095,1,48.9413189,true,/fr_FR/centre/centre-securitest-jaures-argenteuil-1428,2.2131916,CENTRE SECURITEST JAURES,,95100,
+9 ALLÉE DES ARCADES,,1,1,JOUY LE MOUTIER,1445,095,1,49.011717939301,true,/fr_FR/centre/centre-securitest-jouy-le-moutier-1445,2.0429420471191,CENTRE SECURITEST,,95280,
+ROUTE NATIONALE 60,,1,1,VULAINES,1464,010,1,48.23432,true,/fr_FR/centre/centre-auto-securite-vulaines-1464,3.615738,CENTRE AUTO SECURITE,,10160,
+20 BOULEVARD DES BRETONNIERES,PARKING SUPER U,1,0,JOUE LES TOURS,1470,037,1,47.345091,true,/fr_FR/centre/centre-securitest-joue-les-tours-1470,0.642589,CENTRE SECURITEST,,37300,
+"4, RUE VIAL",,10,1,SAINT ETIENNE,1478,042,1,45.439488,true,/fr_FR/centre/centre-auto-securite-saint-etienne-1478,4.404488,CENTRE AUTO SECURITE,,42000,
+ZI DU TAPIS VERT,,1,1,SAINT HIPPOLYTE DU FORT,1480,030,1,43.9533,true,/fr_FR/centre/centre-autosecurite-saint-hippolyte-du-fort-1480,3.8775,CENTRE AUTOSECURITE,,30170,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1480/image_1480_1606231617.jpg
+CHEMIN DE LA LOUVIERE,,1,1,SUIPPES,1481,051,1,49.117547,true,/fr_FR/centre/centre-auto-securite-suippes-1481,4.5417,CENTRE AUTO SECURITE,,51600,
+4 RUE DIEUDONNE COSTES,,6,0,ANGLET,1507,064,1,43.4982668,true,/fr_FR/centre/centre-autosecurite-anglet-1507,-1.4962021,CENTRE AUTOSECURITE,,64600,
+114 ROUTE DE LYON,,1,0,YZEURE,1513,003,1,46.549544,true,/fr_FR/centre/centre-securitest-yzeure-1513,3.339744,CENTRE SECURITEST,,03400,
+45 ROUTE DES NEGOCIANTS ,ZAC DE LA GRAVE,10,0,CARROS,1301,006,1,43.777294,true,/fr_FR/centre/centre-auto-securite-carros-1301,7.207875,CENTRE AUTO SECURITE,,06510,
+27 RUE DU BOIS D`ORLY,,1,1,AUGNY,1308,057,1,49.075246,true,/fr_FR/centre/centre-securitest-augny-1308,6.1047124200745,CENTRE SECURITEST,,57685,
+59 ROUTE DE THIONVILLE,,1,1,MAIZIERES LES METZ,1323,057,1,49.221235,true,/fr_FR/centre/centre-autosecurite-maizieres-les-metz-1323,6.162805,CENTRE AUTOSECURITE,,57280,
+ROUTE DE LUXEMBOURG,ZA DE HUSANGE,1,1,CATTENOM,1324,057,1,49.404271472242,true,/fr_FR/centre/centre-autosecurite-cattenom-1324,6.2234008312225,CENTRE AUTOSECURITE,,57570,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1324/image_1324_1606122634.jpg
+142 AVENUE CHARLES DE GAULLE,,1,1,TASSIN LA DEMI LUNE,1335,069,1,45.757844,true,/fr_FR/centre/centre-autosecurite-tassin-la-demi-lune-1335,4.7736983,CENTRE AUTOSECURITE,,69160,
+ZI ROUTE DE MÉRÉVILLE,,1,1,ANGERVILLE,1425,091,1,48.3121682,true,/fr_FR/centre/centre-securitest-angerville-1425,2.0048829,CENTRE SECURITEST,,91670,
+11 BIS BOULEVARD DES COQUIBUS,,5,1,EVRY,1437,091,1,48.6228694,true,/fr_FR/centre/centre-autosecurite-evry-1437,2.4489854,CENTRE AUTOSECURITE,,91000,
+"16, AVENUE DU GÉNÉRAL DE GAULLE", ,1,0,CHATEAU LA VALLIERE,1471,037,1,47.545505,true,/fr_FR/centre/centre-auto-securite-chateau-la-valliere-1471,0.3236338923077,CENTRE AUTO SECURITE,,37330,
+RUE CARNOT,ZONE INDUSTRIELLE SUD,1,0,LANGEAIS,1472,037,1,47.332695,true,/fr_FR/centre/centre-auto-securite-langeais-1472,0.42623,CENTRE AUTO SECURITE,,37130,
+335 RUE JEAN JAURES,,1,1,ONNAING,1483,059,1,50.38978,true,/fr_FR/centre/centre-securitest-onnaing-1483,3.610848,CENTRE SECURITEST,,59264,
+153 AVENUE FERBER,,1,0,MARQUISE,1499,062,1,50.8115077,true,/fr_FR/centre/centre-securitest-marquise-1499,1.6980978,CENTRE SECURITEST,,62250,
+284 AVENUE BOLLEE,,1,0,LE MANS,1504,072,1,47.996697,true,/fr_FR/centre/centre-securitest-bollee-le-mans-1504,0.22671,CENTRE SECURITEST BOLLEE,,72000,
+RUE JEAN DURAND,LIEUDIT SAINT-ROMAIN,1,1,ANSE,1511,069,1,45.941779,true,/fr_FR/centre/centre-securitest-anse-1511,4.715213,CENTRE SECURITEST,,69480,
+4 RUE PAUL BERRET,,1,1,SAINT MARCELLIN,1522,038,1,45.147452,true,/fr_FR/centre/centre-autosecurite-saint-marcellin-1522,5.317199,CENTRE AUTOSECURITE,,38160,
+2 AVENUE DENFERT,,1,0,LODEVE,1547,034,1,43.729666,true,/fr_FR/centre/centre-autosecurite-lodeve-1547,3.324961,CENTRE AUTOSECURITE,,34700,
+4 RUE ROBERT SCHUMANN,,1,1,ISSOIRE,1559,063,1,45.552168622511,true,/fr_FR/centre/centre-autosecurite-issoire-1559,3.2637756686659,CENTRE AUTOSECURITE,,63500,
+20 RUE DES ALOUETTES,Z.A DE L`ORMEAU,1,1,AULNAY,1562,017,1,46.028122477665,true,/fr_FR/centre/centre-autosecurite-aulnay-1562,-0.34705638885498,CENTRE AUTOSECURITE,,17470,
+7 RUE DU CARDINAL,,1,0,CLERMONT L`HERAULT,1297,034,1,43.617043,true,/fr_FR/centre/centre-autosecurite-clermont-l-herault-1297,3.4549226874713,CENTRE AUTOSECURITE,,34800,
+12 AVENUE JEAN MONNET,,1,0,DESCARTES,1307,037,1,46.98156,true,/fr_FR/centre/centre-securitest-descartes-1307,0.69412,CENTRE SECURITEST,,37160,
+497 MONTÉE DES ESSES,,5,1,MONSOLS DEUX GROSNES,1340,069,1,46.218029,true,/fr_FR/centre/centre-controle-technique-monsols-deux-grosnes-1340,4.519352,CENTRE CONTROLE TECHNIQUE,,69860,
+ROUTE DE CAEN,ZONE ARTISANALE LA CROIX BOUCHER,1,1,EVRECY,1352,014,1,49.105846,true,/fr_FR/centre/centre-securitest-evrecy-1352,-0.495208,CENTRE SECURITEST,,14210,
+18 AVENUE DE LA SABLIÈRE,,1,1,ETAMPES,1397,091,1,48.4496346,true,/fr_FR/centre/centre-securitest-etampes-1397,2.1467746,CENTRE SECURITEST,,91150,
+KERNOT VIHAN,,1,0,LE FAOUET,1399,056,1,48.0492193,true,/fr_FR/centre/centre-auto-securite-le-faouet-1399,-3.4928774,CENTRE AUTO SECURITE,,56320,
+CENTRE COMMERCIAL BEAUREGARD,AVENUE GEORGES DUHAMEL,1,0,LE MANS,1505,072,1,48.027283,true,/fr_FR/centre/centre-securitest-autoscope-le-mans-1505,0.18134,CENTRE SECURITEST AUTOSCOPE,,72000,
+3 RUE TABAREAU,,1,1,LYON,1514,069,1,45.774313,true,/fr_FR/centre/centre-securitest-croix-rousse-lyon-1514,4.824976,CENTRE SECURITEST CROIX ROUSSE,,69004,
+76 AVENUE DU GENERAL LECLERC,,1,0,VIENNE,1515,038,1,45.508565,true,/fr_FR/centre/centre-autosecurite-vienne-1515,4.859794,CENTRE AUTOSECURITE,,38200,
+72 RUE LEON BLUM,,10,1,VILLEURBANNE,1517,069,1,45.759909,true,/fr_FR/centre/centre-securitest-villeurbanne-1517,4.897028,CENTRE SECURITEST,,69100,
+ZA ROUTE BONNEVEAU,,1,0,BRAIN SUR ALLONNES,1521,049,1,47.288018,true,/fr_FR/centre/centre-securitest-brain-sur-allonnes-1521,0.046921,CENTRE SECURITEST,,49650,
+8 RUE DE L ECHELOTTE,,1,1,SAINT USAGE,1530,021,1,47.111144806424,true,/fr_FR/centre/centre-autosecurite-saint-usage-1530,5.2527566981651,CENTRE AUTOSECURITE,,21170,
+15 ROUTE D AUXERRE,,1,1,NOYERS,1536,089,1,47.695898,true,/fr_FR/centre/centre-securitest-noyers-1536,3.988622,CENTRE SECURITEST,,89310,
+29 RUE DES FRERES LUMIERES,,1,1,CLERMONT FERRAND,1538,063,1,45.786784,true,/fr_FR/centre/centre-securitest-clermont-ferrand-1538,3.130756,CENTRE SECURITEST,,63100,
+ROUTE DE PERPIGNAN,A COTER DU GARAGE RENAULT,1,0,LE SOLER,1552,066,1,42.68450964695,true,/fr_FR/centre/centre-securitest-le-soler-1552,2.8088307380676,CENTRE SECURITEST,,66270,
+ROUTE DE PERPIGNAN,Z.A CAMP D`ESPRIT,1,0,VILLEMAGNE L`ARGENTIERE,1555,034,1,43.596633643913,true,/fr_FR/centre/centre-autosecurite-villemagne-l-argentiere-1555,3.1320508139322,CENTRE AUTOSECURITE,,34600,
+2-4 RUE MARYSE BASTIÉ,,1,1,AULNAY SOUS BOIS,1557,093,1,48.9591,true,/fr_FR/centre/centre-securitest-aulnay-sous-bois-1557,2.4964,CENTRE SECURITEST,,93600,
+7 RUE EVARISTE GALLOIS,,1,0,EYBENS,1563,038,1,45.151370739508,true,/fr_FR/centre/centre-autosecurite-eybens-1563,5.7385323971264,CENTRE AUTOSECURITE,,38320,
+68 ROUTE DE BAILLARGUES,ZA LA LOUVADE,1,0,MAUGUIO,1577,034,1,43.633236780103,true,/fr_FR/centre/centre-verif-autos-controle-technique-mauguio-1577,4.0131437919849,CENTRE VERIF`AUTOS CONTROLE TECHNIQUE,,34130,
+52 AVENUE DE LATTRE DE TASSIGNY,,1,1,CORBEIL-ESSONNES,1581,091,1,48.606382254661,true,/fr_FR/centre/centre-autosecurite-corbeil-essonnes-1581,2.4670959360922,CENTRE AUTOSECURITE,,91100,
+4 ROUTE DES CHATEAUX,,1,0,LABARDE,1583,033,1,45.0107686,true,/fr_FR/centre/centre-securitest-labarde-1583,-0.6367301,CENTRE SECURITEST,,33460,
+9 RUE ADA LOVELACE,PARC D`ACTIVITES SAINT MARTIN,1,1,MONDEVILLE,1344,014,1,49.156941179366,true,/fr_FR/centre/centre-autosecurite-mondeville-1344,-0.30216693878174,CENTRE AUTOSECURITE,,14120,
+3 RUE FAGARD,,1,0,BOHAIN EN VERMANDOIS,1405,002,1,49.9873423,true,/fr_FR/centre/centre-autosecurite-bohain-en-vermandois-1405,3.4537888,CENTRE AUTOSECURITE,,02110,
+19 RUE DU GÉNÉRAL BARON FABRE,ZI DU PRAT,1,0,VANNES,1408,056,1,47.658232,true,/fr_FR/centre/centre-autosecurite-le-prat-vannes-1408,-2.720868,CENTRE AUTOSECURITE LE PRAT,,56000,
+561 CHEMIN LONG,,5,1,LA CRAU,1422,083,1,43.12844,true,/fr_FR/centre/centre-securitest-la-crau-1422,6.07872,CENTRE SECURITEST,,83260,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1422/image_1422_1606397296.jpg
+4 RUE DE BEAUCE,,1,1,COURVILLE SUR EURE,1423,028,1,48.4490391,true,/fr_FR/centre/centre-securitest-courville-sur-eure-1423,1.2527106,CENTRE SECURITEST,,28190,
+12 BOULEVARD PASTEUR,,1,1,CHATEAUNEUF SUR CHARENTE,1438,016,1,45.5978905,true,/fr_FR/centre/centre-securitest-chateauneuf-sur-charente-1438,-0.054690319819819,CENTRE SECURITEST,,16120,
+93 ROUTE DE LYON,,1,0,TREVOUX,1459,001,1,45.936824,true,/fr_FR/centre/centre-verif-autos-trevoux-1459,4.787953,CENTRE VERIF`AUTOS,,01600,
+32 RUE HENRI RENÉ,,10,0,MONTPELLIER,1466,034,1,43.6034659,true,/fr_FR/centre/store-objectifcode-montpellier-1466,3.8824639,STORE OBJECTIFCODE,,34000,
+ZA DES ROCHES,CHEMIN DES ROCHES,1,1,LUCON,1484,085,1,46.460388171145,true,/fr_FR/centre/centre-auto-securite-lucon-1484,-1.1457216739655,CENTRE AUTO SECURITE,,85400,
+51 ALLEE ALFRED NOBEL,,1,1,GEMENOS,1542,013,1,43.279007,true,/fr_FR/centre/centre-autosecurite-gemenos-1542,5.616443,CENTRE AUTOSECURITE,,13420,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1542/image_1542_1607335606.jpg
+9 ROUTE DE MACON,,1,1,VARENNES SOUS DUN,1549,071,1,46.290246,true,/fr_FR/centre/centre-securitest-varennes-sous-dun-1549,4.322083,CENTRE SECURITEST,,71800,
+82 AVENUE PARMENTIER,AGENCE VOUSFINANCER,3,1,PARIS,1554,075,1,48.8647,true,/fr_FR/centre/centre-objectifcode-paris-11-paris-1554,2.3754,CENTRE OBJECTIFCODE PARIS 11,,75011,
+8 BIS RUE  ROGER MENAUD,ZA DE LA GRENOBLERIE,1,1,SAINT JEAN D`ANGELY,1556,017,1,45.9492403,true,/fr_FR/centre/centre-autosecurite-saint-jean-d-angely-1556,-0.50125065323358,CENTRE AUTOSECURITE,,17400,
+117 RUE D`ITALIE,AGENCE ADMINISTRATIVE,10,1,MARSEILLE,1289,013,1,43.2888222,true,/fr_FR/centre/centre-objectifcode-marseille-6-marseille-1289,5.3829015,CENTRE OBJECTIFCODE MARSEILLE 6,,13006,
+5 RUE MICHEL BRILLAND ZA,,1,1,UROU ET CRENNES,1345,061,1,48.749449,true,/fr_FR/centre/centre-securitest-urou-et-crennes-1345,0.004865,CENTRE SECURITEST,,61200,
+98 ZONE D`ACTIVITE DU CHAMP DE COURSE,,2,1,DOUDEVILLE,1342,076,1,49.71059,true,/fr_FR/centre/centre-securitest-doudeville-1342,0.801116,CENTRE SECURITEST,,76560,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1342/image_1342_1603785995.jpg
+1 ALLÉE D`EUROMEDOC,,10,1,ST AUBIN DE MEDOC,1347,033,1,44.9069656,true,/fr_FR/centre/centre-securitest-st-aubin-de-medoc-1347,-0.7255444,CENTRE SECURITEST,,33160,
+103 RUE D`ESTOURNELLES DE CONSTANT,,1,0,MAMERS,1351,072,1,48.3495678,true,/fr_FR/centre/centre-securitest-mamers-1351,0.3659788,CENTRE SECURITEST,,72600,
+12 RUE DU PALATIN,,1,1,FEURS,1355,042,1,45.7350738,true,/fr_FR/centre/centre-autosecurite-feurs-1355,4.2251089,CENTRE AUTOSECURITE,,42110,
+32 RUE LÉON GAMBETTA,,10,0,LILLE,1383,059,1,50.6311621,true,/fr_FR/centre/store-objectifcode-lille-1383,3.0586637,STORE OBJECTIFCODE,,59800,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1383/image_1383_1593501188.jpg
+RUE DU SOULOR,,10,1,ORTHEZ,1385,064,1,43.4829398,true,/fr_FR/centre/hotel-kyriad-orthez-1385,-0.7540328,HOTEL KYRIAD,,64300,
+37 RUE RENÉ LANOY ,,10,0,LENS,1387,062,1,50.4325041,true,/fr_FR/centre/store-objectifcode-lens-1387,2.8334408,STORE OBJECTIFCODE,,62300,
+27 RUE DE LA RÉPUBLIQUE,,1,1,AMFREVILLE LA CAMPAGNE,1398,027,1,49.2072799,true,/fr_FR/centre/centre-securitest-amfreville-la-campagne-1398,0.9352036,CENTRE SECURITEST,,27370,
+2 TER RUE PRINCIPALE,Z.I. NORD,1,1,CRISSEY,1411,071,1,46.810705,true,/fr_FR/centre/centre-securitest-crissey-1411,4.866691,CENTRE SECURITEST,,71530,
+234 BOULEVARD DE LA PAIX,,8,1,PAU,1412,064,1,43.3213379,true,/fr_FR/centre/centre-securitest-pau-1412,-0.3598511,CENTRE SECURITEST,,64000,
+79 PLACE DE LA GARE,,10,1,CHAMBERY,1416,073,1,45.570143,true,/fr_FR/centre/o-79-chambery-1416,5.919464,O 79,,73000,
+21 PLACE DARCY,,10,1,DIJON,1430,021,1,47.3234392,true,/fr_FR/centre/store-objectifcode-dijon-1430,5.0320261,STORE OBJECTIFCODE,,21000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1430/image_1430_1606122324.jpg
+44 AVENUE FOCH,,1,1,FOLSCHVILLER,1461,057,1,49.076215,true,/fr_FR/centre/centre-autosecurite-folschviller-1461,6.692482,CENTRE AUTOSECURITE,,57730,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1461/image_1461_1606468668.jpg
+81 BIS RUE MASSACRE,,2,1,LOUVIERS,1487,027,1,49.211647,true,/fr_FR/centre/centre-autosecurite-louviers-1487,1.157861,CENTRE AUTOSECURITE ,,27400,
+ZA DU RUISSEAU,,1,0,PARIGNE L`EVEQUE,1489,072,1,47.938534,true,/fr_FR/centre/centre-autosecurite-parigne-l-eveque-1489,0.354053,CENTRE AUTOSECURITE,,72250,
+AVENUE DES ALBIZIAS,,1,1,STE HERMINE,1508,085,1,46.529077574649,true,/fr_FR/centre/centre-securitest-ste-hermine-1508,-1.0730981826782,CENTRE SECURITEST,,85210,
+8 RUE DES FRERES LUMIERES,,1,1,CHENOVE,1510,021,1,47.28267,true,/fr_FR/centre/centre-autosecurite-chenove-1510,5.011874,CENTRE AUTOSECURITE,,21300,
+924 CHEMIN DU ROI,ZI LA BOITARDIÈRE,1,0,AMBOISE,1520,037,1,47.41551,true,/fr_FR/centre/centre-autosecurite-amboise-1520,1.017881,CENTRE AUTOSECURITE,,37400,
+19 RUE DE NEGRON,,1,0,NAZELLES NEGRON,1527,037,1,47.422343,true,/fr_FR/centre/centre-securitest-nazelles-negron-1527,0.95906,CENTRE SECURITEST,,37530,
+1 RUE PIERRE MARIE CURIE,,1,1,AVORD,1532,018,1,47.032014,true,/fr_FR/centre/centre-securitest-avord-1532,2.645683,CENTRE SECURITEST,,18520,
+AVENUE DE LA GARE,,1,0,SAINT CLAUDE,1535,039,1,46.388882,true,/fr_FR/centre/centre-autosecurite-saint-claude-1535,5.859745,CENTRE AUTOSECURITE,,39200,
+7 RUE DE L`ARTISANAT,,1,0,MIRANDE,1588,032,1,43.5045816,true,/fr_FR/centre/centre-securitest-mirande-1588,0.3958723,CENTRE SECURITEST,,32300,
+2 RUE JEAN HENRI DUNANT,,1,1,FONTAINEBLEAU,1602,077,1,48.407036656281,true,/fr_FR/centre/centre-autosecurite-fontainebleau-1602,2.6894182536645,CENTRE AUTOSECURITE,,77300,
+83 BOULEVARD DE CESSOLE,,10,1,NICE,1624,006,1,43.71815,true,/fr_FR/centre/centre-securitest-cessole-nice-1624,7.25254,CENTRE SECURITEST CESSOLE,,06100,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1624/image_1624_1619462243.jpg
+128  QUATER AVENUE ARISTIDE BRIAND,,1,1,GRAVIGNY,1645,027,1,49.056144384361,true,/fr_FR/centre/centre-securitest-gravigny-1645,1.168697476387,CENTRE SECURITEST,,27930,
+13 RUE DES MONTAGNES DE LANS,ZI RUE DU COMBOIRE,1,1,ECHIROLLES,1647,038,1,45.151300236177,true,/fr_FR/centre/centre-autosecurite-echirolles-1647,5.6958334349927,CENTRE AUTOSECURITE,,38130,
+1 IMPASSE DES CORBIÈRES,,1,0,THUIR,1660,066,1,42.6319419,true,/fr_FR/centre/centre-securitest-thuir-1660,2.7639295766059,CENTRE SECURITEST,,66300,
+187 RUE FERDINAND VEST,,1,0,TRELAZE,1666,049,1,47.441314679629,true,/fr_FR/centre/centre-autosecurite-trelaze-1666,-0.48187497257661,CENTRE AUTOSECURITE,,49800,
+34 BIS RUE SAINT LÉGER,,1,0,SAUVETERRE DE GUYENNE,1691,033,1,44.6941641,true,/fr_FR/centre/centre-autosecurite-sauveterre-de-guyenne-1691,-0.083891674336921,CENTRE AUTOSECURITE,,33540,
+3 PLACE GENERAL GIRAUD,20 RUE D ISLY - ENTREE 3,11,1,RENNES,119,035,1,48.1053797,true,/fr_FR/centre/centre-sgs-objectifcode-rennes-119,-1.6779855,CENTRE SGS OBJECTIFCODE,,35000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/119/image_119_1535966383.jpg
+51 RUE ALBERIC DUBOIS,,1,0,ANGERS,1743,049,1,47.459583385015,true,/fr_FR/centre/centre-securitest-lafayette-eble-angers-1743,-0.56454685927185,CENTRE SECURITEST LAFAYETTE EBLE,,49000,
+CENTRE COMMERCIAL LES PORTES D ALBI,ZAC DE FONLABOUR,1,0,ALBI,1753,081,1,43.919070275766,true,/fr_FR/centre/centre-autosecurite-albi-1753,2.1065500031874,CENTRE AUTOSECURITE,,81000,
+10 RUE JACQUES PRADO,,5,0,REDON,1755,035,1,47.666312203609,true,/fr_FR/centre/centre-autosecurite-redon-1755,-2.072811126709,CENTRE  AUTOSECURITE,,35600,
+394 RUE DE LA VOIE LACTEE,,1,0,GIGNAC,1780,034,1,43.651679,true,/fr_FR/centre/centre-securitest-gignac-1780,3.5406504,CENTRE SECURITEST,,34150,
+63 RUE EUGENE DE SAINT FUSCIEN,,1,1,GRANDVILLIERS,1573,060,1,49.659218004385,true,/fr_FR/centre/centre-autosecurite-grandvilliers-1573,1.9425094127655,CENTRE AUTOSECURITE,,60220,
+8 ROUTE DU MÉNIL,ZAC LE PREY,5,1,LE THILLOT,1313,088,1,47.8879,true,/fr_FR/centre/centre-autosecurite-le-thillot-1313,6.7725,CENTRE AUTOSECURITE,,88160,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1313/image_1313_1606378316.jpg
+4588 ROUTE NATIONALE N°7,,1,1,VIDAUBAN,1785,083,1,43.422246805458,true,/fr_FR/centre/centre-autosecurite-vidauban-1785,6.426554097995,CENTRE AUTOSECURITE,,83550,
+70 AVENUE DU 8 MAI 1945,,1,0,POITIERS,1787,086,1,46.5606721,true,/fr_FR/centre/centre-objectifcode-poitiers-1787,0.3138688,CENTRE OBJECTIFCODE,,86000,
+68 AVENUE VICTOR HUGO,,1,1,COGNAC,1791,016,1,45.691447374829,true,/fr_FR/centre/centre-objectifcode-cognac-1791,-0.32284140586853,CENTRE OBJECTIFCODE,,16100,
+1725 RUE DE MONTARAN,,1,1,SARAN,1593,045,1,47.946366286497,true,/fr_FR/centre/centre-securitest-saran-1593,1.9126216487121,CENTRE SECURITEST,,45770,
+13 RUE DES COMMUNES,,1,0,ACHERES,1598,078,1,48.964802379969,true,/fr_FR/centre/centre-securitest-acheres-1598,2.0592026842596,CENTRE SECURITEST,,78260,
+35 RUE DE L `AMIRAL COURBET,,10,0,AMIENS,1604,080,1,49.892474653089,true,/fr_FR/centre/store-objectifcode-amiens-1604,2.3031707692141,STORE OBJECTIFCODE,,80000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1604/image_1604_1618471394.jpg
+21 AVENUE GEOFFROY PERRET ,,1,1,REMOULINS,1613,030,1,43.9391,true,/fr_FR/centre/centre-objectifcode-remoulins-1613,4.56121,CENTRE OBJECTIFCODE,,30210,
+90 ROUTE DE BERAT,,1,1,RIEUMES ,1641,031,1,43.4060209,true,/fr_FR/centre/centre-autosecurite-rieumes-1641,1.1379926,CENTRE AUTOSECURITE,,31370,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1641/image_1641_1616586537.jpg
+66 RUE ALBERT DENIS,,1,1,TOUL,1644,054,1,48.669712798325,true,/fr_FR/centre/centre-autosecurite-toul-1644,5.8820221199898,CENTRE AUTOSECURITE,,54200,
+195/197 ROUTE DE SAINT LEU,,1,1,EPINAY SUR SEINE,1664,093,1,48.955922101856,true,/fr_FR/centre/centre-securitest-epinay-sur-seine-1664,2.3323150977678,CENTRE SECURITEST,,93800,
+216 RUE MARECHAL FOCH,,1,1,LE CREUSOT,1684,071,1,46.805405971652,true,/fr_FR/centre/centre-objectifcode-le-creusot-1684,4.458525838141,CENTRE OBJECTIFCODE,,71200,
+ROUTE D AVIGNON,AVENUE AUGUSTE CHABAUD,1,1,TARASCON,1687,013,1,43.81409,true,/fr_FR/centre/centre-securitest-tarascon-1687,4.66819,CENTRE SECURITEST,,13150,
+CENTRE COMMERCIAL LA FONTAINE,2 RUE RENE CASSIN,1,1,ST BRICE SOUS FORET,1703,095,1,49.006297725251,true,/fr_FR/centre/centre-autosecurite-st-brice-sous-foret-1703,2.350934085543,CENTRE AUTOSECURITE,,95350,
+"5, RUE DES CUIRATIERS",Z.A. DE L`ABBAYE,1,0,MONTFORT SUR MEU,1705,035,1,48.130740834229,true,/fr_FR/centre/centre-securitest-montfort-sur-meu-1705,-1.9455697595181,CENTRE SECURITEST,,35160,
+118 BOULEVARD DE MAGENTA,,1,1,PARIS,1706,075,1,48.879240426064,true,/fr_FR/centre/centre-objectifcode-paris-10-paris-1706,2.3534448099486,CENTRE OBJECTIFCODE PARIS 10,,75010,
+CHEMIN DE LA PLAINE,ZI DES SABLES ROUGES,1,1,VILLENEUVE SUR YONNE,1707,089,1,48.088491745891,true,/fr_FR/centre/centre-securitest-villeneuve-sur-yonne-1707,3.28327775709,CENTRE SECURITEST,,89500,
+5 RUE DU MARTINET,,1,1,SEYSSEL,1732,074,1,45.962063917564,true,/fr_FR/centre/centre-autosecurite-seyssel-1732,5.841865674799,CENTRE AUTOSECURITE,,74910,
+ZONE ARTISANALE L HERMITAGE,,1,0,LA RICHARDAIS,1733,035,1,48.610891562979,true,/fr_FR/centre/centre-autosecurite-la-richardais-1733,-2.055612831225,CENTRE AUTOSECURITE,,35780,
+17- 19 AVENUE DU PRESIDENT KENNEDY,,6,1,MULHOUSE,1737,068,1,47.750648694522,true,/fr_FR/centre/store-objectifcode-mulhouse-1737,7.3342467920589,STORE OBJECTIFCODE,,68200,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1737/image_1737_1618470712.jpg
+20 RUE ALBERT DE MUN,,1,0,PONTIVY,1747,056,1,48.057602508626,true,/fr_FR/centre/centre-objectifcode-pontivy-1747,-2.9631984701624,CENTRE OBJECTIFCODE,,56300,
+23 AVENUE DES ILES D`OR,,10,1,HYERES,1771,083,1,43.119386,true,/fr_FR/centre/store-objectifcode-hyeres-1771,6.1241702,STORE OBJECTIFCODE,,83400,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1771/image_1771_1623328248.jpg
+35 RUE DU 20EME CORPS AMERICAIN,,10,,METZ,1590,057,1,49.102597790577,true,/fr_FR/centre/store-objectifcode-metz-1590,6.1641613080434,STORE OBJECTIFCODE,,57000,
+4 RUE DE L`INITIATIVE,ROUTE DE MALZIEU,1,0,SAINT CHELY D APCHER,1600,048,1,44.808436646209,true,/fr_FR/centre/centre-securitest-saint-chely-d-apcher-1600,3.2854056358337,CENTRE SECURITEST,,48200,
+49 ROUTE DE PARIS,,1,1,AUCAMVILLE,1619,031,1,43.6712047,true,/fr_FR/centre/centre-auto-securite-aucamville-1619,1.4103313,CENTRE AUTO SECURITE,,31140,
+490 AVENUE DE LA DAME,ZONE EURO 2000,1,0,CAISSARGUES,1628,030,1,43.80013,true,/fr_FR/centre/centre-autosecurite-caissargues-1628,4.38019,CENTRE AUTOSECURITE ,,30132,
+4 RUE HENRI DUNANT,,1,1,CHEVILLY LARUE,1630,094,1,48.771716581181,true,/fr_FR/centre/centre-securitest-chevilly-larue-1630,2.363899990065,CENTRE SECURITEST,,94550,
+58 RUE STANISLAS,,10,,NANCY,1634,054,1,48.692448374545,true,/fr_FR/centre/store-objectifcode-nancy-1634,6.1792198393343,STORE OBJECTIFCODE,,54000,
+16 RUE DE LA BINETTERIE,,10,,SURGERES,1635,017,1,46.1065518,true,/fr_FR/centre/ofas-formation-surgeres-1635,-0.755764,OFAS FORMATION,,17700,
+ZONE LE FENOUILLET,AVENUE DU LANGUEDOC,1,0,PEROLS,1639,034,1,43.573270138767,true,/fr_FR/centre/centre-autosecurite-perols-1639,3.9393850977464,CENTRE AUTOSECURITE,,34470,
+5 RUE DES PESIERES,,6,1,ST LAURENT EN GRANDVAUX,1640,039,1,46.575519480305,true,/fr_FR/centre/centre-autosecurite-st-laurent-en-grandvaux-1640,5.9616283287176,CENTRE AUTOSECURITE,,39150,
+11 AVENUE RHIN ET DANUBE,,5,0,GRENOBLE,1650,038,1,45.178842286421,true,/fr_FR/centre/centre-securitest-grenoble-1650,5.7057863213404,CENTRE SECURITEST,,38100,
+67 AVENUE DU GENERAL DE GAULLE,,1,1,CALUIRE ET CUIRE,1667,069,1,45.80864899478,true,/fr_FR/centre/centre-securitest-caluire-et-cuire-1667,4.8562763686798,CENTRE SECURITEST,,69300,
+23 ROUTE DE BEAUMONT,,10,1,ORMESSON,1693,077,1,48.2437418,true,/fr_FR/centre/salle-polyvalente-gabriel-fournier-ormesson-1693,2.654515,SALLE POLYVALENTE GABRIEL FOURNIER,,77167,
+3 BD DU COLLEGE,,1,1,PARAY LE MONIAL,1713,071,1,46.449737598597,true,/fr_FR/centre/centre-objectifcode-paray-le-monial-1713,4.1182529649,CENTRE OBJECTIFCODE,,71600,
+495 ROUTE DE NORT SUR ERDRE ,PARKING ALDI,5,0,LIGNE,1716,044,1,47.413139929467,true,/fr_FR/centre/centre-securitest-ligne-1716,-1.3895511806038,CENTRE SECURITEST,,44850,
+35 RUE DES PHOCEENS,,1,1,MARSEILLE,1719,013,1,43.3022175,true,/fr_FR/centre/centre-autosecurite-marseille-1719,5.3676884,CENTRE AUTOSECURITE,,13002,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1719/image_1719_1619702539.jpg
+ZA LE PEYROU 1 ROUTE DE FRAISSE,,1,1,SIGEAN,1622,011,1,43.030364846834,true,/fr_FR/centre/centre-autosecurite-sigean-1622,2.9650057127806,CENTRE AUTOSECURITE,,11130,
+ZONE ARTISANALE DE LA POUJADE,,1,0,LAGUIOLE,1662,012,1,44.68155565,true,/fr_FR/centre/centre-securitest-laguiole-1662,2.8551309909286,CENTRE SECURITEST,,12210,
+9 RUE MARCEL PAGNOL,,1,1,WITTENHEIM,1665,068,1,47.804920886059,true,/fr_FR/centre/centre-autosecurite-wittenheim-1665,7.3139113981902,CENTRE AUTOSECURITE,,68270,
+"108, RUE DE GASCOGNE",,1,1,MOUTIERS,1696,073,1,45.4847546,true,/fr_FR/centre/centre-securitest-moutiers-1696,6.5260998,CENTRE SECURITEST,,73600,
+RUE DE LA VILLE ES LAN,,1,,LAMBALLE,1702,022,1,48.466329965051,true,/fr_FR/centre/centre-autosecurite-lamballe-1702,-2.544523631165,CENTRE AUTOSECURITE,,22400,
+KERNOEL ROUTE DE PLOZEVET,,1,,POULDREUZIC,1711,029,1,47.964289920879,true,/fr_FR/centre/centre-securitest-pouldreuzic-1711,-4.3685571720811,CENTRE SECURITEST,,29710,
+3 AVENUE DE CARCASSONNE,,1,0,CAPENDU,1721,011,1,43.1876104,true,/fr_FR/centre/centre-securitest-capendu-1721,2.5481864,CENTRE SECURITEST,,11700,
+21 BOULEVARD DU MARECHAL JUIN,,1,0,SAUMUR,1752,049,1,47.266016473092,true,/fr_FR/centre/centre-autosecurite-saumur-1752,-0.091474056243896,CENTRE AUTOSECURITE,,49400,
+ZONE ARTISANALE DU BOCAGE,,1,0,MOZE SUR LOUET,1757,049,1,47.367017962466,true,/fr_FR/centre/centre-securitest-moze-sur-louet-1757,-0.56580813127757,CENTRE SECURITEST,,49610,
+697 BOULEVARD JEAN MONNET,,1,0,MAYENNE,1766,053,1,48.286623487763,true,/fr_FR/centre/centre-securitest-mayenne-1766,-0.62155861344966,CENTRE SECURITEST,,53100,
+50 AVENUE DE LA LIBERATION,,5,1,CAEN,1788,014,1,49.185397239032,true,/fr_FR/centre/centre-objectifcode-liberation-caen-1788,-0.36036742269346,CENTRE OBJECTIFCODE LIBERATION,,14000,
+2 RUE JEAN PIERRE TIMBAUD,,3,1,ST DENIS,1789,093,1,48.948231071435,true,/fr_FR/centre/centre-objectifcode-jp-timbaud-st-denis-1789,2.3533326387405,CENTRE OBJECTIFCODE JP TIMBAUD,,93200,
+16 RUE DU PONT SECOND,ZA DES QUATRES CHEMINS,1,0,ROUJAN,1594,034,1,43.504453997421,true,/fr_FR/centre/centre-autosecurite-roujan-1594,3.3215333247378,CENTRE AUTOSECURITE,,34320,
+23 RUE BEAUBOURG,,1,1,CASTRES,1597,081,1,43.6213078,true,/fr_FR/centre/centre-autosecurite-castres-1597,2.266069,CENTRE AUTOSECURITE,,81100,
+1 RUE DE CHARLES TELLIER,ZONE ARTISANALE,1,1,MEAUX,1633,077,1,48.952071027995,true,/fr_FR/centre/centre-auto-securite-meaux-1633,2.9300826787949,CENTRE AUTO SECURITE,,77100,
+ZA LA CROIX VINCENT,,1,0,SAINT JAMES,1671,050,1,48.522138561802,true,/fr_FR/centre/centre-securitest-saint-james-1671,-1.3396464313894,CENTRE SECURITEST,,50240,
+ZAC MILLIAIRES,15 ALLEE SERGIUS RESPECTUS,1,1,BEAUCAIRE,1679,030,1,43.814949511484,true,/fr_FR/centre/centre-securitest-beaucaire-1679,4.614939986012,CENTRE SECURITEST,,30300,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1679/image_1679_1618972859.jpg
+ 8 ALLEE BOIS MENU,,1,1,FARGUES SAINT HILAIRE,1681,033,1,44.826884588894,true,/fr_FR/centre/centre-autosecurite-fargues-saint-hilaire-1681,-0.4448390007019,CENTRE AUTOSECURITE,,33370,
+820 ROUTE DE TOULOUSE,,1,0,MONTAIGUT SUR SAVE,1683,031,1,43.6858943,true,/fr_FR/centre/centre-securitest-montaigut-sur-save-1683,1.2443117,CENTRE SECURITEST,,31530,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1683/image_1683_1616589699.jpg
+5 FAUBOURG FAUROEULX,,10,1,LE QUESNOY,1722,059,1,50.2443179,true,/fr_FR/centre/centre-objectifcode-le-quesnoy-1722,3.6451128,CENTRE OBJECTIFCODE,,59530,
+ 3 AVENUE AUGUSTIN CHAUVET,,1,0,MAURIAC,1725,015,,45.220837,true,/fr_FR/centre/centre-securitest-mauriac-1725,2.344535,CENTRE SECURITEST,,15200,
+1 RUE JULIUS ET ETHEL ROSENBERG,,1,1,BEZONS,1736,095,1,48.923119633143,true,/fr_FR/centre/centre-objectifcode-bezons-1736,2.2171676158905,CENTRE OBJECTIFCODE,,95870,
+RUE DU GENERAL EISENHOWER,,1,0,CHATEAUBRIANT,1739,044,1,47.705597507673,true,/fr_FR/centre/centre-securitest-chateaubriant-1739,-1.3886649802681,CENTRE SECURITEST,,44110,
+1 RUE LAMARTINE,,1,1,VERSAILLES,1745,078,1,48.795641391051,true,/fr_FR/centre/centre-autosecurite-versailles-1745,2.1450644731522,CENTRE AUTOSECURITE,,78000,
+19 RUE DU PRALEY,ESPACE DE LA MOTTE,1,1,VESOUL,1751,070,1,47.637030669953,true,/fr_FR/centre/centre-objectifcode-vesoul-1751,6.1518287658691,CENTRE OBJECTIFCODE,,70000,
+9 AVENUE DU RHONE,,1,1,ANNECY,1754,074,1,45.899436372546,true,/fr_FR/centre/centre-objectifcode-annecy-1754,6.117307627084,CENTRE OBJECTIFCODE,,74000,
+36 RUE ANNET SEGERON,,1,1,BIARD,1763,086,1,46.5849895,true,/fr_FR/centre/centre-autosecurite-biard-1763,0.3130509,CENTRE AUTOSECURITE,,86580,
+AVENUE DE BAGNERES ,,1,1,TOURNAY,1589,065,1,43.1816324,true,/fr_FR/centre/centre-securitest-tournay-1589,0.2408372,CENTRE SECURITEST,,65190,
+50 BIS ROUTE D`ORLÉANS,,1,1,LA CHAPELLE SAINT MESMIN,1595,045,1,47.894831678085,true,/fr_FR/centre/centre-autosecurite-la-chapelle-saint-mesmin-1595,1.8518637827085,CENTRE AUTOSECURITE,,45380,
+6 PLACE DU MANS ,,1,1,ORIVAL,1599,076,1,49.3106785,true,/fr_FR/centre/centre-autosecurite-orival-1599,0.9958913,CENTRE AUTOSECURITE,,76500,
+110 QUAI DES CHARTRONS,,10,0,BORDEAUX,1603,033,1,44.855610220019,true,/fr_FR/centre/store-objectifcode-bordeaux-1603,-0.56432604789734,STORE OBJECTIFCODE,,33300,
+73 BOULEVARD DE LA MADELEINE,,1,1,NICE,1609,006,1,43.698836,true,/fr_FR/centre/centre-autosecurite-nice-1609,7.239394,CENTRE AUTOSECURITE,,06000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1609/image_1609_1618973575.jpg
+67 AVENUE VICTOR DALBIEZ,,1,0,PERPIGNAN,1617,066,1,42.6874158,true,/fr_FR/centre/centre-autosecurite-perpignan-1617,2.884079,CENTRE AUTOSECURITE,,66000,
+2 BIS RUE DU STADE,,1,1,JUSSEY,1626,070,1,47.834662831541,true,/fr_FR/centre/centre-autosecurite-jussey-1626,5.9015152981934,CENTRE AUTOSECURITE,,70500,
+156 RUE JEAN DEURRIEU,POLE D ACTIVITE DU SAGBON,1,1,GRAVESON,1637,013,1,43.88597,true,/fr_FR/centre/centre-autosecurite-graveson-1637,4.78006,CENTRE AUTOSECURITE,,13690,
+5 RUE DU CHALET,ZA DE L`ALLONDON,1,0,SAINT GENIS POUILLY,1649,001,1,46.263303211256,true,/fr_FR/centre/autosecurite-saint-genis-pouilly-1649,6.0291523139475,AUTOSECURITE,,01630,
+ 210 AVENUE DE L`ÉTOILE ZAC ST CHARLES,,1,1,FUVEAU,1675,013,1,43.46498,true,/fr_FR/centre/centre-autosecurite-fuveau-1675,5.60741,CENTRE AUTOSECURITE,,13710,
+4 RUE PASTEUR,AGENCE MEILLEURTAUX,1,1,YVETOT,1677,076,1,49.6175143,true,/fr_FR/centre/centre-objectifcode-yvetot-1677,0.7521942,CENTRE OBJECTIFCODE,,76190,
+104 RUE DE L ARTICHAUT,,1,1,DOMPIERRE SUR BESBRE,1682,003,1,46.522929746263,true,/fr_FR/centre/centre-securitest-dompierre-sur-besbre-1682,3.6784664967878,CENTRE SECURITEST,,03290,
+7 BOULEVARD DE L EUROPE,,1,1,WISSOUS,1689,091,1,48.726888063873,true,/fr_FR/centre/centre-securitest-wissous-1689,2.3244029088346,CENTRE SECURITEST,,91320,
+54 RUE DE LILLE,,2,1,ARMENTIERES,1709,059,1,50.6853618,true,/fr_FR/centre/centre-objectifcode-armentieres-1709,2.8820333,CENTRE OBJECTIFCODE,,59280,
+435 ALLÉE DU LANGUEDOC,,1,1,BOURG DE PEAGE,1720,026,1,45.02105405,true,/fr_FR/centre/centre-autosecurite-bourg-de-peage-1720,5.0362217729978,CENTRE AUTOSECURITE,,26300,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1720/image_1720_1618972832.jpg
+RUE DE GUINGAMP,PARKING INTERMARCHE,1,,BEGARD,1727,022,1,48.623290217018,true,/fr_FR/centre/centre-securitest-begard-1727,-3.2946589901214,CENTRE SECURITEST,,22140,
+3 RUE GAMBETTA,,1,0,CHALLANS,1728,085,1,46.84627982912,true,/fr_FR/centre/centre-objectifcode-challans-1728,-1.8789625167847,CENTRE OBJECTIFCODE,,85300,
+ROUTE DE MEZANGERS,,1,0,EVRON,1767,053,1,48.160234261519,true,/fr_FR/centre/centre-securitest-evron-1767,-0.40277821958866,CENTRE SECURITEST,,53600,
+19 BIS RUE DU 19 MARS 1962,,1,1,ROUVROY,1584,062,1,50.3954769,true,/fr_FR/centre/centre-autosecurite-rouvroy-1584,2.9071628,CENTRE AUTOSECURITE,,62320,
+21 AVENUE DE LA MERIDIENNE,,1,0,MARVEJOLS,1596,048,1,44.5693684,true,/fr_FR/centre/centre-securitest-marvejols-1596,3.2829951,CENTRE SECURITEST,,48100,
+11 BIS BOULEVARD FOCH,,10,1,REIMS,1605,051,1,49.259771398051,true,/fr_FR/centre/store-objectifcode-reims-1605,4.0291260980265,STORE OBJECTIFCODE,,51100,
+61 COURS LAFAYETTE  ,,10,1,LYON,1615,069,1,45.763770334897,true,/fr_FR/centre/store-objectifcode-lyon-1615,4.8473059570178,STORE OBJECTIFCODE,,69006,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1615/image_1615_1632986059.jpg
+561 AVENUE DES PLATANES,,1,1,CARNOULES,1627,083,1,43.29851,true,/fr_FR/centre/centre-autosecurite-carnoules-1627,6.17811,CENTRE AUTOSECURITE ,,83660,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1627/image_1627_1610990441.jpg
+58 AVENUE GEORGES POMPDOU,,1,0,ST PIERRE DES CORPS,1629,037,1,47.385512105276,true,/fr_FR/centre/centre-objectifcode-st-pierre-des-corps-1629,0.7101211981776,CENTRE OBJECTIFCODE,,37700,
+PARC D`ACTIVITES DU COLLEGE,,1,1,BELLEME,1631,061,1,48.367797153706,true,/fr_FR/centre/centre-securitest-belleme-1631,0.56729257106781,CENTRE SECURITEST,,61130,
+ZI DES BLANCHISSERIES,,5,1,VOIRON,1651,038,1,45.386965514797,true,/fr_FR/centre/centre-autosecurite-voiron-1651,5.5797161452271,CENTRE AUTOSECURITE,,38500,
+ROUTE DU MONT DE MARSAN,ZA ARTISANALE DU PERE,1,0,SAINT SEVER,1655,040,1,43.77339680053,true,/fr_FR/centre/centre-securitest-saint-sever-1655,-0.56773557332551,CENTRE SECURITEST,,40500,
+57 RUE HABSHEIM,,1,1,RIXHEIM,1669,068,1,47.744878004881,true,/fr_FR/centre/centre-objectifcode-rixheim-1669,7.4125471788276,CENTRE OBJECTIFCODE,,68170,
+16 PLACE DE LA REPUBLIQUE,,4,1,MANTES LA JOLIE,1688,078,1,48.98971,true,/fr_FR/centre/centre-objectifcode-mantes-la-jolie-1688,1.71453,CENTRE OBJECTIFCODE,,78200,
+3 PLACE DE LA REPUBLIQUE,,1,1,IS SUR TILLE,1762,021,1,47.523568588298,true,/fr_FR/centre/centre-securitest-is-sur-tille-1762,5.1126543687408,CENTRE SECURITEST,,21120,
+ROUTE DE TROYES,,1,1,SEZANNE,1770,051,1,48.7136796,true,/fr_FR/centre/centre-autosecurite-sezanne-1770,3.7290791,CENTRE AUTOSECURITE,,51120,
+56 RUE DE LA CHINE,,1,0,PARIS,1775,075,1,48.86986,true,/fr_FR/centre/centre-objectifcode-paris-20-paris-1775,2.39627,CENTRE OBJECTIFCODE PARIS 20,,75020,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1775/image_1775_1621418642.jpg
+10 PLACE DE REPUBLIQUE,,8,1,ANGERS,1794,049,1,47.472259,true,/fr_FR/centre/store-objectifcode-angers-1794,-0.554991,STORE OBJECTIFCODE,,49000,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1794/image_1794_1628688233.jpg
+16 AVENUE DUMONT,,10,1,AULNAY SOUS BOIS,1011,093,1,48.930732629789,true,/fr_FR/centre/hotel-du-parc-aulnay-sous-bois-1011,2.4951839447021,HOTEL DU PARC,,93600,
+1 COURS ALBERT MANUEL,,1,1,HONFLEUR,1798,014,1,49.41674223535,true,/fr_FR/centre/centre-objectifcode-honfleur-1798,0.23077189922333,CENTRE OBJECTIFCODE,,14600,
+33 BOULEVARD DE GAULLE,,10,1,NARBONNE,1806,011,1,43.185035165943,true,/fr_FR/centre/store-objectifcode-narbonne-1806,3.0094170570374,STORE OBJECTIFCODE,,11100,
+2 RUE PAUL-LOUIS COURIER,,8,0,TOURS,916,037,1,47.39608,true,/fr_FR/centre/leonard-office-tours-centre-tours-916,0.68309,LEONARD OFFICE (TOURS CENTRE),,37000,
+10 RUE JEAN MONNET,,10,1,CHAUNY TERGNIE,267,002,1,49.6286315,true,/fr_FR/centre/hotel-des-formations-chauny-tergnie-267,3.2150967,HOTEL DES FORMATIONS,,02300,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/267/image_267_1495207919.jpg
+47 BOULEVARD DE QUINAULT,,10,1,LIBOURNE,285,033,1,44.9042765,true,/fr_FR/centre/maison-des-associations-libourne-285,-0.2390616,MAISON DES ASSOCIATIONS,,33505,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/285/image_285_1495810494.jpg
+PLACE PHILIPPE D`ALSACE,SALLE DU LCR,10,1,AIRE SUR LA LYS,597,062,1,50.632593,true,/fr_FR/centre/salle-communale-d-aire-sur-la-lys-aire-sur-la-lys-597,2.405731,SALLE COMMUNALE D`AIRE SUR LA LYS,,62120,
+63 - 79 ANCIENNE ROUTE DE GÉNÉRAC,,1,1,NIMES,1781,030,1,43.8266681,true,/fr_FR/centre/centre-autosecurite-nimes-1781,4.35786,CENTRE AUTOSECURITE,,30900,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1781/image_1781_1625140017.jpg
+8 IMPASSE DES PEUPLIERS,ZA LE MARDARIC,1,1,PEYRUIS,1610,004,1,44.04463,true,/fr_FR/centre/centre-securitest-peyruis-1610,5.95625,CENTRE SECURITEST,,04310,
+329 ROUTE DE CLISSON,ZAC DES GRIPOTS,1,1,ST SEBASTIEN SUR LOIRE,1670,044,1,47.188242622607,true,/fr_FR/centre/centre-autosecurite-st-sebastien-sur-loire-1670,-1.4916251670501,CENTRE AUTOSECURITE,,44230,
+181 AVENUE FELIX GENESLAY,,1,0,LE MANS,1758,072,1,47.97682296514,true,/fr_FR/centre/centre-securitest-ccea-st-christophe-le-mans-1758,0.20786046981812,CENTRE SECURITEST CCEA ST CHRISTOPHE,,72100,
+ZONE ARTISANALE CHANTESSERRE,,1,1,SAINT OURS,1851,063,1,45.850744113994,true,/fr_FR/centre/centre-securitest-saint-ours-1851,2.8961293784572,CENTRE SECURITEST,,63230,
+139-141 AVENUE FRANKLIN ROOSEVELT,,1,1,BRON,1749,069,1,45.73387580795,true,/fr_FR/centre/centre-objectifcode-bron-1749,4.9082476864568,CENTRE OBJECTIFCODE,,69500,
+BOULEVARD DU NORD - AU PONT,PARKING DE LA PISCINE,1,1,GIMONT,1768,032,1,43.63086391473,true,/fr_FR/centre/centre-securitest-gimont-1768,0.87348504601987,CENTRE SECURITEST,,32200,
+11 AVENUE DU GÉNÉRAL LECLERC,,1,0,NOGARO,1769,032,1,43.7579345,true,/fr_FR/centre/centre-autosecurite-nogaro-1769,-0.0317912,CENTRE AUTOSECURITE,,32110,
+ 7 RUE DE L`ARC MOSELLAN,,1,1,METZERVISSE,1778,057,1,49.320528180425,true,/fr_FR/centre/centre-autosecurite-metzervisse-1778,6.2804459398997,CENTRE AUTOSECURITE,,57940,
+4 A RUE DE REININGUE,,1,1,WITTELSHEIM,1818,068,1,47.807190019442,true,/fr_FR/centre/centre-securitest-wittelsheim-1818,7.2390296945242,CENTRE SECURITEST,,68310,
+23 RUE DU CHENE VERT,,1,0,PONTCHATEAU,1821,044,1,47.430577726417,true,/fr_FR/centre/centre-autosecurite-pontchateau-1821,-2.0730319104177,CENTRE AUTOSECURITE,,44160,
+14 BIS RUE BAPST,,8,1,ASNIERES SUR SEINE,1825,092,1,48.908921759554,true,/fr_FR/centre/centre-objectifcode-asnieres-sur-seine-1825,2.2863453227725,CENTRE OBJECTIFCODE,,92600,
+15 RUE BERNADOTTE,,7,1,PAU,1833,064,1,43.2973777,true,/fr_FR/centre/store-objectifcode-pau-1833,-0.3731583,STORE OBJECTIFCODE,,64000,
+RUE DE LA ROCHOTTE,,1,1,RUSS,1846,067,1,48.492205632285,true,/fr_FR/centre/centre-autosecurite-russ-1846,7.2514100471423,CENTRE AUTOSECURITE,,67130,
+1 RUE DE L`ESCOUVRIER,,1,1,SARCELLES,1848,095,1,48.9880361,true,/fr_FR/centre/centre-objectifcode-sarcelles-1848,2.3901909,CENTRE OBJECTIFCODE,,95200,
+19 RUE SADI CARNOT,,1,1,DARNETAL,1811,076,1,49.4409607,true,/fr_FR/centre/centre-objectifcode-darnetal-1811,1.1483812,CENTRE OBJECTIFCODE,,76160,
+42 PLACE DE BEAUNE,,10,1,CHALON SUR SAONE,1835,071,1,46.784891221363,true,/fr_FR/centre/store-objectifcode-chalon-sur-saone-1835,4.8559855098113,STORE OBJECTIFCODE,,71100,
+2 RUE LUCIEN GENUER,,1,0,LA ROCHE SUR YON,1841,085,1,46.67095218008,true,/fr_FR/centre/centre-objectifcode-la-roche-sur-yon-1841,-1.4336836338043,CENTRE OBJECTIFCODE,,85006,
+3 RUE SAINT MICHEL,,10,0,SEDAN,1829,008,1,49.7014707,true,/fr_FR/centre/hotel-le-saint-michel-sedan-1829,4.9457475,HOTEL LE SAINT MICHEL,,08200,
+99 AVENUE DU GENERAL MICHEL BIZOT,,1,,PARIS,1838,075,1,48.838692566035,true,/fr_FR/centre/centre-objectifcode-paris-12-paris-1838,2.4039122357686,CENTRE OBJECTIFCODE PARIS 12,,75012,
+18 RUE VICTOR HUGO,,10,1,CARCASSONNE,1807,011,1,43.213652456622,true,/fr_FR/centre/store-objectifcode-carcassonne-1807,2.3493254184723,STORE OBJECTIFCODE,,11000,
+13 RUE EMILE LEVASSOR,Z.I DE L`ESPERANCE,1,0,ORVAULT,1799,044,1,47.256592749733,true,/fr_FR/centre/centre-securitest-orvault-1799,-1.6325715214571,CENTRE SECURITEST,,44700,
+ROUTE DE CLAMECY,,1,1,SAINT SAULGE,1832,058,1,47.10915237016,true,/fr_FR/centre/centre-autosecurite-saint-saulge-1832,3.5143777386276,CENTRE AUTOSECURITE,,58330,
+140 AVENUE DES MINIMES,,1,0,TOULOUSE,1793,031,1,43.624438385048,true,/fr_FR/centre/centre-objectifcode-toulouse-1793,1.4344614744186,CENTRE OBJECTIFCODE,,31200,
+95 BOULEVARD CARNOT ,SOUTIEN SCOLAIRE ANACOURS,4,1,CANNES,1801,006,1,43.56332,true,/fr_FR/centre/centre-objectifcode-cannes-1801,7.01642,CENTRE OBJECTIFCODE,,06400,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1801/image_1801_1626170293.jpg
+IMPASSE CHAPELLE DE PRADE,,1,1,LA COURONNE,1809,016,1,45.616131182175,true,/fr_FR/centre/centre-autosecurite-la-couronne-1809,0.10040044784546,CENTRE AUTOSECURITE,,16400,
+CHAMPMON,,1,1,NANTIAT,1797,087,1,45.99585036183,true,/fr_FR/centre/centre-autosecurite-nantiat-1797,1.1506620943788,CENTRE AUTOSECURITE,,87140,
+10 ALLÉE PAUL RIQUET,,10,1,BEZIERS,1805,034,1,43.344321,true,/fr_FR/centre/store-objectifcode-beziers-1805,3.215543,STORE OBJECTIFCODE,,34500,
+202 AVENUE DE COLMAR,,5,1,STRASBOURG,1812,067,1,48.557584361069,true,/fr_FR/centre/centre-objectifcode-av-colmar-strasbourg-1812,7.7474684307644,CENTRE OBJECTIFCODE AV. COLMAR,,67100,
+142 RUE JEAN MONNET,,1,1,CROLLES,1871,038,1,45.269512525276,true,/fr_FR/centre/centre-objectifcode-crolles-1871,5.8899168521301,CENTRE OBJECTIFCODE,,38920,
+39 FAUBOURG ST JACQUES,,1,1,CHATELLERAULT,1819,086,1,46.815164726944,true,/fr_FR/centre/centre-objectifcode-chatellerault-1819,0.54659128189087,CENTRE OBJECTIFCODE,,86100,
+ZONE INDUSTRIELLE DE LA ROUE,,1,1,SAINT JEAN EN ROYANS,1852,026,1,45.02553,true,/fr_FR/centre/centre-autosecurite-saint-jean-en-royans-1852,5.28902,CENTRE AUTOSECURITE,,26190,
+48 RUE D ORLEANS,,10,0,SAUMUR,1877,049,1,47.259253732438,true,/fr_FR/centre/hotel-originals-le-londres-saumur-1877,-0.079331311545093,HOTEL ORIGINALS LE LONDRES,,49400,
+21 RUE D`OSLO,,1,1,STRASBOURG,1862,067,1,48.578701064622,true,/fr_FR/centre/centre-objectifcode-esplanade-strasbourg-1862,7.7735591865587,CENTRE OBJECTIFCODE ESPLANADE,,67000,
+LOTISSEMENT COMMERCIAL DE LA TOUR,LIEUDIT LE BAS FAURE,4,1,LE VIGEN,1813,087,,45.780812220554,true,/fr_FR/centre/centre-securitest-le-vigen-1813,1.3081777460297,CENTRE SECURITEST,,87110,
+208 AVENUE PIERRE BROSSOLETTE,,1,1,LE PERREUX SUR MARNE,1817,094,1,48.834328,true,/fr_FR/centre/centre-objectifcode-le-perreux-sur-marne-1817,2.51249,CENTRE OBJECTIFCODE,,94170,
+63 BOULEVARD MAXIME GORKI,,1,,STAINS,1855,093,1,48.951497093929,true,/fr_FR/centre/centre-objectifcode-stains-1855,2.3853916329493,CENTRE OBJECTIFCODE,,93240,
+16 RUE DE CROSNE,,7,0,ROUEN,1857,076,1,49.4436193,true,/fr_FR/centre/store-objectifcode-rouen-1857,1.0869542,STORE OBJECTIFCODE,,76000,
+15 RUE CARNOT,,10,0,SAINT OMER,1859,062,1,50.7490056,true,/fr_FR/centre/store-objectifcode-saint-omer-1859,2.2546803,STORE OBJECTIFCODE,,62500,
+1 RUE DE LA GROTTE ,,5,1,LOURDES,1872,065,1,43.095814961671,true,/fr_FR/centre/centre-objectifcode-lourdes-1872,-0.046148040157102,CENTRE OBJECTIFCODE,,65100,
+28 RUE SANDRIER,,4,0,POISSY,1900,078,1,48.929713222155,true,/fr_FR/centre/centre-objectifcode-poissy-1900,2.0433176772072,CENTRE OBJECTIFCODE,,78300,
+114 AVENUE PAUL VAILLANT COUTURIER,,1,,LA COURNEUVE,1869,093,1,48.923824588999,true,/fr_FR/centre/centre-securitest-la-courneuve-1869,2.4143689870834,CENTRE SECURITEST,,93120,
+4 PLACE DE LA BOUQUERIE ,,1,1,APT,1875,084,1,43.876512079849,true,/fr_FR/centre/centre-objectifcode-apt-1875,5.3944611011349,CENTRE OBJECTIFCODE,,84400,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1875/image_1875_1630930255.jpg
+191 CHEMIN AUX MORTES,,1,1,LE TOUVET,1861,038,1,45.350311047055,true,/fr_FR/centre/centre-objectifcode-le-touvet-1861,5.9467764132906,CENTRE OBJECTIFCODE,,38660,
+84 AVENUE FOCH,,4,4,LE HAVRE,1847,075,1,49.493246,true,/fr_FR/centre/centre-optima-cours-objectifcode-le-havre-1847,0.1062297,CENTRE OPTIMA COURS / OBJECTIFCODE,,76600,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/1847/image_1847_1631698073.jpg
+155 BIS AVENUE DE QUERCY,,5,1,VILLEFRANCHE DE ROUERGUE,1887,012,1,44.359006353119,true,/fr_FR/centre/centre-objectifcode-villefranche-de-rouergue-1887,2.0208942890167,CENTRE OBJECTIFCODE,,12200,
+76 BOULEVARD HENRI SELLIER,,1,0,SURESNES,1897,092,1,48.866676262094,true,/fr_FR/centre/centre-objectifcode-suresnes-1897,2.2207673341222,CENTRE OBJECTIFCODE,,92150,
+249 BOULEVARD FERNAND DARCHICOURT,,10,1,HENIN BEAUMONT,1925,062,1,50.4103685,true,/fr_FR/centre/association-des-parents-eleves-la-page-henin-beaumont-1925,2.9570117,ASSOCIATION DES PARENTS ELEVES LA PAGE,,62110,
+228 RUE DU JURA,,1,1,NEYDENS,1850,074,1,46.123319769904,true,/fr_FR/centre/centre-autosecurite-neydens-1850,6.0929285476962,CENTRE AUTOSECURITE,,74160,
+11 RUE ERIC TABARLY,BAT B / 2EME ETAGE,6,1,LES SABLES D OLONNE,1929,085,1,46.515051307634,true,/fr_FR/centre/centre-objectifcode-les-sables-d-olonne-1929,-1.767897605896,CENTRE OBJECTIFCODE,,85340,
+3 RUE MARIE MARVINGT,,5,1,BETHENY,1904,051,1,49.2783047,true,/fr_FR/centre/centre-securitest-betheny-1904,4.0399868,CENTRE SECURITEST,,51450,
+4 PLACE JEAN MONNET,,1,,ORLEANS,1845,045,1,47.899260111553,true,/fr_FR/centre/centre-objectifcode-orleans-1845,1.8796859286525,CENTRE OBJECTIFCODE,,45000,
+48 AVENUE ERKMANN CHATRIAN,,5,1,FREYMING MERLEBACH,1891,057,1,49.144180550233,true,/fr_FR/centre/store-objectifcode-freyming-merlebach-1891,6.8000568950147,STORE OBJECTIFCODE,,57800,
+76 RUE PATOUX,,1,1,ANICHE,1899,059,1,50.3312902,true,/fr_FR/centre/centre-securitest-aniche-1899,3.25032,CENTRE SECURITEST,,59580,
+6 AVENUE DE TOULOUSE,,10,1,SAINT ORENS,1923,031,1,43.56463,true,/fr_FR/centre/centre-autosecurite-saint-orens-1923,1.5143886,CENTRE AUTOSECURITE,,31650,
+RUE DU GENERAL DE GAULLE,,1,1,SCAER,1843,029,1,48.020727311493,true,/fr_FR/centre/centre-autosecurite-scaer-1843,-3.7178514425573,CENTRE AUTOSECURITE,,29390,
+65 AVENUE DE VALENTON,,1,,LIMEIL BREVANNES,1901,094,1,48.74128122224,true,/fr_FR/centre/centre-objectifcode-limeil-brevannes-1901,2.4883637381744,CENTRE OBJECTIFCODE,,94450,
+2 RUE DE L EPINOY,BAT 2F,1,1,TEMPLEMARS,1935,059,1,50.56414113645,true,/fr_FR/centre/centre-objectifcode-templemars-1935,3.0707688252184,CENTRE OBJECTIFCODE,,59175,
+11 BIS RUE DU PETIT VERSAILLES,,1,1,CHATEAU RENAULT,1919,037,1,47.590895917139,true,/fr_FR/centre/centre-securitest-chateau-renault-1919,0.89874412947151,CENTRE SECURITEST,,37110,
+34 AVENUE FOCH,,1,1,NIEDERBRONN LES BAINS,1873,067,1,48.947669731199,true,/fr_FR/centre/centre-autosecurite-niederbronn-les-bains-1873,7.6488207804454,CENTRE AUTOSECURITE,,67110,
+QUAI  DU FOSSÉ AUX TANNEURS ,SALLE CHARPILLON,10,1,GISORS,1105,027,1,49.278995,true,/fr_FR/centre/mairie-de-gisors-gisors-1105,1.77756,MAIRIE DE GISORS,,27140,
+170 ZONE D ACTIVITE LES FILATIERS,,1,1,ANZIN SAINT AUBIN,1933,062,1,50.311700855935,true,/fr_FR/centre/centre-securitest-anzin-saint-aubin-1933,2.7510281828808,CENTRE SECURITEST,,62223,
+289 AVENUE MARECHAL FOCH,NG FORMATIONS,1,1,ORANGE,1894,084,1,44.13289,true,/fr_FR/centre/centre-objectifcode-orange-1894,4.81502,CENTRE OBJECTIFCODE,,84100,
+113 AVENUE MAJOR GENERAL VANIER,,1,1,TROYES,1816,010,1,48.308143498031,true,/fr_FR/centre/centre-securitest-troyes-1816,4.0687350251081,CENTRE SECURITEST,,10000,
+50 RUE DIDEROT,,1,1,LANGRES,1915,052,1,47.860036393944,true,/fr_FR/centre/centre-objectifcode-langres-1915,5.333066001748,CENTRE OBJECTIFCODE,,52200,
+2 RUE DU DOCTEUR FRERY,,6,,BELFORT,1945,090,1,47.640486315287,true,/fr_FR/centre/store-objectifcode-belfort-1945,6.859797921495,STORE OBJECTIFCODE,,90000,
+95 BOULEVARD DES MARTYRS ,DE LA RESISTANCE,8,0,DRAGUIGNAN,1949,083,1,43.5343058,true,/fr_FR/centre/centre-autosecurite-draguignan-1949,6.4656377,CENTRE AUTOSECURITE,,83300,
+AVENUE DU 19 MARS 1962,ZAC DU PUJOL,1,1,AURIOL,1885,013,1,43.3693044,true,/fr_FR/centre/centre-objectifcode-auriol-1885,5.6547221,CENTRE OBJECTIFCODE,,13390,
+26 AVENUE DE VERDUN,,1,1,BLOIS,1931,041,1,47.592425200219,true,/fr_FR/centre/centre-objectifcode-blois-1931,1.3443548376762,CENTRE OBJECTIFCODE,,41000,
+10 RUE DE BRAY,,1,1,CESSON SEVIGNE,1961,035,1,48.10470877806,true,/fr_FR/centre/centre-autosecurite-cesson-sevigne-1961,-1.6296054312466, CENTRE AUTOSECURITE,,35510,
+16 AVENUE D OUESSANT,,1,0,BRUZ,1918,035,1,48.025961754239,true,/fr_FR/centre/centre-securitest-bruz-1918,-1.7670811518734,CENTRE SECURITEST,,35170,
+31 RUE SERMONOISE,,3,1,COMBS LA VILLE,1937,077,1,48.662899501247,true,/fr_FR/centre/centre-objectifcode-combs-la-ville-1937,2.5690251588821,CENTRE OBJECTIFCODE,,77380,
+7 RUE DE L OUTARDE CANEPETIERE,,1,1,NEUVILLE DE POITOU,1953,086,1,46.6818016,true,/fr_FR/centre/centre-autosecurite-neuville-de-poitou-1953,0.2574212,CENTRE AUTOSECURITE,,86170,
+142 RUE DU GENERAL LECLERC,,1,1,CRETEIL,1865,094,1,48.78683364398,true,/fr_FR/centre/centre-autosecurite-creteil-1865,2.4694651533177,CENTRE AUTOSECURITE,,94000,
+9 CHEMIN DE LA DEGOUTTE,,1,1,MOUANS SARTOUX,1917,006,1,43.619354,true,/fr_FR/centre/centre-objectifcode-mouans-sartoux-1917,6.934157,CENTRE OBJECTIFCODE,,06370,
+17 RUE DU BREUIL,,1,1,BOURBON LANCY,1776,071,1,46.622597276827,true,/fr_FR/centre/centre-objectifcode-bourbon-lancy-1776,3.7533981971494,CENTRE OBJECTIFCODE,,71140,
+ROUTE DE NICE ,,1,0,SAINT ANDRE LES ALPES,1943,004,1,43.968356,true,/fr_FR/centre/centre-autosecurite-saint-andre-les-alpes-1943,6.5073946,CENTRE AUTOSECURITE,,04710,
+12 RUE DES AIRS,,1,1,CHATEAUNEUF DE GALAURE,1895,026,1,45.230853385265,true,/fr_FR/centre/centre-autosecurite-chateauneuf-de-galaure-1895,4.9619376926203,CENTRE AUTOSECURITE,,26330,
+12 RUE DE VERSAILLES,,1,1,CLAMART,1888,092,1,48.782977967694,true,/fr_FR/centre/centre-objectifcode-clamart-1888,2.2474235075828,CENTRE OBJECTIFCODE,,92140,
+16 BOULEVARD DES ALLIÉS,,2,1,CHOISY LE ROI,1969,094,1,48.765387355044,true,/fr_FR/centre/centre-objectifcode-choisy-le-roi-1969,2.4052273965135,CENTRE OBJECTIFCODE,,94600,
+1 RUE DU TRONCHON,,1,1,CHAMPAGNE AU MONT D OR,1985,069,1,45.801144596104,true,/fr_FR/centre/centre-securitest-champagne-au-mont-d-or-1985,4.786303398125,CENTRE SECURITEST,,69410,
+29 RUE DU COLOMBIER,,10,,ORLEANS,1978,045,1,47.90355193053,true,/fr_FR/centre/residences-jeunes-colombier-orleans-1978,1.9004952907562,RESIDENCES JEUNES COLOMBIER,,45000,
+124 AVENUE COLONEL TEYSSIER,,6,1,ALBI,1957,081,1,43.923414510699,true,/fr_FR/centre/centre-objectifcode-albi-1957,2.1580302715302,CENTRE OBJECTIFCODE,,81000,
+54 A ROUTE DE CILAOS,,10,1,SAINT LOUIS,1963,974,1,-21.270314932019,true,/fr_FR/centre/centre-st-louis-saint-louis-1963,55.444362411093,CENTRE ST LOUIS,,97421,
+4 RUE DU GARTFELD,,10,0,SELESTAT,1959,067,1,48.260132897289,true,/fr_FR/centre/association-foyer-saint-georges-selestat-1959,7.4600224868675,ASSOCIATION FOYER SAINT GEORGES,,67600,
+30 RUE DE STRASBOURG,,10,1,ST DENIS,1999,093,1,48.936484830808,true,/fr_FR/centre/store-objectifcode-st-denis-1999,2.3706760960197,STORE OBJECTIFCODE,,93200,
+ZI LA PETITE PRAIRIE,,1,1,BOURGUEIL,1920,037,1,47.273063424189,true,/fr_FR/centre/centre-autosecurite-bourgueil-1920,0.16593291284931,CENTRE AUTOSECURITE,,37140,
+2 AVENUE GENERALE DE GAULE,,5,1,CHERAUTE,1989,064,1,43.230383676199,true,/fr_FR/centre/centre-securitest-cheraute-1989,-0.87294279262029,CENTRE SECURITEST,,64130,
+33 BIS BOULEVARD DU SOLEIL,AGENCE CREDIT AVENUE,5,0,AGDE,1981,034,1,43.30468630884,true,/fr_FR/centre/centre-objectifcode-soleil-agde-1981,3.4842216968536,CENTRE OBJECTIFCODE SOLEIL,,34300,
+RUE DES FORGERONS ZAC 1,ZI DE LA BAUGAUDIERE,1,1,ST GILLES CROIX DE VIE,1907,085,1,46.693401586328,true,/fr_FR/centre/centre-securitest-st-gilles-croix-de-vie-1907,-1.9021797180176,CENTRE SECURITEST,,85800,
+84 BOULEVARD DE POITIERS,,1,0,BRESSUIRE,1967,079,1,46.8377675,true,/fr_FR/centre/centre-objectifcode-bressuire-1967,-0.4814046,CENTRE OBJECTIFCODE,,79300,
+8 AVENUE PONT DE FRANCE,FACE CAISSE D EPARGNE,1,1,LIMOUX,1987,011,1,43.056303494221,true,/fr_FR/centre/centre-objectifcode-agence-axa-limoux-1987,2.2153990413806,CENTRE OBJECTIFCODE AGENCE AXA,,11300,
+3 PLACE DU 4 AOUT ,,1,0,ARGENTONNAY,1992,079,1,46.98519235,true,/fr_FR/centre/centre-objectifcode-argentonnay-1992,-0.4496825859585,CENTRE OBJECTIFCODE,,79150,
+13 RUE DU PRESIDENT WILSON,A COTER DE PERIMOUV ET PERIBUS,1,0,PERIGUEUX,1971,024,1,45.183950064569,true,/fr_FR/centre/centre-objectifcode-perigueux-1971,0.71723341941833,CENTRE OBJECTIFCODE ,,24000,
+12 - 14 RUE BETEILLE,,10,0,RODEZ,2005,012,1,44.351607371397,true,/fr_FR/centre/hotel-du-midi-concorde-rodez-2005,2.572603225708,HOTEL DU MIDI CONCORDE,,12000,
+152 AVENUE DE LA REPUBLIQUE,,1,1,L ISLE D ESPAGNAC,1921,016,1,45.6654089,true,/fr_FR/centre/centre-objectifcode-l-isle-d-espagnac-1921,0.2022182,CENTRE OBJECTIFCODE,,16340,
+22 CHEMIN DE LA VIOLETTE,ENTREE DERRIERE SECURITEST,1,0,L UNION,1983,031,1,43.664006631584,true,/fr_FR/centre/centre-securitest-euroexpertise-l-union-1983,1.4610743522644,CENTRE SECURITEST / EUROEXPERTISE,,31240,
+26 AVENUE ALEXANDRE DUMAS,,1,1,MARSEILLE,1958,013,1,43.2640076,true,/fr_FR/centre/centre-objectifcode-marseille-8-marseille-1958,5.3898341,CENTRE OBJECTIFCODE MARSEILLE 8,,13008,
+RUE DE L ABBE GREGOIRE,,6,0,BILLERE,1973,064,1,43.303483,true,/fr_FR/centre/objectifcode-agence-ada-billere-1973,-0.405723,OBJECTIFCODE AGENCE ADA,,64140,
+5 RUE POINCARE,,1,1,BISCHWILLER,2000,067,1,48.767927574432,true,/fr_FR/centre/centre-objectifcode-bischwiller-2000,7.858557423036,CENTRE OBJECTIFCODE,,67240,
+45 MAIL DE LA SAMBRE,,1,1,MAUBEUGE,1976,059,1,50.2771376,true,/fr_FR/centre/centre-objectifcode-maubeuge-1976,3.9693084,CENTRE OBJECTIFCODE,,59600,
+9 BIS AVENUE DES FRERES LUMIERE,,1,1,ST BREVIN LES PINS,1988,044,1,47.234983530649,true,/fr_FR/centre/centre-autosecurite-st-brevin-les-pins-1988,-2.1524392249184,CENTRE AUTOSECURITE,,44250,
+ROUTE DE PAUILLAC,CENTRE COMMERCIAL LES PORTES DU MEDOC,1,,LE PIAN MEDOC,1951,033,1,44.9562041702,true,/fr_FR/centre/centre-autosecurite-le-pian-medoc-1951,-0.63083410263062,CENTRE AUTOSECURITE,,33290,
+38 BIS BOULEVARD VICTOR HUGO,COWORKING PARADIGM,5,1,NICE,1994,006,1,43.6989913,true,/fr_FR/centre/centre-objectifcode-nice-1994,7.2618835,CENTRE OBJECTIFCODE,,06000,
+116 RUE DU VIEIL HOPITAL,,10,1,CARPENTRAS,1974,084,1,44.0529888,true,/fr_FR/centre/store-objectifcode-carpentras-1974,5.0483963,STORE OBJECTIFCODE,,84200,
+6 RUE MIGNOT,,1,,CHATEAU GONTIER,2003,053,1,47.825250439202,true,/fr_FR/centre/centre-objectifcode-chateau-gontier-2003,-0.70835716020064,CENTRE OBJECTIFCODE,,53200,
+3 RUE JEAN GOUJON,,1,1,MONTIGNY LE BRETONNEUX,2007,078,1,48.767942949119,true,/fr_FR/centre/centre-objectifcode-montigny-le-bretonneux-2007,2.0174610614777,CENTRE OBJECTIFCODE,,78180,
+1 RUE DU MARECHAL LECLERC,YUNA FORMATIONS / LE PANORAMIQUE,1,1,CLUSES,1879,074,1,46.064756187791,true,/fr_FR/centre/centre-objectifcode-cluses-1879,6.5785086691337,CENTRE OBJECTIFCODE,,74300,
+36 RUE DES TONNELIERS,,5,1,LE PONTET,1729,084,1,43.9820825,true,/fr_FR/centre/centre-securitest-le-pontet-1729,4.8624608,CENTRE SECURITEST,,84130,
+26 PLACE DES CLERCS,,9,1,MONTELIMAR,1975,026,1,44.559111,true,/fr_FR/centre/store-objectifcode-montelimar-1975,4.7517504399917,STORE OBJECTIFCODE,,26200,
+19 AVENUE DE L EMPEREUR,,1,0,MONTMIRAIL,2019,051,1,48.8714991,true,/fr_FR/centre/centre-objectifcode-montmirail-2019,3.5450679,CENTRE OBJECTIFCODE,,51210,
+44 AV. LÉO LAGRANGE,,1,0,BESANCON,1924,025,1,47.2422993,true,/fr_FR/centre/centre-autosecurite-besancon-1924,6.0085861,CENTRE AUTOSECURITE,,25000,
+77 RUE THIERS,,9,1,LIBOURNE,2011,033,1,44.9123349,true,/fr_FR/centre/centre-objectifcode-libourne-2011,-0.2430105,CENTRE OBJECTIFCODE,,33500,
+40 AVENUE GAMBETTA,,1,1,MONTAUBAN,2026,082,1,44.01829588909,true,/fr_FR/centre/centre-objectifcode-montauban-2026,1.3593220710754,CENTRE OBJECTIFCODE,,82000,
+8 RUE DU REMPART,,1,0,NIORT,2021,079,1,46.3238769,true,/fr_FR/centre/centre-objectifcode-rempart-niort-2021,-0.4598491,CENTRE OBJECTIFCODE REMPART,,79000,
+10 RUE DESGROUX,,5,1,BEAUVAIS,2010,060,1,49.429860146918,true,/fr_FR/centre/centre-objectifcode-beauvais-2010,2.0811043555959,CENTRE OBJECTIFCODE,,60000,
+ZONE ARTISANALE ROUTE DE PLOUBALAY,,1,1,TADEN,2013,035,1,48.465665513123,true,/fr_FR/centre/centre-objectifcode-taden-2013,-2.0596616772804,CENTRE OBJECTIFCODE,,22100,
+12 PLACE GEORGES POMPIDOU,ESPACE FUTÉ,1,0,NOISY LE GRAND,2040,093,1,48.8380347,true,/fr_FR/centre/centre-objectifcode-pompidou-noisy-le-grand-2040,2.5513599,CENTRE OBJECTIFCODE POMPIDOU,,93160,
+32 PLACE DE LA HALLE AU BLE,,1,1,ALENCON,2018,061,1,48.430531803412,true,/fr_FR/centre/centre-objectifcode-alencon-2018,0.084215998649597,CENTRE OBJECTIFCODE,,61000,
+29 RUE JULES GUESDE,,5,1,LEVALLOIS PERRET,2039,093,1,48.892547107338,true,/fr_FR/centre/centre-objectifcode-levallois-perret-2039,2.2931447268484,CENTRE OBJECTIFCODE,,92300,
+7 RUE PARMENTIER,,1,1,ALFORTVILLE,2031,094,1,48.807291925978,true,/fr_FR/centre/centre-objectifcode-alfortville-2031,2.41149735982,CENTRE OBJECTIFCODE,,94140,
+129 AVENUE GEORGES CLEMENCEAU,,1,1,CAEN,2029,014,1,49.190261426477,true,/fr_FR/centre/centre-objectifcode-g-clemenceau-caen-2029,-0.34419892636571,CENTRE OBJECTIFCODE G.CLEMENCEAU,,14000,
+44 ROUTE DE BETHUNE,,1,0,LOOS EN GOHELLE,1996,062,1,50.4532277,true,/fr_FR/centre/centre-autosecurite-loos-en-gohelle-1996,2.7838749,CENTRE AUTOSECURITE,,62750,
+2 RUE DU PRÉ MALENPOGNE,,1,1,BATZ SUR MER,1941,044,1,47.274499235697,true,/fr_FR/centre/centre-autosecurite-batz-sur-mer-1941,-2.4435305662467,CENTRE AUTOSECURITE,,44740,
+348 AVENUE DE PARIS,,1,1,NIORT,2025,079,1,46.3243451,true,/fr_FR/centre/centre-objectifcode-av-paris-niort-2025,-0.456464,CENTRE OBJECTIFCODE AV PARIS,,79000,
+17 AVENUE DU 8 MAI 1945,,1,0,SAINT FLORENTIN,2033,089,1,48.000428806852,true,/fr_FR/centre/centre-securitest-saint-florentin-2033,3.7199657981079,CENTRE SECURITEST,,89600,
+1 ROUTE DES JANETS,,1,1,SAINT SAUVEUR EN PUISAYE,2027,089,1,47.614404735063,true,/fr_FR/centre/centre-autosecurite-saint-sauveur-en-puisaye-2027,3.2130066990838,CENTRE AUTOSECURITE,,89520,
+6 RUE D ARAGO,,1,1,MIGENNES,2012,089,1,47.970806503623,true,/fr_FR/centre/centre-securitest-migennes-2012,3.5422958112152,CENTRE SECURITEST,,89400,
+10 IMPASSE DE L ILLIADE,,1,1,ST PERE EN RETZ,1955,044,1,47.201900373048,true,/fr_FR/centre/centre-securitest-st-pere-en-retz-1955,-2.0468813498708,CENTRE SECURITEST,,44320,
+PARC D ACTIVITE SAINT JEAN,ROUTE DE CHAMPIGNE,1,0,CHATEAUNEUF SUR SARTHE,2015,049,1,47.679643398733,true,/fr_FR/centre/centre-autosecurite-chateauneuf-sur-sarthe-2015,-0.50702296471711,CENTRE AUTOSECURITE,,49330,
+119 BIS AVENUE DU GENERAL LECLERC,,1,0,PIERRELAYE,2043,095,1,49.02111115,true,/fr_FR/centre/centre-autosecurite-pierrelaye-2043,2.1448835219714,CENTRE AUTOSECURITE,,95480,
+2 CHEMIN DU CHATEAU CRU ,CARTE GRISE EXPRESS,1,1,PIBRAC,2066,031,1,43.601982,true,/fr_FR/centre/centre-objectifcode-pibrac-2066,1.2570870228571,CENTRE OBJECTIFCODE,,31820,
+701K RUE DE L ABBAYE,,1,1,GRUCHET LE VALASSE,2009,076,1,49.5499133,true,/fr_FR/centre/centre-securitest-gruchet-le-valasse-2009,0.4918017,CENTRE SECURITEST,,76210,
+1 AVENUE DU BOIS DE L EPINE,,1,0,EVRY-COURCOURONNES,2048,091,,48.62811519168,true,/fr_FR/centre/centre-objectifcode-evry-courcouronnes-2048,2.4062740802765,CENTRE OBJECTIFCODE,,91080,
+195 RUE YVES MONTAND MONTPELLIER ·,EN FACE DU CONSULAT 1ER ETAGE,1,1,MONTPELLIER,2038,034,1,43.6195492597,true,/fr_FR/centre/centre-objectifcode-bologne-montpellier-2038,3.8192403316498,CENTRE OBJECTIFCODE BOLOGNE,,34080,
+222 AVENUE HENRI BARBUSSE,,1,0,DRANCY,2077,093,1,48.922975353759,true,/fr_FR/centre/centre-objectifcode-drancy-2077,2.4579827889306,CENTRE OBJECTIFCODE,,93700,
+4 PLACE DE LA BOEUFFETERIE ,MUTUELLE DE POITIERS,1,0,LOUDUN,2022,086,1,47.00965945,true,/fr_FR/centre/centre-objectifcode-loudun-2022,0.083416221885292,CENTRE OBJECTIFCODE,,86200,
+1 RUE MARIUS LAUREZ,CREDIT IMMOBILIER ROND POINT MARIANNE,1,1,MEZE,2037,034,1,43.427663342055,true,/fr_FR/centre/centre-objectifcode-meze-2037,3.6053717136383,CENTRE OBJECTIFCODE,,34140,
+44 AVENUE MICHEL JOUDAN,ELM ASSURANCES,1,1,CANNES LA BOCCA,2085,006,1,43.552029120793,true,/fr_FR/centre/centre-objectifcode-cannes-la-bocca-2085,6.9779738818814,CENTRE OBJECTIFCODE,,06150,
+38 RUE JEAN JAURES,,1,0,L HAY LES ROSES,2082,094,1,48.778669476583,true,/fr_FR/centre/centre-objectifcode-l-hay-les-roses-2082,2.3385197625645,CENTRE OBJECTIFCODE,,94240,
+ZAC LE GRAND HOTEL,,1,1,ROZOY SUR SERRE,2071,002,1,49.70442276613,true,/fr_FR/centre/controle-technique-rostand-rozoy-sur-serre-2071,4.110113982135,CONTROLE TECHNIQUE ROSTAND ,,02360,
+6 RUE DU COMMERCE,,1,1,ESCHAU,2035,067,1,48.481829603264,true,/fr_FR/centre/centre-verif-autos-eschau-2035,7.7320587519919,CENTRE VERIF AUTOS,,67114,
+60 RUE DE MULHOUSE,,1,0,SAINT LOUIS,2059,068,1,47.589272645523,true,/fr_FR/centre/centre-objectifcode-saint-louis-2059,7.5602041251861,CENTRE OBJECTIFCODE,,68300,
+6 AVENUE BERNARD FONTANGES,,10,1,FIGEAC,739,046,1,44.609583,true,/fr_FR/centre/maison-de-la-formation-figeac-739,2.021596,MAISON DE LA FORMATION,,46100,httpss://www.objectifcode.sgs.com/WS_CDR/img/centre/739/image_739_1516616171.jpg
+44 AVENUE DE PARIACABO,,5,0,KOUROU,2046,973,1,5.1568193805987,true,/fr_FR/centre/centre-securitest-kourou-2046,-52.667173071737,CENTRE SECURITEST,,97310,
+47 RUE DU GENERAL DE GAULLE,,1,,CARSPACH,2051,068,1,47.624470572731,true,/fr_FR/centre/centre-autosecurite-carspach-2051,7.21670977192,CENTRE AUTOSECURITE,,68130,
+73 BIS RUE DE PARIS,,1,0,VILLIERS LE BEL,2083,095,1,49.010878431092,true,/fr_FR/centre/centre-verif-autos-villiers-le-bel-2083,2.3839539986147,CENTRE VERIF AUTOS,,95400,
+1 RUE DE LA GRANDE CEINTURE,,1,0,ARGENTEUIL,2089,095,1,48.949290620787,true,/fr_FR/centre/centre-objectifcode-argenteuil-2089,2.2581371130512,CENTRE OBJECTIFCODE,,95100,
+10 PLACE SALVADOR ALLENDE,,1,0,VILLENEUVE D ASCQ,2050,059,1,50.6190274,true,/fr_FR/centre/centre-objectifcode-villeneuve-d-ascq-2050,3.1315327,CENTRE OBJECTIFCODE,,59650,
+1A  AVENUE DE PLAISANCE,,1,1,SAINT MARTIN DE CRAU,2080,013,1,43.6381463,true,/fr_FR/centre/centre-objectifcode-saint-martin-de-crau-2080,4.8105097,CENTRE OBJECTIFCODE,,13310,
+52 RUE DE TOLBIAC,,5,0,PARIS,2088,075,1,48.827622314107,true,/fr_FR/centre/centre-objectifcode-paris-13-paris-2088,2.3701008242064,CENTRE OBJECTIFCODE PARIS 13,,75013,
+70 AVENUE MAURICE PLANES,INTERPHONE CMF DANS BATIMENT ACTUAL,1,0,MONTPELLIER,2045,034,1,43.597129530138,true,/fr_FR/centre/centre-objectifcode-m-planes-montpellier-2045,3.8433372974396,CENTRE OBJECTIFCODE M. PLANES,,34070,
+2 PLACE DU 19 MARS 1962,,5,1,VITRY SUR SEINE,2093,094,1,48.790885488789,true,/fr_FR/centre/store-objectifcode-vitry-sur-seine-2093,2.3989637496876,STORE OBJECTIFCODE,,94400,
+17 RUE DES GENETS D OR,,5,1,CANET EN ROUSSILLON,2095,066,1,42.70080940998,true,/fr_FR/centre/store-objectifcode-canet-en-roussillon-2095,3.0311322212219,STORE OBJECTIFCODE,,66140,
+1353 AV. DE MONTVALTIN,,1,,LE CREUSOT,2053,071,1,46.803286724558,true,/fr_FR/centre/centre-securitest-le-creusot-2053,4.459139288293,CENTRE SECURITEST,,71200,
+13-17 RTE DE PARIS,,1,1,NANTES,2101,044,1,47.251345757797,true,/fr_FR/centre/centre-securitest-nantes-2101,-1.5200182595146,CENTRE SECURITEST,,44300,
+40 RUE DES PIPOTS,,1,1,BOULOGNE SUR MER,2073,062,1,50.723087582158,true,/fr_FR/centre/objectifcode-agence-allianz-boulogne-sur-mer-2073,1.6083574118703,OBJECTIFCODE AGENCE ALLIANZ,,62200,
+ROUTE DE PARENTIS,ZONE COMMERCIALE PASTEBUCH,1,,BISCAROSSE,2056,040,1,44.383978766876,true,/fr_FR/centre/centre-autosecurite-biscarosse-2056,-1.1493594380596,CENTRE AUTOSECURITE,,40600,
+87 ROUTE DE GRIGNY,,5,0,RIS-ORANGIS,2094,091,1,48.652027335221,true,/fr_FR/centre/centre-objectifcode-ris-orangis-2094,2.3985961027928,CENTRE OBJECTIFCODE,,91130,
+100 PLACE DE LA LIBERTE,,10,,PORT DE LANNE,2109,040,1,43.5656626,true,/fr_FR/centre/maison-des-associations-port-de-lanne-2109,-1.1782741,MAISON DES ASSOCIATIONS,,40300,
+43 BOULEVARD PASTEUR,,1,1,CALAIS,2070,062,1,50.94636179121,true,/fr_FR/centre/objectifcode-agence-allianz-calais-2070,1.8541066686957,OBJECTIFCODE AGENCE ALLIANZ ,,62100,
+33 RUE ALEXANDRE PRACHAY,,5,1,PONTOISE,2125,095,1,49.050027861097,true,/fr_FR/centre/store-objectifcode-pontoise-2125,2.1001469570366,STORE OBJECTIFCODE,,95300,
+57 ROUTE DE VANNES,,10,0,NANTES,1977,044,1,47.234599751148,true,/fr_FR/centre/autovision-nantes-ste-therese-nantes-1977,-1.5821023312726,AUTOVISION NANTES STE THERESE,,44100,
+10 RUE ENRICO FERMI,,1,1,ROMAGNAT,1903,063,1,45.741628644566,true,/fr_FR/centre/centre-objectifcode-romagnat-1903,3.0883307494589,CENTRE OBJECTIFCODE,,63540,
+58 AVENUE GENERAL DE GAULLE,LP SERVICE CARTES GRISES ,1,1,PERPIGNAN,2081,066,1,42.697679114933,true,/fr_FR/centre/centre-objectifcode-lp-cartes-grises-perpignan-2081,2.8848338127136,CENTRE OBJECTIFCODE LP CARTES GRISES,,66000,
+97 RUE SAUVEUR TOBELEM,CENTRE D AFFAIRES ,1,1,MARSEILLE,2120,013,1,43.28661108176,true,/fr_FR/centre/centre-objectifcode-marseille-7-marseille-2120,5.3588082693731,CENTRE OBJECTIFCODE MARSEILLE 7,,13007,
+8 AVENUE BERTHELOT,,1,1,QUILLAN,2057,011,1,42.875941502496,true,/fr_FR/centre/objectifcode-agence-axa-quillan-2057,2.1825499971968,OBJECTIFCODE AGENCE AXA,,11500,
+51/5 AVENUE GENERAL DE GAULLE,,1,0,SAINT QUENTIN,2020,002,1,49.8573058,true,/fr_FR/centre/centre-securitest-saint-quentin-2020,3.2619806,CENTRE SECURITEST,,02100,
+4 CEHMIN DE LA TONNELLE,,1,1,CELLES SUR BELLE,2069,079,1,46.269330076555,true,/fr_FR/centre/centre-autosecurite-celles-sur-belle-2069,-0.22438447383333,CENTRE AUTOSECURITE,,79370,
+11 RUE DE LA GRADINE,,1,0,LES HERBIERS,2097,085,1,46.8819024,true,/fr_FR/centre/centre-autosecurite-les-herbiers-2097,-1.0237901,CENTRE AUTOSECURITE,,85500,
+2 RUE EDISON,,1,0,NOZAY,2103,091,1,48.648840876127,true,/fr_FR/centre/centre-objectifcode-nozay-2103,2.2513876342293,CENTRE OBJECTIFCODE,,91620,
+2 RUE MARIE CURIE,,1,0,VILLIERS SUR ORGE,2141,091,1,48.664033291277,true,/fr_FR/centre/centre-securitest-villiers-sur-orge-2141,2.2951233386993,CENTRE SECURITEST,,91700,
+QUARTIER BEAU VEZE ,ZONE ARTISANALE LES CASTORS,1,0,CARQUEIRANNE ,2146,083,1,43.109583595818,true,/fr_FR/centre/centre-securitest-carqueiranne-2146,6.0475312558503,CENTRE SECURITEST,,83320,
+3 AVENUE DU CENTURION,,10,1,LE GRAU DU ROI,2167,030,1,43.521544370568,true,/fr_FR/centre/centre-objectifcode-le-grau-du-roi-2167,4.1254799693528,CENTRE OBJECTIFCODE,,30240,
+ROUTE TOURISTIQUE  MANGANAO VILLAGE ,LOCAL 9 LES TI BOUTIQUES ,5,1,SAINT FRANCOIS,2130,971,1,16.253437,true,/fr_FR/centre/centre-objectifcode-saint-francois-2130,-61.274802,CENTRE OBJECTIFCODE ,,97118,
+8 PLACE JULES GUESDE,,5,1,GENNEVILLIERS,2165,092,1,48.927793304751,true,/fr_FR/centre/centre-objectifcode-gennevilliers-2165,2.2857892513275,CENTRE OBJECTIFCODE,,92230,
+32 RUE DU LAOS,,1,1,PARIS,2149,075,1,48.848920333163,true,/fr_FR/centre/centre-objectifcode-paris-15-paris-2149,2.3012173175812,CENTRE OBJECTIFCODE PARIS 15,,75015,
+4 RUE LANSERRE,JUIGNE SUR LOIRE,1,,LES GARENNES SUR LOIRE,2143,049,1,47.391658135836,true,/fr_FR/centre/centre-securitest-les-garennes-sur-loire-2143,-0.50304011534146,CENTRE SECURITEST,,49610,
+1 AVENUE VICTOR HUGO,,1,0,DECIZE,2145,058,1,46.829532274783,true,/fr_FR/centre/centre-objectifcode-decize-2145,3.4640927693171,CENTRE OBJECTIFCODE,,58300,
+9 RUE PRESIDENT CARNOT,,1,1,CHATILLON SUR SEINE,2135,021,1,47.860968345775,true,/fr_FR/centre/centre-objectifcode-chatillon-sur-seine-2135,4.5736265127389,CENTRE OBJECTIFCODE,,21400,
+ZONE D ACTIVITE CHARBONNEAU,,1,1,CIEL,2132,071,1,46.870874282035,true,/fr_FR/centre/centre-securitest-ciel-2132,5.0454216415329,CENTRE SECURITEST,,71350,
+1 ROUTE DE MONTJOLY RD1,,5,,REMIRE MONTJOLY,2062,973,1,4.9218466216993,true,/fr_FR/centre/centre-commercial-montjoly-2-remire-montjoly-2062,-52.280608625034,CENTRE COMMERCIAL MONTJOLY 2 ,,97354,
+81 RUE VILLE PÉPIN,,1,0,SAINT MALO,2139,035,1,48.633219688253,true,/fr_FR/centre/centre-objectifcode-saint-malo-2139,-2.0117419602405,CENTRE OBJECTIFCODE,,35400,
+11  RUE  LEON  DARAN,,1,1,PAU,2107,064,1,43.295100660729,true,/fr_FR/centre/centre-objectifcode-pau-2107,-0.36595864511635,CENTRE OBJECTIFCODE,,64000,
+122/124 AVENUE JEAN LORRAIN,,5,1,FECAMP,2177,076,1,49.7612112,true,/fr_FR/centre/centre-objectifcode-fecamp-2177,0.3826319,CENTRE OBJECTIFCODE ,,76400,
+187 AVENUE DU GENERAL DE GAULLE ,,1,0,TEMPLEMARS,2157,059,1,50.572259383957,true,/fr_FR/centre/centre-securitest-templemars-2157,3.0469283425528,CENTRE SECURITEST,,59175,
+20 RUE GOUGEARD,,1,1,LE MANS,2153,072,1,48.004815372634,true,/fr_FR/centre/centre-objectifcode-le-mans-2153,0.2021401397328,CENTRE OBJECTIFCODE,,72000,
+23 RUE DU VIEUX MOULIN,,1,,GRANVILLE,2175,050,1,48.838434238745,true,/fr_FR/centre/centre-objecticode-granville-2175,-1.579135048964,CENTRE OBJECTICODE,,50400,
+23 RUE OUDINOT,,1,1,LAVAL,2162,053,1,48.062028238449,true,/fr_FR/centre/centre-objectifcode-laval-2162,-0.75385146026478,CENTRE OBJECTIFCODE,,53000,
+22 RUE DES COCCINELLES,,5,,CAYENNE,2193,973,1,4.9032057568662,true,/fr_FR/centre/atout-controle-cayenne-2193,-52.317188142787,ATOUT CONTROLE,,97300,
+PONT DU GALION,,1,1,GOURBEYRE,2140,971,1,15.988533348194,true,/fr_FR/centre/centre-securitest-gourbeyre-2140,-61.720462888166,CENTRE SECURITEST,,97113,
+8C ZA MONTIFAUX,,1,,NOIRETABLE,2176,042,1,45.819082904015,true,/fr_FR/centre/centre-autosecurite-noiretable-2176,3.758327990427,CENTRE AUTOSECURITE,,42440,
+ZA DE PIERRE BLANCHE,,1,1,CHATILLON EN MICHAILLE,1839,001,1,46.126304746066,true,/fr_FR/centre/centre-securitest-chatillon-en-michaille-1839,5.81405467533,CENTRE SECURITEST,,01200,
+RUE DE LA RAQUE ,LOTISSEMENT DE LA RAQUE,1,1,L AIGUILLON SUR MER,2121,085,1,46.332002685883,true,/fr_FR/centre/centre-autosecurite-l-aiguillon-sur-mer-2121,-1.2923830361293,CENTRE AUTOSECURITE,,85460,
+29 RUE ANGELE VANNIER,,1,0,FOUGERES ,2113,035,1,48.36466222901,true,/fr_FR/centre/centre-securitest-fougeres-2113,-1.2079071602519,CENTRE SECURITEST,,35300,
+20 RUE HENRI IV ,,1,1,CASTRES,2068,081,1,43.6063583,true,/fr_FR/centre/centre-objectifcode-castres-2068,2.241104,CENTRE OBJECTIFCODE,,81100,
+PLACE COLOMBE,,1,,PONT A MOUSSON,2152,054,1,48.905879228578,true,/fr_FR/centre/centre-objectifcode-pont-a-mousson-2152,6.0512343127834,CENTRE OBJECTIFCODE,,54700,
+75 RUE ANATOLE FRANCE,,1,1,CENON,2105,033,1,44.8466958,true,/fr_FR/centre/ct-cenon-entre-deux-mers-cenon-2105,-0.5351665,CT CENON ENTRE DEUX MERS,,33150,
+17 RUE MARCEL PAUL,,1,1,HERICOURT,2137,070,1,47.578633572829,true,/fr_FR/centre/centre-securitest-hericourt-2137,6.768804,CENTRE SECURITEST,,70400,
+64 AVENUE ALFRED LEFRANÇOIS,,1,,TOURCOING,2129,059,1,50.717250645542,true,/fr_FR/centre/centre-objectifcode-tourcoing-2129,3.1693813425568,CENTRE OBJECTIFCODE,,59200,
+12 RUE DE HUNINGUE,,1,1,SAINT LOUIS,2147,068,1,47.587276004166,true,/fr_FR/centre/centre-objectifcode-2-saint-louis-2147,7.5660384685506,CENTRE OBJECTIFCODE 2,,68300,
+797 RUE LUCIEN QUEREY,,1,0,BERNAY,2209,027,1,49.07443186694,true,/fr_FR/centre/centre-securitest-bernay-2209,0.5829388088336,CENTRE SECURITEST,,27300,
+21 CHAUSSEE BOCQUAINE ,,1,1,REIMS,2186,051,1,49.2491043,true,/fr_FR/centre/centre-objectifcode-reims-2186,4.0217067,CENTRE OBJECTIFCODE ,,51100,
+32 BIS RUE DE L HOPITAL,,1,0,TONNERRE,2117,089,1,47.856285850718,true,/fr_FR/centre/centre-objectifcode-tonnerre-2117,3.9745459685619,CENTRE OBJECTIFCODE,,89700,
+10 RUE DE LORRAINE,,1,1,GERARDMER,2213,088,1,48.077503411659,true,/fr_FR/centre/centre-securitest-gerardmer-2213,6.8815677415834,CENTRE SECURITEST,,88400,
+4 RUE DES CAPUCINS,BP70784,1,1,COMPIEGNE,2170,060,1,49.41454441919,true,/fr_FR/centre/centre-objectifcode-compiegne-2170,2.8205514397932,CENTRE OBJECTIFCODE,,60207,
+7 RUE DE LA GARE,,1,0,CHATEAUROUX,2164,036,,46.8116064,true,/fr_FR/centre/centre-objectifcode-chateauroux-2164,1.6952557,CENTRE OBJECTIFCODE,,36000,
+13 RUE DORIAN,,1,,FIRMINY,2181,042,1,45.391697439208,true,/fr_FR/centre/centre-objectifcode-firminy-2181,4.2753649549111,CENTRE OBJECTIFCODE,,42700,
+36 CHEMIN DE LA FERME DE L OISEAU,,4,0,REMIREMONT,2221,088,1,48.008173348025,true,/fr_FR/centre/centre-objectifcode-remiremont-2221,6.6071437839098,CENTRE OBJECTIFCODE,,88200,
+PLACE DE L ANCIENNE GARE,,10,0,L ISLE JOURDAIN,2243,086,1,46.23717565,true,/fr_FR/centre/salle-de-l-ancienne-gare-l-isle-jourdain-2243,0.68347088789833,SALLE DE L ANCIENNE GARE,,86150,
+ZA ROUTE DE JUVIGNY,,1,0,TILLY SUR SEULLES,2207,014,1,49.165045763865,true,/fr_FR/centre/centre-autosecurite-tilly-sur-seulles-2207,-0.61991171738774,CENTRE AUTOSECURITE,,14250,
+33 RUE DUBOIS CRANCE,,1,1,CHARLEVILLE MEZIERES,2171,008,1,49.770427132566,true,/fr_FR/centre/centre-objectifcode-ligne-directe-charleville-mezieres-2171,4.7148284863644,CENTRE OBJECTIFCODE / LIGNE DIRECTE,,08000,
+PLACE DU GENERAL DE GAULLE,,10,0,NOUVION EN THIERACHE,2253,002,1,50.0166673,true,/fr_FR/centre/mairie-du-nouvion-en-thierache-nouvion-en-thierache-2253,3.7846749,MAIRIE DU NOUVION EN THIERACHE,,02170,
+83 AVENUE MARCELIN BERTHELOT,,1,0,LE BOUSCAT,2127,033,1,44.864610102223,true,/fr_FR/centre/centre-auto-bilan-bordeaux-nord-le-bouscat-2127,-0.58159022887972,CENTRE AUTO BILAN BORDEAUX NORD,,33110,
+188 ROUTE DE GRIMARD ,,1,0,CREON,2156,033,1,44.7641649,true,/fr_FR/centre/centre-objectifcode-creon-2156,-0.3326901,CENTRE OBJECTIFCODE,,33670,
+6 RUE DU PASTEUR RENNES,,1,1,SAUVETERRE DE BEARN ,2110,064,1,43.400308465681,true,/fr_FR/centre/centre-objectifcode-sauveterre-de-bearn-2110,-0.94199734511228,CENTRE OBJECTIFCODE,,64390,
+2 ROUTE DE BAYONNE,,1,0,SUSMIOU,2230,064,1,43.3157449,true,/fr_FR/centre/centre-securitest-susmiou-2230,-0.7689209,CENTRE SECURITEST,,64191,
+5 ALLEE DES CYTISES,ZI DU CHAZELAS,1,1,BARCELONNETTE,2208,004,1,44.387373990135,true,/fr_FR/centre/autosecurite-barcelonnette-2208,6.6337242972556,AUTOSECURITE,,04400,
+67 RUE ALEXANDRE BERARD,,1,1,AMBERIEU EN BUGEY,2049,001,1,45.96298015749,true,/fr_FR/centre/centre-objectifcode-amberieu-en-bugey-2049,5.3563252530885,CENTRE OBJECTIFCODE ,,01500,
+9 RUE DES PAMPRES,,1,1,MIRECOURT,2250,088,1,48.301199056032,true,/fr_FR/centre/centre-objectifcode-mirecourt-2250,6.1400705267248,CENTRE OBJECTIFCODE,,88500,
+280 RUE DE VERDUN,,1,,VITTEL,2235,088,1,48.201063696836,true,/fr_FR/centre/centre-objectifcode-vittel-2235,5.9463436974118,CENTRE OBJECTIFCODE,,88800,
+13 RUE DE MARIENAU,,5,1,FORBACH,2242,057,1,49.180270097339,true,/fr_FR/centre/centre-objectifcode-forbach-2242,6.8855503667708,CENTRE OBJECTIFCODE,,57600,
+92 RUE CHEVALIER DE LA BARRE ,,1,0,BEGLES,2155,033,,44.803184990608,true,/fr_FR/centre/centre-objectifcode-begles-2155,-0.54601628828721,CENTRE OBJECTIFCODE,,33130,
+2 AVENUE WINSTON CHURCHILL,,1,1,SUCY EN BRIE,2163,094,1,48.77219273279,true,/fr_FR/centre/centre-objectifcode-sucy-en-brie-2163,2.5201606750488,CENTRE OBJECTIFCODE,,94370,
+1 AVENUE MARIUS RUINAT,,4,0,MARIGNANE,2231,013,1,43.4196305,true,/fr_FR/centre/store-objectifcode-marignane-2231,5.2373849,STORE OBJECTIFCODE,,13700,
+73 RUE PAUL BELLAMY,,5,,NANTES,2205,044,1,47.225697489877,true,/fr_FR/centre/centre-objectifcode-nantes-2205,-1.5595127872877,CENTRE OBJECTIFCODE,,44000,
+263 AVENUE DES XVIEMES JEUX OLYMPIQUES,,1,,ALBERTVILLE,2191,073,1,45.66196441115,true,/fr_FR/centre/auto-controle-albertville-2191,6.3747203328778,AUTO CONTROLE,,73200,
+ZA DU BOIS DE L ARC ,,1,0,YERVILLE,2251,076,1,49.660497219186,true,/fr_FR/centre/centre-autosecurite-yerville-2251,0.88286319627869,CENTRE AUTOSECURITE,,76760,
+71 ROUTE DE BISCHWILLER,,1,,HAGUENAU,2255,067,1,48.807093130903,true,/fr_FR/centre/centre-objectifcode-haguenau-2255,7.8040840114009,CENTRE OBJECTIFCODE,,67500,
+14 CHEMIN DE LA NORVILLE,,1,0,MAROLLES EN HUREPOIX,2211,091,1,48.570689167635,true,/fr_FR/centre/centre-autosecurite-marolles-en-hurepoix-2211,2.2919171635807,CENTRE AUTOSECURITE,,91630,
+ROUTE DE PONTCHATEAU,,1,,SAINT GILDAS DES BOIS,2217,044,1,47.506591111568,true,/fr_FR/centre/centre-securitest-saint-gildas-des-bois-2217,-2.0418114026174,CENTRE SECURITEST,,44530,
+6 RUE SAINT-QUENTIN,,1,0,SOISSONS,2239,002,1,49.382698423319,true,/fr_FR/centre/centre-objectifcode-soissons-2239,3.3292866407484,CENTRE OBJECTIFCODE ,,02200,
+8 AVENUE DE LA GARE,,1,,SAINT PRIEST,2247,069,1,45.688938700473,true,/fr_FR/centre/centre-objectifcode-gare-garibaldi-saint-priest-2247,4.935686670047,CENTRE OBJECTIFCODE GARE GARIBALDI,,69800,
+46 RUE SAINT LOUIS,,5,0,EVREUX,2257,027,1,49.024986757641,true,/fr_FR/centre/store-objectifcode-evreux-2257,1.1538838810384,STORE OBJECTIFCODE,,27000,
+23 RUE DU LYONNAIS,,1,,SAINT PRIEST,2234,069,1,45.696014728607,true,/fr_FR/centre/centre-objectifcode-berliet-gare-saint-priest-2234,4.9172590819665,CENTRE OBJECTIFCODE BERLIET GARE,,69800,
+47 RUE DE L ALMA,,6,0,COURBEVOIE,2245,092,1,48.896814368019,true,/fr_FR/centre/centre-objectifcode-courbevoie-2245,2.2539482787981,CENTRE OBJECTIFCODE,,92400,
+68 RUE MARCEL BRUNELIERE,,1,,MACHECOUL,2201,044,1,46.97996743462,true,/fr_FR/centre/centre-autosecurite-machecoul-2201,-1.8085618449687,CENTRE AUTOSECURITE,,44270,
+1 AVENUE DE LA LIBERATION,,3,0,LORMONT,2252,033,1,44.871124069856,true,/fr_FR/centre/centre-objectifcode-lormont-2252,-0.52005368637437,CENTRE OBJECTIFCODE ,,33310,
+109 RUE PAUL DOUMER,,4,1,MONTARGIS,2218,045,1,48.000662420314,true,/fr_FR/centre/store-objectifcode-montargis-2218,2.7425587177277,STORE OBJECTIFCODE,,45200,
+ZI 3 RUE LAVOISIER,A COTER D EDF,1,0,ELNE,2266,066,1,42.609483797195,true,/fr_FR/centre/centre-autosecurite-elne-2266,2.9762121981666,CENTRE AUTOSECURITE,,66200,
+16 RUE DES MARCHAUX,,1,,SAINTE MAURE DE TOURAINE,2262,037,1,47.104655244339,true,/fr_FR/centre/centre-securitest-sainte-maure-de-touraine-2262,0.61595254018221,CENTRE SECURITEST,,37800,
+6 AVENUE DE LA MAIRIE,,1,,FROTEY LES VESOUL,2223,070,1,47.626763318151,true,/fr_FR/centre/centre-securitest-frotey-les-vesoul-2223,6.1771844820461,CENTRE SECURITEST,,70000,
+9 RUE BERTHIONNERE,,1,1,SAINTES ,2260,017,1,45.745638820603,true,/fr_FR/centre/centre-objectifcode-saintes-2260,-0.63765227794647,CENTRE OBJECTIFCODE ,,17100,
+35 RUE DE LA PRAIRIE,,1,0,CHATEAU THIERRY,2237,002,1,49.038305400318,true,/fr_FR/centre/centre-objectifcode-chateau-thierry-2237,3.3962994134744,CENTRE OBJECTIFCODE,,02400,
+25 RUE GAMBETTA ,,1,1,EPERNAY,2065,051,1,49.0445707,true,/fr_FR/centre/centre-objectifcode-epernay-2065,3.9577222,CENTRE OBJECTIFCODE ,,51200,
+38A RUE DE LA REPUBLIQUE,,1,,GUEBWILLER,2238,068,,47.907879399103,true,/fr_FR/centre/centre-objectifcode-guebwiller-2238,7.2133906839055,CENTRE OBJECTIFCODE,,68500,
+6 RUE JACQUART,,2,0,PETITE FORET,2284,059,1,50.382597930267,true,/fr_FR/centre/centre-objectifcode-petite-foret-2284,3.4745329974869,CENTRE OBJECTIFCODE ,,59494,
+17  RUE SADI CARNOT,,1,1,LUNEVILLE,2263,054,1,48.589225828747,true,/fr_FR/centre/centre-objectifcode-luneville-2263,6.4966949978577,CENTRE OBJECTIFCODE,,54300,
+1 AVENUE ARMEE LECLERC,,1,,VENDEUVRE SUR BARSE,2273,010,1,48.237778029863,true,/fr_FR/centre/centre-autosecurite-vendeuvre-sur-barse-2273,4.4646708130962,CENTRE AUTOSECURITE,,10140,
+RUE DES METIERS,,1,1,PONTAILLER SUR SAONE,2286,021,1,47.314869708042,true,/fr_FR/centre/centre-securitest-pontailler-sur-saone-2286,5.4010455401888,CENTRE SECURITEST,,21270,
+193 RUE MARCEL MERIEUX,,1,,LYON,2270,069,1,45.733991894212,true,/fr_FR/centre/centre-objectifcode-lyon-2270,4.8298393123894,CENTRE OBJECTIFCODE,,69007,
+20 RUE GEORGES BARRES,,1,0,BORDEAUX,2287,033,1,44.8872633,true,/fr_FR/centre/centre-objectifcode-bordeaux-2287,-0.5469835,CENTRE OBJECTIFCODE,,33300,
+20 RUE DE LA POSTE,,1,,SAINT PHILBERT DE GRAND LIEU,2271,044,1,47.037045578807,true,/fr_FR/centre/centre-objectifcode-saint-philbert-de-grand-lieu-2271,-1.6414437598199,CENTRE OBJECTIFCODE,,44310,
+86 RUE BATTANT,,1,,BESANCON,2227,025,1,47.24317778777,true,/fr_FR/centre/centre-objectifcode-besancon-2227,6.0215372550423,CENTRE OBJECTIFCODE,,25000,
+1 CHEMIN DE LA TREILLE,,1,0,VIVONNE ,2233,086,1,46.425580963072,true,/fr_FR/centre/centre-securitest-vivonne-2233,0.25713339826171,CENTRE SECURITEST,,86370,
+6 AVENUE DE LA LIBERATION,,4,,GRANVILLE,2293,050,1,48.839118784959,true,/fr_FR/centre/centre-objectifcode-liberation-granville-2293,-1.597734559621,CENTRE OBJECTIFCODE LIBERATION,,50400,
+21 RUE GEORGE JOYEUX,,1,1,ECOUEN,2308,095,1,49.018807545785,true,/fr_FR/centre/centre-objectifcode-ecouen-2308,2.3813677114077,CENTRE OBJECTIFCODE,,95440,
+3 RUE MARISE BASTIE CACHIN,,1,0,IGNY,2265,091,1,48.731528025502,true,/fr_FR/centre/centre-autosur-igny-2265,2.2351873174907,CENTRE AUTOSUR,,91430,
+39 AVENUE ANDRE LECOQ,,1,1,LIMAY,2267,078,1,48.996462582175,true,/fr_FR/centre/ct-auto-limay-limay-2267,1.724277456185,CT AUTO LIMAY,,78520,
+2 ROUTE DE ROUEN,,1,1,SAINT LAURENT EN CAUX,2179,076,1,49.751002740277,true,/fr_FR/centre/centre-securitest-saint-laurent-en-caux-2179,0.8808081541715,CENTRE SECURITEST,,76560,
+16 RUE CHOPIN,,4,0,MONTROUGE,2307,092,1,48.812258992796,true,/fr_FR/centre/centre-objectifcode-montrouge-2307,2.302294955576,CENTRE OBJECTIFCODE,,92120,
+31 RUE DE DOUAI,,1,0,PARIS,2295,075,1,48.882624585944,true,/fr_FR/centre/centre-objectifcode-paris-9-paris-2295,2.3325579974409,CENTRE OBJECTIFCODE PARIS 9,,75009,
+16 BOULEVARD DES NATIONS,,1,0,BOURGUEBUS,2310,014,1,49.127951347346,true,/fr_FR/centre/centre-objectifcode-bourguebus-2310,-0.30518854963042,CENTRE OBJECTIFCODE,,14540,
+3 PLACE DU CAPITOLE ,MEETING MOUVEMENT,1,0,TOULOUSE,2241,031,1,43.603886273471,true,/fr_FR/centre/centre-objectifcode-capitole-toulouse-2241,1.4437143999974,CENTRE OBJECTIFCODE CAPITOLE,,31000,
+11 RUE DES POISSONNIERS,,8,0,CHALONS EN CHAMPAGNE,2297,051,1,48.9555174,true,/fr_FR/centre/store-objectifcode-chalons-en-champagne-2297,4.3613468,STORE OBJECTIFCODE ,,51000,
+9 - 11 BOULEVARD DU LUXEMBOURG,,1,1,AVRANCHES,2199,050,1,48.678420977064,true,/fr_FR/centre/centre-objectifcode-avranches-2199,-1.3548195718849,CENTRE OBJECTIFCODE,,50300,
+BOULEVARD LOUIS BARTHOU,LOCAUX L AUTOMOBILE CLUB LORRAIN,3,,VANDOEUVRE LES  NANCY,2305,054,1,48.670852908308,true,/fr_FR/centre/centre-verif-autos-vandoeuvre-les-nancy-2305,6.1871528844065,CENTRE VERIF AUTOS,,54500,
+27 RUE GAMBETTA ,,1,1,SAINT PALAIS,2111,064,1,43.326622,true,/fr_FR/centre/centre-objectifcode-saint-palais-2111,-1.0341493,CENTRE OBJECTIFCODE,,64120,
+53 BIS RUE SAINT JEAN,,1,,NEUFCHATEAU,2268,088,1,48.354783275696,true,/fr_FR/centre/centre-objectifcode-neufchateau-2268,5.6933298555614,CENTRE OBJECTIFCODE,,88300,
+33 RUE DES FRERES BAILLEUL,,1,,LAIGNE EN BELIN,2289,072,1,47.877981486455,true,/fr_FR/centre/centre-securitest-laigne-en-belin-2289,0.22379945554637,CENTRE SECURITEST,,72220,
+15 RUE DE LA SABLIERE,,10,0,FONTENAY LE COMTE ,2321,085,,46.468525548749,true,/fr_FR/centre/maison-des-associations-fontenay-le-comte-2321,-0.79514733050635,MAISON DES ASSOCIATIONS ,,85200,
+PK 17,RN1 LIEU DIT  SABLANCE,5,0,MACOURIA,2091,973,1,4.9387756845625,true,/fr_FR/centre/centre-securitest-macouria-2091,-52.409840185621,CENTRE SECURITEST,,97355,
+35 RUE DE LA REPUBLIQUE ,PRES DE LA BANQUE POSTALE,10,0,FORGES LES EAUX ,2325,076,1,49.611877832348,true,/fr_FR/centre/la-halle-au-beurre-forges-les-eaux-2325,1.54353899932,LA HALLE AU BEURRE ,,76440,
+ZAC DE LA SOLERE,,1,1,SAULXURES LES NANCY,2329,054,1,48.699906,true,/fr_FR/centre/centre-objectifcode-saulxures-les-nancy-2329,6.247068,CENTRE OBJECTIFCODE,,54420,
+12 AVENUE HENRI BARBUSSE,,4,0,MARLY,2285,059,1,50.3484546,true,/fr_FR/centre/centre-objectifcode-marly-2285,3.5481375,CENTRE OBJECTIFCODE,,59770,
+15 RUE DU PUITS DE ROCHE,,1,0,SAINT ETIENNE LES REMIREMONT,2301,088,1,48.017558040103,true,/fr_FR/centre/securitest-saint-etienne-les-remiremont-2301,6.6162907825408,SECURITEST,,88200,
+170 QUAI AUGUSTE SALESSE,,10,,SAINT CERE,2341,046,1,44.857793994591,true,/fr_FR/centre/maison-des-associations-saint-cere-2341,1.895854326619,MAISON DES ASSOCIATIONS,,46400,
+25 RUE AUGUSTE COMTE,,1,0,LIMOGES,2317,087,,45.8750675,true,/fr_FR/centre/centre-securitest-limoges-2317,1.2702406,CENTRE SECURITEST ,,87000,
+10 RUE DU LEVANT - AUTOSUR,ZONE ARTISANALE LE PILAGA,1,,BROONS,2331,022,1,48.316998707892,true,/fr_FR/centre/centre-objectifcode-autosur-broons-2331,-2.249885832517,CENTRE OBJECTIFCODE AUTOSUR,,22250,
+523 ROUTE DES BEALIERES,,1,,NOYAREY,2264,038,1,45.253803717737,true,/fr_FR/centre/centre-objectifcode-noyarey-2264,5.6252996843008,CENTRE OBJECTIFCODE,,38360,
+9 RUE MARIE DAVY,,1,1,CLAMECY,2215,058,1,47.460219277972,true,/fr_FR/centre/centre-objectifcode-clamecy-2215,3.5220003703928,CENTRE OBJECTIFCODE,,58500,
+523 AVENUE JUSTIN BEC,ZAC DU MIJOULAN,1,0,SAINT GEORGES D ORQUES,2292,034,1,43.626676158908,true,/fr_FR/centre/centre-securitest-saint-georges-d-orques-2292,3.7683899971508,CENTRE SECURITEST,,34680,
+12 RUE DE L HERMINETTE,,1,,MONTFORT SUR MEU,2338,035,1,48.137202177012,true,/fr_FR/centre/centre-auto-securite-montfort-sur-meu-2338,-1.9404788156105,CENTRE AUTO SECURITE,,35160,
+20 PLACE DU MARCHE,,1,,PLUVIGNER,2332,056,1,47.775686092613,true,/fr_FR/centre/centre-objectifcode-pluvigner-2332,-3.0099054021269,CENTRE OBJECTIFCODE,,56330,
+130 AVENUE LEONARD DE VINCI,,1,1,LA ROCHE SUR YON,2314,085,,46.651254731572,true,/fr_FR/centre/centre-securitest-la-roche-sur-yon-2314,-1.4322726021618,CENTRE SECURITEST,,85000,
+4 BOULEVARD GAMBETTA,,1,0,GRENOBLE,2336,038,1,45.191691443599,true,/fr_FR/centre/centre-objectifcode-gambetta-grenoble-2336,5.7208519419689,CENTRE OBJECTIFCODE GAMBETTA,,38000,
+46 AVENUE DU GENERAL DE GAULLE,,1,0,SAINT PAUL TROIS CHATEAUX,2327,026,1,44.3459518,true,/fr_FR/centre/centre-autosecurite-saint-paul-trois-chateaux-2327,4.7577458,CENTRE AUTOSECURITE ,,26130,
+ROUTE DE PAGNY,,1,0,SEURRE,2269,021,1,47.011160605292,true,/fr_FR/centre/autosecurite-seurrois-seurre-2269,5.1578028843543,AUTOSECURITE SEURROIS,,21250,
+9 CHEMIN D EAU,LA SALINE,4,0,SAINT PAUL,2311,974,1,-21.086261046222,true,/fr_FR/centre/centre-securitest-saint-paul-2311,55.27393102625,CENTRE SECURITEST,,97422,
+87 ROUTE DU PONT,,3,0,SAINT ANDRE,2313,974,1,-20.975476128637,true,/fr_FR/centre/centre-objectifcode-saint-benoit-saint-andre-2313,55.645392397413,CENTRE OBJECTIFCODE SAINT BENOIT,,97440,
+287 RUE BARTHELEMY THIMONNIER,,1,1,BRIGNAIS,2320,069,1,45.686743773474,true,/fr_FR/centre/centre-objectifcode-brignais-2320,4.7664437554788,CENTRE OBJECTIFCODE,,69530,
+IMPASSE DE L AVENIR,FRANCE AUTOS SELECTIONS,1,0,SAINT GILLES,2339,030,,43.669571969056,true,/fr_FR/centre/centre-objectifcode-saint-gilles-2339,4.4459462719228,CENTRE OBJECTIFCODE ,,30800,
+3854 RUE DU GRAND CHEMIN,,1,0,LA GORGUE,2197,059,1,50.608231571763,true,/fr_FR/centre/centre-objectifcode-renault-la-gorgue-2197,2.7488992398454,CENTRE OBJECTIFCODE - RENAULT,,59253,
+16 RUE EUGENE DELACROIX,,1,1,STRASBOURG,2345,067,1,48.567254,true,/fr_FR/centre/centre-objectifcode-elsau-strasbourg-2345,7.728906,CENTRE OBJECTIFCODE ELSAU,,67200,
+136 ROUTE DE DIEPPE,,1,0,NOTRE DAME DE BONDEVILLE ,2323,076,1,49.4830659,true,/fr_FR/centre/centre-objectifcode-notre-dame-de-bondeville-2323,1.0485267,CENTRE OBJECTIFCODE ,,76960,
+231 AVENUE GABRIEL PERI,,1,0,MONTESSON,2353,078,1,48.928575731912,true,/fr_FR/centre/centre-autosecurite-montesson-2353,2.1418941020966,CENTRE AUTOSECURITE,,78360,
+1 AVENUE PASTEUR,,1,1,SEMUR EN AUXOIS,2347,021,1,47.49596795419,true,/fr_FR/centre/centre-objectifcode-semur-en-auxois-2347,4.3458077113594,CENTRE OBJECTIFCODE,,21140,
+2 RUE FRETOY,,1,1,COURSON LES CARRIERES,2349,089,1,47.610804540086,true,/fr_FR/centre/centre-autosecurite-courson-les-carrieres-2349,3.502432026703,CENTRE AUTOSECURITE,,89560,
+40 AVENUE DE TOULOUSE,,7,0,SALBRIS,2364,041,1,47.417620972616,true,/fr_FR/centre/centre-autosecurite-salbris-2364,2.053215340192,CENTRE AUTOSECURITE,,41300,
+2 TER CARRER D EN CAVAILLES,"ZA DELA 900, DERRIERE MACDO",1,,LE BOULOU,2335,066,1,42.535322754554,true,/fr_FR/centre/centre-auto-securite-le-boulou-2335,2.8407490253448,CENTRE AUTO SECURITE,,66160,
+29 BIS ROUTE NATIONALE 20,ROUTE DEPARTEMENTALE 820,1,1,SAINT JORY,2072,031,1,43.743741296111,true,/fr_FR/centre/ct-jemas-auto-securite-saint-jory-2072,1.3693011818889,CT JEMAS AUTO SECURITE,,31790,
+28 AVENUE FOCH,,1,,AURAY,2351,056,1,47.668622154097,true,/fr_FR/centre/centre-objectifcode-auray-2351,-2.9876598021302,CENTRE OBJECTIFCODE,,56400,
+17 RUE PASQUALINI,NOUVELLES CARTES GRISES,1,0,CAGNES SUR MER,2358,006,1,43.660602698276,true,/fr_FR/centre/centre-objectifcode-cagnes-sur-mer-2358,7.1500584818159,CENTRE OBJECTIFCODE ,,06800,
+ZAC DES BREQUETTES,,1,1,GANDRANGE,2355,057,1,49.272905073765,true,/fr_FR/centre/centre-objectifcode-gandrange-2355,6.1351434667703,CENTRE OBJECTIFCODE,,57175,
+40 RUE DE BELLE DE MAI,,1,0,MARSEILLE,2357,013,1,43.310630135555,true,/fr_FR/centre/centre-objectifcode-marseille-3-marseille-2357,5.3835256972135,CENTRE OBJECTIFCODE MARSEILLE 3,,13003,
+6 RUE DE LA 1ERE ARMEE,,4,0,SIGOLSHEIM,2369,068,1,48.134192804453,true,/fr_FR/centre/centre-objectifcode-sigolsheim-2369,7.3003858132244,CENTRE OBJECTIFCODE,,68240,
+RUE DU GENERAL LECLERC,,10,0,MAROEUIL,2367,062,1,50.324452347253,true,/fr_FR/centre/salle-de-la-mairie-maroeuil-2367,2.6975378145353,SALLE DE LA MAIRIE ,,62161,
+3 BOULEVARD VICTOR HUGO,,5,0,LIMOGES,2389,087,1,45.832581472057,true,/fr_FR/centre/centre-objectifcode-limoges-2389,1.2557030000752,CENTRE OBJECTIFCODE,,87000,
+10 FAUBOURG DE BESANCON,,1,1,MONTBELIARD,2337,025,1,47.50936976646,true,/fr_FR/centre/centre-objectifcode-montbeliard-2337,6.7928183960199,CENTRE OBJECTIFCODE,,25200,
+1985 CHEMIN DE LA VALLEE ,,1,0,AUBAGNE ,2376,013,1,43.284496035279,true,/fr_FR/centre/centre-objectifcode-aubagne-2376,5.5211965156379,CENTRE OBJECTIFCODE ,,13400,
+9001 RUE DES FRERES LUMIERES,,1,1,BEGLES,2375,033,1,44.792105449467,true,/fr_FR/centre/centre-autosecurite-begles-2375,-0.53448258928362,CENTRE AUTOSECURITE,,33130,
+2 - 4 PLACE SAINT MARTIN,,1,0,SAINT JAMES,2360,050,1,48.523424067212,true,/fr_FR/centre/centre-objectifcode-saint-james-2360,-1.3224574444332,CENTRE OBJECTIFCODE,,50240,
+209 RUE SAINT PIERRE,,1,0,MARSEILLE,2390,013,1,43.292700803162,true,/fr_FR/centre/centre-objectifcode-marseille-5-marseille-2390,5.3977318313406,CENTRE OBJECTIFCODE MARSEILLE 5,,13005,
+28 QUAI DE DOGNEVILLE,,10,1,EPINAL,2363,088,1,48.182244390501,true,/fr_FR/centre/centre-objectifcode-epinal-2363,6.4468748420609,CENTRE OBJECTIFCODE,,88000,
+2 RUE PIERRE EMMANUEL,,1,0,DOMONT,2373,095,1,49.02668116957,true,/fr_FR/centre/centre-objectifcode-domont-2373,2.3462656477727,CENTRE OBJECTIFCODE,,95330,
+50 AVENUE MONTAIGNE,,1,1,SAINT MEDARD EN JALLES,2391,033,,44.888047898632,true,/fr_FR/centre/centre-objectifcode-saint-medard-en-jalles-2391,-0.70305597360906,CENTRE OBJECTIFCODE ,,33160,
+55 BIS RUE DE RHINAU,,1,1,BOOFZHEIM,2382,067,1,48.328720667788,true,/fr_FR/centre/centre-securitest-boofzheim-2382,7.6909264967331,CENTRE SECURITEST,,67860,
+11 RUE JEAN JAURES,,5,0,ARNOUVILLE,2401,095,1,48.995338016693,true,/fr_FR/centre/store-objectifcode-arnouville-2401,2.4197213725711,STORE OBJECTIFCODE,,95400,
+67 RUE SAINT FRANCOIS DE SALES,,10,1,CHAMBERY,264,073,1,45.566814,true,/fr_FR/centre/maison-des-associations-chambery-264,5.925366,MAISON DES ASSOCIATIONS,,73011,
+7 PLACE DU PARVIS NOTRE DAME,,10,1,COUTANCES,2371,050,1,49.047632663569,true,/fr_FR/centre/mairie-de-coutances-coutances-2371,-1.4456284444164,MAIRIE DE COUTANCES,,50200,
+100 COURS DE QUEBEC,,6,0,BORDEAUX,2359,033,1,44.882976315601,true,/fr_FR/centre/centre-objectifcode-quebec-bordeaux-2359,-0.56943627579856,CENTRE OBJECTIFCODE  QUEBEC,,33300,
+3 AVENUE DE COUVILLE,QUERVILLE,10,0,CHERBOURG EN COTENTIN,2420,050,1,49.661707856601,true,/fr_FR/centre/mairie-salle-des-veillees-cherbourg-en-cotentin-2420,-1.6979935185358,MAIRIE - SALLE DES VEILLEES,,50460,
+4 AVENUE JOLAIN,,1,0,SAINT NICOLAS DE PORT,2386,054,1,48.62529297845,true,/fr_FR/centre/centre-objectifcode-saint-nicolas-de-port-2386,6.2931245679138,CENTRE OBJECTIFCODE,,54210,
+RUE DES METIERS,,1,1,FRANCALTROFF,2379,057,1,48.952682162058,true,/fr_FR/centre/centre-securitest-francaltroff-2379,6.7924040121061,CENTRE SECURITEST,,57670,
+28 RUE DU GENERAL DE GAULLE,,1,0,SARZEAU,2395,056,1,47.526813574038,true,/fr_FR/centre/centre-objectifcode-sarzeau-2395,-2.7707977609789,CENTRE OBJECTIFCODE,,56370,
+112 ROUTE DE NANGIS,,1,0,VAUX LE PENIL,2407,077,1,48.540814101252,true,/fr_FR/centre/centre-autosecurite-vaux-le-penil-2407,2.6798648568226,CENTRE AUTOSECURITE,,77000,
+34 RUE DES AUBEPINES,ZAC LE MOULIN SAINT-ANTOINE,1,0,NANGIS,2419,077,1,48.555219483064,true,/fr_FR/centre/centre-autosecurite-nangis-2419,3.0252178246184,CENTRE AUTOSECURITE,,77370,
+144 AVENUE EUGENE VARLIN,,7,1,VILLEPARISIS,2415,077,1,48.950631165717,true,/fr_FR/centre/store-objectifcode-villeparisis-2415,2.6010907584523,STORE OBJECTIFCODE,,77270,
+3 PLACE PRASLIN,,5,1,MELUN,2417,077,1,48.536751138071,true,/fr_FR/centre/store-objectifcode-melun-2417,2.6580667181702,STORE OBJECTIFCODE,,77000,
+32 RUE MALLET STEVENS, FORUM VILLE ACTIVE  BATIMENT A,1,0,NIMES,2277,030,1,43.813150902091,true,/fr_FR/centre/centre-objectifcode-nimes-2277,4.3484999143583,CENTRE OBJECTIFCODE,,30000,
+21 RUE PAUL CHATROUSSE,,5,0,NEUILLY SUR SEINE,2409,092,1,48.88693183797,true,/fr_FR/centre/centre-objectifcode-neuilly-sur-seine-2409,2.2599532390551,CENTRE OBJECTIFCODE,,92200,
+9 RUE NELSON MANDELA ,ZA CROIX ROUGE ,1,0,FITZ JAMES,2343,060,1,49.396719942556,true,/fr_FR/centre/centre-autosecurite-fitz-james-2343,2.4220083704507,CENTRE AUTOSECURITE,,60600,
+17 AVENUE OCTAVE BUTIN ,,10,0,MARGNY LES COMPIEGNE ,2427,060,1,49.423511073407,true,/fr_FR/centre/le-club-house-pierre-hoyez-margny-les-compiegne-2427,2.8201052113772,LE CLUB HOUSE « PIERRE HOYEZ »,,60280,
+2 ALLEE DE L ESPINOUSE,ASCOPI,1,1,BOUJAN SUR LIBRON,2383,034,1,43.365980267619,true,/fr_FR/centre/centre-objectifcode-boujan-sur-libron-2383,3.2485309676479,CENTRE OBJECTIFCODE,,34760,
+8 RUE ETIENNE DOLET,,5,1,PERSAN,2402,095,1,49.15225039751,true,/fr_FR/centre/store-objectifcode-persan-2402,2.2690415382385,STORE OBJECTIFCODE,,95340,
+1 RUE RAOULT FOLLEREAU,,2,0,BUSSY SAINT GEORGES,2430,077,1,48.835068336209,true,/fr_FR/centre/centre-objectifcode-bussy-saint-georges-2430,2.7050322108537,CENTRE OBJECTIFCODE ,,77600,
+26 PLACE DE CATALOGNE ,,1,0,BLAGNAC,2333,031,1,43.6412342,true,/fr_FR/centre/centre-objectifcode-blagnac-2333,1.379391,CENTRE OBJECTIFCODE ,,31700,
+4 BIS PLACE DU 8 MAI 1945,,1,1,QUESTEMBERT,2399,056,1,47.662700964893,true,/fr_FR/centre/centre-objectifcode-questembert-2399,-2.455588850909,CENTRE OBJECTIFCODE,,56230,
+220 AVENUE DU MARECHAL JUIN,INSTEP,1,0,SETE,2275,034,1,43.4066512,true,/fr_FR/centre/centre-objectifcode-juin-sete-2275,3.7037484,CENTRE OBJECTIFCODE JUIN,,34200,
+56 ROUTE DE CORBEIL,,1,0,VILLEMOISSON SUR ORGE ,2433,091,1,48.662378298316,true,/fr_FR/centre/centre-securitest-villemoisson-sur-orge-2433,2.3402091665724,CENTRE SECURITEST,,91360,
+18 RUE DE LA MARNE,,4,0,HOUILLES ,2429,078,1,48.924551486032,true,/fr_FR/centre/centre-objectifcode-houilles-2429,2.1853839288662,CENTRE OBJECTIFCODE,,78800,
+12 PLACE DE LA REPUBLIQUE,,1,0,ARCIS SUR AUBE,2403,010,1,48.536124373458,true,/fr_FR/centre/centre-objectifcode-arcis-sur-aube-2403,4.142053096744,CENTRE OBJECTIFCODE,,10700,
+10 RUE PAUL ELUARD,,1,0,SAINT DENIS,2436,093,1,48.938893711821,true,/fr_FR/centre/centre-objectifcode-paul-eluard-saint-denis-2436,2.3496988840516,CENTRE OBJECTIFCODE PAUL ELUARD,,93200,
+28 RUE MARECHAL LECLERC,,1,0,LOCMINE,2393,056,1,47.881419215786,true,/fr_FR/centre/centre-objectifcode-locmine-2393,-2.8289052066537,CENTRE OBJECTIFCODE,,56500,
+54 RUE LEDRU ROLLIN,,1,1,LUZY,2400,058,1,46.791232237527,true,/fr_FR/centre/centre-objectifcode-luzy-2400,3.959306683158,CENTRE OBJECTIFCODE,,58170,
+4 RUE SAINT FRANCOIS ,,4,0,SALON DE PROVENCE ,2388,013,1,43.643245133742,true,/fr_FR/centre/centre-objectifcode-salon-de-provence-2388,5.0938969678676,CENTRE OBJECTIFCODE ,,13300,
+6 PLACES DES CHENES VERTS ,,10,0,SAINT ROGATIEN,2438,017,1,46.14900405969,true,/fr_FR/centre/salle-des-chenes-verts-saint-rogatien-2438,-1.0712818180183,SALLE DES CHENES VERTS ,,17220,
+6 PLACE DES CHENES VERTS,,8,0,SAINT ROGATIEN,2439,017,1,46.148981761346,true,/fr_FR/centre/centre-objectifcode-saint-rogatien-2439,-1.0713354621986,CENTRE OBJECTIFCODE,,17220,
+1 TER BOULEVARD BERTHELOT,,10,0,ANGOULEME,2443,016,1,45.649468970504,true,/fr_FR/centre/espace-franquin-angouleme-2443,0.15975181059868,ESPACE FRANQUIN,,16000,
+3 A ZONE CARREFOUR DE L ARTOIS,RD950,1,0,FRESNES LES MONTAUBAN,2259,062,1,50.334640052672,true,/fr_FR/centre/centre-objectifcode-fresnes-les-montauban-2259,2.9270550335896,CENTRE OBJECTIFCODE ,,62490,
+3 RUE PASTEUR,,1,0,BIZANOS,2423,064,1,43.291817281661,true,/fr_FR/centre/centre-securitest-bizanos-2423,-0.35691470097723,CENTRE SECURITEST,,64320,
+10 RUE DE L EXPANSION,,1,0,OBERNAI,2380,067,1,48.453831762829,true,/fr_FR/centre/centre-securitest-obernai-2380,7.4927534954028,CENTRE SECURITEST,,67210,
+CHEMIN CROISEE BELLEVUE,,1,1,ALBERT,2169,080,1,49.995541545819,true,/fr_FR/centre/centre-securitest-albert-2169,2.6581726543487,CENTRE SECURITEST,,80300,
+5 ALLEE DES CYTISES,,1,0,CHASSENEUIL DU POITOU,2413,086,1,46.671269734224,true,/fr_FR/centre/centre-objectifcode-chasseneuil-du-poitou-2413,0.37719822880469,CENTRE OBJECTIFCODE,,86360,
+IMMEUBLE L ODYSSEE ,ZAC1 COLIN,10,1,PETIT BOURG,2424,971,,16.201076829007,true,/fr_FR/centre/centre-objectifcode-petit-bourg-2424,-61.606973376569,CENTRE OBJECTIFCODE,,97170,
+18 PLACE DE VERDUN,,5,1,TARBES,2451,065,1,43.233518188362,true,/fr_FR/centre/tarbes-hotel-foch-tarbes-2451,0.074416123728654,TARBES HOTEL FOCH,,65000,
+10 RUE DU 8 MAI,THAU FINANCES,1,0,SETE,2445,034,1,43.401850909251,true,/fr_FR/centre/centre-objectifcode-8-mai-sete-2445,3.6976684835027,CENTRE OBJECTIFCODE 8 MAI ,,34200,
+60 RUE PIERRE CORNEILLE ,,5,1,SOTTEVILLE LES ROUEN,2412,076,1,49.421679590044,true,/fr_FR/centre/centre-objectifcode-sotteville-les-rouen-2412,1.0919503692815,CENTRE OBJECTIFCODE ,,76300,
+20 RUE DE LA REPUBLIQUE,,8,1,ELBEUF,2411,076,1,49.29059992103,true,/fr_FR/centre/centre-objectifcode-elbeuf-2411,1.0015374973822,CENTRE OBJECTIFCODE ,,76500,
+14 D CHEMIN DES AMARYLLIS ,AGENCE AXA BATILENT D RDC,1,0,MARSEILLE 12,2459,013,1,43.317168672407,true,/fr_FR/centre/centre-objectifcode-marseille-12-marseille-12-2459,5.4396062683702,CENTRE OBJECTIFCODE MARSEILLE 12,,13012,
+2 BIS RUE DE LA PORTE DROUAISE,,1,0,CHARTRES,2421,028,1,48.452311120121,true,/fr_FR/centre/centre-objectifcode-chartres-2421,1.4888737859633,CENTRE OBJECTIFCODE,,28000,
+1 RUE DES CAMPANULES,,1,0,LOGNES,2385,077,1,48.83365133034,true,/fr_FR/centre/centre-securitest-lognes-2385,2.6375148030922,CENTRE SECURITEST,,77185,
+9 PLACE DE METZ,,1,1,GRENOBLE,2361,038,1,45.187278797905,true,/fr_FR/centre/centre-objectifcode-metz-grenoble-2361,5.7309063834041,CENTRE OBJECTIFCODE METZ,,38000,
+6 PLACE SALVADOR,,1,1,LE PONT DE CLAIX,2365,038,1,45.123034681789,true,/fr_FR/centre/centre-objectifcode-le-pont-de-claix-2365,5.6992769977919,CENTRE OBJECTIFCODE,,38800,
+125 CHEMIN DE L OYE ,,1,1,MONTMEYRAN,2460,026,1,44.839746046642,true,/fr_FR/centre/centre-securitest-montmeyran-2460,4.9629684837757,CENTRE SECURITEST,,26120,
+PORT DE PLAISANCE DE PROPRIANO,SUR LE PARKING,10,0,PROPRIANO,2119,02A,1,41.676119050093,true,/fr_FR/centre/mairie-de-propriano-propriano-2119,8.9035545693087,MAIRIE DE PROPRIANO,,20110,
+46 RUE MONGE,,1,0,PARIS,2449,075,1,48.851943070583,true,/fr_FR/centre/centre-objectifcode-paris-05-paris-2449,2.3518478732009,CENTRE OBJECTIFCODE PARIS 05,,75005,
+15 RUE ACCHIARDI DE SAINT LEGER,,3,0,NICE,2465,006,1,43.714222647317,true,/fr_FR/centre/centre-objectifcode-agence-carte-grise-nice-2465,7.2899680683428,CENTRE OBJECTIFCODE AGENCE CARTE GRISE,,06300,
+12 RUE PAUL DOUMER,ALLIANZ,1,0,AURILLAC,2405,015,1,44.927630787481,true,/fr_FR/centre/centre-objectifcode-aurillac-2405,2.445751138889,CENTRE OBJECTIFCODE,,15000,
+3 RUE DE LA PAIX ,,1,1,GRANDE SYNTHE ,2463,059,1,51.014514066299,true,/fr_FR/centre/centre-objectifcode-allianz-grande-synthe-2463,2.3036907705526,CENTRE OBJECTIFCODE ALLIANZ ,,59760,
+37 BOULEVARD SAINTE BARBE ,,1,1,DUNKERQUE,2461,059,1,51.034729386156,true,/fr_FR/centre/centre-objectifcode-allianz-dunkerque-2461,2.3801869423276,CENTRE OBJECTIFCODE ALLIANZ,,59140,
+2 RUE DU POURQUOI PAS,ZA DE VILLEMARION,1,0,RIANTEC,2446,056,1,47.722764973677,true,/fr_FR/centre/centre-autosecurite-riantec-2446,-3.3193624032987,CENTRE AUTOSECURITE,,56670,
+6 RUE HOMERE CLEMENT,,1,0,LE FRANCOIS,2454,972,1,14.614863538098,true,/fr_FR/centre/centre-objectifcode-le-francois-2454,-60.904293290686,CENTRE OBJECTIFCODE,,97240,

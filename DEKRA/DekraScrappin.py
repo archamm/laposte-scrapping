@@ -4,12 +4,12 @@ from bs4 import BeautifulSoup
 from tqdm import tqdm
 from deepparse import parser
 import requests
+import datetime
+
+current_date = datetime.datetime.now().strftime('%Y%m%d')
 
 
 
-
-
-PATH = 'DEKRA/response.html'
 CURRENT_URL = 'https://www.le-code-dekra.fr/salles-d-examen?page='
 
 
@@ -42,11 +42,11 @@ if __name__ == '__main__':
     res = []
     address_parser = parser.AddressParser()
 
-    for i in tqdm(range(1, 16, 1)):
+    for i in tqdm(range(1, 19, 1)):
+        print(CURRENT_URL + str(i))
         page = requests.get(CURRENT_URL + str(i))
         soup = BeautifulSoup(page.text, 'html.parser')
         scrap_assos_in_one_page(soup, res, df, address_parser)
 
-    with open('DEKRA/extracts/extrat_DEKRA.json', 'w', encoding='utf-8') as f:
-        f.write(json.dumps(res, ensure_ascii=False))
-    df.to_csv('DEKRA/extracts/extrat_DEKRA_012023.csv', encoding='utf-8-sig', header=True)
+
+    df.to_csv(f'DEKRA/extracts/extrat_DEKRA_{current_date}.csv', encoding='utf-8-sig', header=True)

@@ -6,11 +6,12 @@ from deepparse import parser
 import requests
 from requests.structures import CaseInsensitiveDict
 
+import datetime
 
+current_date = datetime.datetime.now().strftime('%Y%m%d')
 
 
 REQUEST_URL = 'https://exacode.fr/api/sessions/findces?latitude=50.6138111&longitude=3.0423599&earliest=2022-08-31'
-PATH = 'DEKRA/response.html'
 
 
 def scrap_results(results, res):
@@ -40,4 +41,17 @@ if __name__ == '__main__':
     with open('EXACODE/extracts/extrat_raw_0123.csv', 'w', encoding='utf-8') as f:
         f.write(json.dumps(res, ensure_ascii=False))
 
+    df = pd.DataFrame(
+        columns=['id', 'nom',  'adresse', 'code_postal', 'ville', 'derniere_modification', 'email', 'site_web', 'numero'])
 
+    data_df = pd.json_normalize(res).drop(['agrementNumber', 'closedDays', 
+        'onDemand', 'ignoreDelaiInscr', 'cr.id', 'cr.name',	'cr.region.id', 'defaultExaminateur.id',
+        'defaultExaminateur.cr.id',	'defaultExaminateur.cr.name', 'defaultExaminateur.cr.region.id', 'defaultExaminateur.cr.region.name'], axis=1)
+
+    print(len(data_df))
+    print(data_df.head())
+    data_df = data_df.drop_duplicates()
+    print(len(data_df))
+    print(data_df.head())
+
+    data_df.to_csv(f'EXACODE/extracts/extracts_EXCODE_{current_date}.csv',encoding='utf-8-sig', header=True)

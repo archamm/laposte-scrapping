@@ -5,6 +5,9 @@ from bs4 import BeautifulSoup
 from tqdm import tqdm
 from deepparse import parser
 import requests
+import datetime
+
+current_date = datetime.datetime.now().strftime('%Y%m%d')
 
 
 
@@ -54,6 +57,4 @@ if __name__ == '__main__':
         soup = BeautifulSoup(page.text, 'html.parser')
         scrap_assos_in_one_page(soup, res, df, address_parser)
 
-    with open('POINTCODE/extracts/extrat_POINTCODE012023.json', 'w', encoding='utf-8') as f:
-        f.write(json.dumps(res, ensure_ascii=False))
-    df.to_csv('POINTCODE/extracts/extrat_POINTCODE_012023.csv', encoding='utf-8-sig', header=True)
+    df.to_csv(f'POINTCODE/extracts/extrat_POINTCODE_{current_date}.csv', encoding='utf-8-sig', header=True)

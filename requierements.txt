@@ -1,0 +1,9 @@
+pandas
+bs4
+deepparse
+requests
+urllib3==1.26.7     
+cloudpathlib
+lxml
+js2py
+tqdm
